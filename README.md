@@ -18,7 +18,10 @@ Development notes:
 
 
 ## Installation
-Part of my philosophy with building intelligence tools is that they are able to be used by people with few technological skills (like journalists and lawyers). Therefore, I make tools available vua Streamlit, which allows Python tools to be deployed online. It can be buggy, however. In ancy case, no installation is required, 
+Access the app via your browser at https://jckkrr-bellingcat-hackathon-2304-submissio-streamlit-app-4xfjl3.streamlit.app/
+
+Part of my philosophy with building intelligence tools is people with few technological skills (like journalists and lawyers) need to be able to use them. Therefore, I make my tools available via Streamlit, which allows Python scripts to be deployed online. It can be buggy, however. In ancy case, no installation is required.
+
 
 ## Usage
 

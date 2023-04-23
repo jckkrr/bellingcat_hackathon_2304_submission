@@ -1,7 +1,7 @@
 ### streamlit run "C:\Users\Jack\Documents\Python_projects\aviation\ASD-B Exchange\BELLINGCAT_HACKATHON\streamlit_app.py"
 
 import datetime
-#from geopy.geocoders import Nominatim
+from geopy.geocoders import Nominatim
 import pandas as pd
 import plotly.graph_objects as go
 import streamlit as st
@@ -60,9 +60,9 @@ st.markdown(streamlit_style, unsafe_allow_html=True)
 
 #### 
 st.write('Bellingcat Hackathon Apr 2023: Accessibility Tool')
-st.write('by Jack Kerr (Jackmaster group)')
 
 st.write('# BOMBARDIER WATCH #####')
+st.write('by Jack Kerr (Jackmaster group)')
 
 st.markdown("""---""") 
 

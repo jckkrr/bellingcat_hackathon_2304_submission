@@ -1,6 +1,3 @@
-### streamlit run "C:\Users\Jack\Documents\Python_projects\aviation\ASD-B Exchange\BELLINGCAT_HACKATHON\streamlit_app.py"
-
-#from bs4 import BeautifulSoup
 import datetime
 from geopy.geocoders import Nominatim
 import pandas as pd
@@ -9,7 +6,6 @@ import streamlit as st
 
 df = pd.read_csv('dfMERGE.csv')
 display_df = df[['hex', 'r', 'RegisteredOwners', 'Manufacturer', 'Type', 'lat_rnd', 'lon_rnd']]
-
 
 #### SUB FUNCTIONS #######################
 

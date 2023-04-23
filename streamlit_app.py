@@ -1,12 +1,15 @@
-import streamlit as st
-import pandas as pd
-from geopy.geocoders import Nominatim
-import datetime
+### streamlit run "C:\Users\Jack\Documents\Python_projects\aviation\ASD-B Exchange\BELLINGCAT_HACKATHON\streamlit_app.py"
 
+import datetime
+#from geopy.geocoders import Nominatim
+import pandas as pd
 import plotly.graph_objects as go
-import customChartDefaultStyling
+import streamlit as st
 
 ## !!!! remember file with imports    
+
+import os
+os.chdir(r'C:\Users\Jack\Documents\Python_projects\aviation\ASD-B Exchange\BELLINGCAT_HACKATHON')
 
 df = pd.read_csv('dfMERGE.csv')
 display_df = df[['hex', 'r', 'RegisteredOwners', 'Manufacturer', 'Type', 'lat_rnd', 'lon_rnd']]
@@ -36,7 +39,7 @@ def imageRetrieval(ICAOHEX):
     
     return image_url
 
-def getDisplayLocation(chosen_coords):
+'''def getDisplayLocation(chosen_coords):
     
     locator = Nominatim(user_agent="myGeocoder")
     coordinates = f"{chosen_coords[0]}, {chosen_coords[1]}"
@@ -63,7 +66,7 @@ def getDisplayLocation(chosen_coords):
 
     display_location = f'{city}, {state}, {country}'    
         
-    return display_location
+    return display_location'''
 
 
 def getBYCOMPANY(chosen_company):
@@ -139,8 +142,6 @@ fig.update_layout(
         ),
     )
 
-customChartDefaultStyling.styling(fig)
-
 fig.update_layout(
     title = 'All locations where business jets were recorded on the ground',  width = 1000, height = 700,
 )
@@ -162,8 +163,8 @@ chosen_coords = st.selectbox(
     'Choose coordinates',
     unqiue_coords)
 
-display_location = getDisplayLocation(chosen_coords)
-st.write(display_location)
+#display_location = getDisplayLocation(chosen_coords)
+#st.write(display_location)
 
 display_df_coords = display_df.loc[(display_df['lat_rnd'] == chosen_coords[0]) & (display_df['lon_rnd'] == chosen_coords[1])]
 

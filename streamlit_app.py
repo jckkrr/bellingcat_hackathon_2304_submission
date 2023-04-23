@@ -10,3 +10,7 @@ st.markdown("""---""")
 df = pd.read_csv('dfMERGE.csv')
 st.dataframe(data=df)
 
+d = st.date_input(
+    "Date",
+    datetime.date(2022, 5, 1), 
+    disabled = True)

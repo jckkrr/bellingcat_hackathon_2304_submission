@@ -2,3 +2,4 @@ streamlit
 pandas
 geopy
 plotly
+plotly.graph_objects

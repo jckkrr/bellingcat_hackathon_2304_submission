@@ -6,6 +6,7 @@ import streamlit as st
 from bs4 import BeautifulSoup
 
 df = pd.read_csv('dfMERGE.csv')
+display_df = df[['hex', 'r', 'RegisteredOwners', 'Manufacturer', 'Type', 'lat_rnd', 'lon_rnd']]
 
 #### SUB FUNCTIONS #######################
 

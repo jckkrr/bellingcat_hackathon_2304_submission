@@ -6,6 +6,6 @@ st.write('# BOMBARDIER WATCH #####')
 
 st.markdown("""---""") 
 
-df = pd.read_csv('1234.csv')
+df = pd.read_csv('http://constituent.au/dfMERGE.csv')
 st.dataframe(data=df)
 

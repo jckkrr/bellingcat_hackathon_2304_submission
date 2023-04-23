@@ -6,11 +6,6 @@ import pandas as pd
 import plotly.graph_objects as go
 import streamlit as st
 
-## !!!! remember file with imports    
-
-import os
-os.chdir(r'C:\Users\Jack\Documents\Python_projects\aviation\ASD-B Exchange\BELLINGCAT_HACKATHON')
-
 df = pd.read_csv('dfMERGE.csv')
 display_df = df[['hex', 'r', 'RegisteredOwners', 'Manufacturer', 'Type', 'lat_rnd', 'lon_rnd']]
 
@@ -95,6 +90,7 @@ st.markdown(streamlit_style, unsafe_allow_html=True)
 
 #### 
 st.write('Bellingcat Hackathon Apr 2023: Accessibility Tool')
+st.write('by Jack Kerr (Jackmaster group)')
 
 st.write('# BOMBARDIER WATCH!!! #####')
 

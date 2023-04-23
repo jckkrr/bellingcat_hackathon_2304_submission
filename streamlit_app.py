@@ -6,7 +6,6 @@ st.write('# BOMBARDIER WATCH #####')
 
 st.markdown("""---""") 
 
-DATA_URL = 'business_jet_type_codes.csv'
-df = pd.read_csv(DATA_URL)
+df = pd.read_csv('123.csv')
 st.dataframe(data=df)
 

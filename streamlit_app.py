@@ -187,7 +187,7 @@ if show_pics == 'Y':
 ####
 
 st.markdown("""---""") 
-st.write('#### Check by companies')
+st.write('#### Check by company')
 
 unique_owners = display_df['RegisteredOwners'].unique()
 

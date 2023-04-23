@@ -41,6 +41,35 @@ def getBYCOMPANY(chosen_company):
     
     return dfBYCOMPANY
 
+def getDisplayLocation(chosen_coords):
+    
+    locator = Nominatim(user_agent="myGeocoder")
+    coordinates = f"{chosen_coords[0]}, {chosen_coords[1]}"
+    
+    location = locator.reverse(coordinates, timeout=None)
+    location_raw = location.raw
+    
+    display_location = None
+    city, state, country = '-','-','-'
+
+    if 'address' in location_raw.keys():
+
+        if 'city' in location_raw['address'].keys():
+            city = location_raw['address']['city']
+
+        elif 'town' in location_raw['address'].keys():
+            city = location_raw['address']['town']
+
+        if 'state' in location_raw['address'].keys():
+            state = location_raw['address']['state']
+
+        if 'country' in location_raw['address'].keys():
+            country = location_raw['address']['country']
+
+    display_location = f'{city}, {state}, {country}'    
+        
+    return display_location
+
 ########## STYLE #################################################
 
 streamlit_style = """

@@ -188,6 +188,7 @@ if show_pics == 'Y':
 
 st.markdown("""---""") 
 st.write('#### Check by company')
+st.write('See which other registered owners were at the same airport.')
 
 unique_owners = display_df['RegisteredOwners'].unique()
 

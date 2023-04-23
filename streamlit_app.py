@@ -6,5 +6,11 @@ st.write('# BOMBARDIER WATCH #####')
 
 st.markdown("""---""") 
 
-df = pd.read_csv('dfMERGE.csv')
+DATA_URL = ('dfMERGE.csv')
+@st.cache
+def load_data():
+    data = pd.read_csv(DATA_URL)
+    return data
+df = load_data()
 st.dataframe(data=df)
+

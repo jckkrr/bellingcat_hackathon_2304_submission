@@ -1,3 +1,4 @@
+import plotly.graph_objects as go
 import streamlit as st
 
 st.write('Bellingcat Hackathon Apr 2023: Accessibility Tool')

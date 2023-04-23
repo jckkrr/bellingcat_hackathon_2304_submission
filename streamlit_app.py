@@ -178,11 +178,13 @@ show_pics = st.radio(
     horizontal = True)
 
 if show_pics == 'Y':
-    for icao in display_df_coords['hex']:
-        st.write(icao)
+    st.write('This feature currently disabled.')
 
-        image = imageRetrieval(icao)
-        st.image(image)
+    for icao in display_df_coords['hex']:        
+        
+        #st.write(icao)
+        #image = imageRetrieval(icao)
+        #st.image(image)
     
 ####
 

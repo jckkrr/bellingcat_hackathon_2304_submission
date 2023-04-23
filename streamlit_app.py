@@ -171,20 +171,6 @@ display_df_coords = display_df.loc[(display_df['lat_rnd'] == chosen_coords[0]) &
 st.dataframe(data=display_df_coords)
 
 st.markdown("""---""") 
-
-show_pics = st.radio(
-    "Show pictures of jets? (This can slow your searches)",
-    ('N', 'Y'), 
-    horizontal = True)
-
-if show_pics == 'Y':
-    st.write('This feature currently disabled.')
-
-    for icao in display_df_coords['hex']:        
-        
-        #st.write(icao)
-        #image = imageRetrieval(icao)
-        #st.image(image)
     
 ####
 

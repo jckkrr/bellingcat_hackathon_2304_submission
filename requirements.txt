@@ -3,4 +3,3 @@ pandas
 geopy
 plotly
 bs4
-BeautifulSoup

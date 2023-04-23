@@ -3,7 +3,7 @@ import datetime
 import pandas as pd
 import plotly.graph_objects as go
 import streamlit as st
-#from bs4 import BeautifulSoup
+from bs4 import BeautifulSoup
 
 df = pd.read_csv('dfMERGE.csv')
 

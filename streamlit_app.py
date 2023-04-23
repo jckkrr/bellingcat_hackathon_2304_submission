@@ -1,3 +1,5 @@
+### streamlit run "C:\Users\Jack\Documents\Python_projects\aviation\ASD-B Exchange\BELLINGCAT_HACKATHON\streamlit_app.py"
+
 import datetime
 #from geopy.geocoders import Nominatim
 import pandas as pd
@@ -6,6 +8,8 @@ import streamlit as st
 
 ## !!!! remember file with imports    
 
+import os
+os.chdir(r'C:\Users\Jack\Documents\Python_projects\aviation\ASD-B Exchange\BELLINGCAT_HACKATHON')
 
 df = pd.read_csv('dfMERGE.csv')
 display_df = df[['hex', 'r', 'RegisteredOwners', 'Manufacturer', 'Type', 'lat_rnd', 'lon_rnd']]

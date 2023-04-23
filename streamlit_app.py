@@ -91,7 +91,13 @@ st.markdown(streamlit_style, unsafe_allow_html=True)
 st.write('Bellingcat Hackathon Apr 2023: Accessibility Tool')
 
 st.write('# BOMBARDIER WATCH #####')
-st.write('by Jack Kerr (Jackmaster group)')
+st.write('by Jack Kerr (Group: Jackmaster)')
+st.write('')
+st.write('A tool to monitor the movements of business jets around the world.')
+st.write('Looks at all Bombardier, Gulfstream, Dassault and Embraer business jets, as recoreded as being "grounded".')
+st.write('Data is sourced from unflictered crowd-sourced flight-tracking service ADS-B Exchange.')
+st.write('This protype model uses data from one day, as recorded at the start of each minute.')
+
 
 st.markdown("""---""") 
 

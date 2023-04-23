@@ -76,7 +76,7 @@ streamlit_style = """
     font-family: 'Manrope', sans-serif;
     }
     .small-font {
-        font-size:9px !important;
+        font-size: 10px !important;
     }
     </style>
 """

@@ -95,7 +95,7 @@ st.write('')
 st.write('Unfiltered crowd-sourced flight-tracking service ADS-B Exchange offer an excellent view of air traffice movements. But finding out who is on board is another matter.')
 st.write('This tool provides one solution to that: by showing which of these jets arrived or departed from the same location on the same day, it amy be possible to work out who met who.')
 st.write('')
-st.write('<p class="small-font">Notes: Data rouced from ADS-B Exchange. | This protype model uses data from one day, as recorded at the start of each minute. | Results filter to only include Bombardier, Gulfstream, Dassault and Embraer business jets that are show as "gounded".</p>', unsafe_allow_html=True)
+st.write('<p class="small-font">Notes: Data rouced from ADS-B Exchange. | This protype model uses data from one day, as recorded at the start of each minute. | Results filter to only include Bombardier, Gulfstream, Dassault and Embraer business jets that are show as "grounded".</p>', unsafe_allow_html=True)
 
 st.markdown("""---""") 
 

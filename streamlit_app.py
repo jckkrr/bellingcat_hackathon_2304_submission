@@ -1,5 +1,3 @@
-### streamlit run "C:\Users\Jack\Documents\Python_projects\aviation\ASD-B Exchange\BELLINGCAT_HACKATHON\streamlit_app.py"
-
 import streamlit as st
 import pandas as pd
 from geopy.geocoders import Nominatim
@@ -9,9 +7,6 @@ import plotly.graph_objects as go
 import customChartDefaultStyling
 
 ## !!!! remember file with imports    
-
-import os
-os.chdir(r'C:\Users\Jack\Documents\Python_projects\aviation\ASD-B Exchange\BELLINGCAT_HACKATHON')
 
 df = pd.read_csv('dfMERGE.csv')
 display_df = df[['hex', 'r', 'RegisteredOwners', 'Manufacturer', 'Type', 'lat_rnd', 'lon_rnd']]

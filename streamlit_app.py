@@ -1,6 +1,6 @@
 ### streamlit run "C:\Users\Jack\Documents\Python_projects\aviation\ASD-B Exchange\BELLINGCAT_HACKATHON\streamlit_app.py"
 
-from bs4 import BeautifulSoup
+#from bs4 import BeautifulSoup
 import datetime
 from geopy.geocoders import Nominatim
 import pandas as pd

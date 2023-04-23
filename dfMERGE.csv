@@ -1,0 +1,1965 @@
+hex,flight,r,t,alt_baro,lat_rnd,lon_rnd,ICAOTypeCode,Manufacturer,OperatorFlagCode,RegisteredOwners,Type
+a03fdf,N115MF  ,N115MF,FA50,ground,-41.3,174.8,F5EX,Dassault,F5EX,Cherry Road Leasing LLC,Falcon 50EX
+7c0a6b,CCD     ,VH-CCD,GLEX,ground,-37.7,144.8,GLEX,Bombardier,GLEX,Crown Melbourne Ltd,Global Express XRS
+7c5bf8,SGA     ,VH-SGA,GLF6,ground,-37.7,144.9,G650,Gulfstream Aerospace,G650,Business Aviation Solutions P/L,G650 ER
+a40d47,N360LA  ,N360LA,GLEX,ground,-37.7,144.9,GLEX,Bombardier,GLEX,Luft Aviation Charter,Global Express
+7c47ab,VHOFX   ,VH-OFX,GLEX,ground,-37.7,144.9,GLEX,Bombardier,ACJ,AC Aviation Company Ltd,Global Express
+7c384f,LEP     ,VH-LEP,GLEX,ground,-37.7,144.9,GL6T,Bombardier,GL6T,Air National Australia P/L,Global 6000
+a700bb,N550PL  ,N550PL,GLF5,ground,-37.7,144.9,G550,Gulfstream Aerospace,G550,Paul Lederer P/L,G550
+7c1a31,FGJ     ,VH-FGJ,GLEX,ground,-37.7,144.9,GLEX,Bombardier,GLEX,Pratt Aviation P/L,Global Express XRS
+a03fdf,N115MF  ,N115MF,FA50,ground,-35.8,174.4,F5EX,Dassault,F5EX,Cherry Road Leasing LLC,Falcon 50EX
+7cfa71,EVY90   ,A56-001,FA7X,ground,-35.3,149.2,FA7X,Dassault,ASY,Royal Australian Air Force,Falcon 7X
+7cfa71,EVY57   ,A56-001,FA7X,ground,-35.3,149.2,FA7X,Dassault,ASY,Royal Australian Air Force,Falcon 7X
+7c0a6b,CCD     ,VH-CCD,GLEX,ground,-34.9,138.5,GLEX,Bombardier,GLEX,Crown Melbourne Ltd,Global Express XRS
+ac15a1,N878SC  ,N878SC,GLEX,ground,-34.0,18.6,GL6T,Bombardier,GL6T,The Whitewind Company,Global 6000
+008058,EXD008  ,ZS-ACT,CL30,ground,-34.0,18.6,,---,,---,---
+05802b,7QMAG   ,7Q-MAG,GLF4,ground,-34.0,18.6,,---,,---,---
+a700bb,N550PL  ,N550PL,GLF5,ground,-34.0,151.2,G550,Gulfstream Aerospace,G550,Paul Lederer P/L,G550
+7cfa73,EVY74   ,A56-003,FA7X,ground,-34.0,151.2,FA7X,Dassault,ASY,Royal Australian Air Force,Falcon 7X
+7c0a6b,CCD     ,VH-CCD,GLEX,ground,-33.9,151.2,GLEX,Bombardier,GLEX,Crown Melbourne Ltd,Global Express XRS
+a700bb,N550PL  ,N550PL,GLF5,ground,-33.9,151.2,G550,Gulfstream Aerospace,G550,Paul Lederer P/L,G550
+7cfa73,EVY74   ,A56-003,FA7X,ground,-33.9,151.2,FA7X,Dassault,ASY,Royal Australian Air Force,Falcon 7X
+a18eb4,N2QE    ,N2QE,GL5T,ground,-33.9,151.2,GL5T,Bombardier,GL5T,Mirage Aviation Ltd,Global 5000
+7cfa73,EVY74   ,A56-003,FA7X,ground,-31.9,116.0,FA7X,Dassault,ASY,Royal Australian Air Force,Falcon 7X
+7c6763,UPH     ,VH-UPH,GLEX,ground,-27.4,153.1,GLEX,Bombardier,GLEX,Mineralogy P/L,Global Express XRS
+008058,EXD008  ,ZS-ACT,CL30,ground,-25.9,27.9,,---,,---,---
+e491b2,PRFRT   ,PR-FRT,G280,ground,-25.5,-49.2,G280,Gulfstream Aerospace,G280,Fertipar Fert Do Parana Ltda,G280
+e496c6,PSFSR   ,PS-FSR,GLF5,ground,-23.6,-46.7,G550,Gulfstream Aerospace,G550,Luis Fernando Assessoria Esportiva Ltda,G550
+e49645,PSRSM   ,PS-RSM,GLF6,ground,-23.6,-46.7,G650,Gulfstream Aerospace,G650,Aguassanta Negocios SA,G650 ER
+e497e2,PSFMV   ,PS-FMV,GLF5,ground,-23.4,-46.5,G550,Gulfstream Aerospace,G550,Tconfal Administracao De Bens Ltda,G550
+ac710a,N900VC  ,N900VC,F900,ground,-23.4,-46.5,F900,Dassault,F900,Century Aviation,Falcon 900 B
+7c1aa4,FJQ     ,VH-FJQ,FA50,ground,-23.4,150.5,F5EX,Dassault,F5EX,Business Aviation Solutions P/L,Falcon 50EX
+ac6751,SIY899  ,N899FS,GLF4,ground,-22.8,-43.3,G450,Gulfstream Aerospace,SIY,Executive Aviation Corporation,G450
+424b05,MAAAL   ,M-AAAL,GLF6,ground,-22.8,-43.2,G650,Gulfstream Aerospace,G650,Global Jet IOM Ltd,G650
+e496c6,PSFSR   ,PS-FSR,GLF5,ground,-19.8,-44.0,G550,Gulfstream Aerospace,G550,Luis Fernando Assessoria Esportiva Ltda,G550
+7c1aa4,FJQ     ,VH-FJQ,FA50,ground,-19.3,146.8,F5EX,Dassault,F5EX,Business Aviation Solutions P/L,Falcon 50EX
+a55b7f,N444WT  ,N444WT,GLEX,ground,-19.3,146.8,GL7T,Bombardier,GL7T,Whisky Tango LLC,Global 7500
+424753,        ,VP-CPU,GLF6,ground,1.4,103.9,,---,,---,---
+50024b,T73338  ,T7-3338,GL5T,ground,1.4,103.9,GL5T,Bombardier,GL5T,Amber Aviation (Hong Kong) Limited,Global 5000
+8a03dc,PKRJP   ,PK-RJP,E35L,ground,1.4,103.9,E35L,Embraer,E35L,Ekspres Air,Legacy 650
+5000f1,T7RSP   ,T7-RSP,GLEX,ground,1.4,103.9,GL6T,Bombardier,GL6T,Empire Aviation San Marino SRL,Global 6000
+ad84e7,N970NX  ,N970NX,GL5T,ground,1.4,103.9,GL5T,Bombardier,GL5T,Golden Eagle Aviation Holdings Ltd,Global 5000
+a8dbf8,N670CP  ,N670CP,CL30,ground,4.7,-74.1,CL30,Bombardier,CL30,Salep Corp,Challenger 300
+a8dd3f,N670RR  ,N670RR,GLF5,ground,4.7,-74.1,G550,Gulfstream Aerospace,G550,Corporate,G550
+a572af,LXJ450  ,N450FX,GLF4,ground,9.1,-79.4,G450,Gulfstream Aerospace,LXJ,Flexjet,G450 LXI
+a2668d,00000000,N254CA,GLF4,ground,10.0,-84.2,GLF4,Gulfstream Aerospace,GLF4,WSPSL LLC,GIV
+a8dbf8,N670CP  ,N670CP,CL30,ground,12.1,-86.2,CL30,Bombardier,CL30,Salep Corp,Challenger 300
+485fd1,FYG721  ,PH-BEJ,GL5T,ground,12.2,-69.0,GL5T,Bombardier,FYG,Flying Service NV,Global 5000
+a5ea84,PEG80   ,N480VR,GLF4,ground,12.5,-70.0,GLF4,Gulfstream Aerospace,PEG,Pegasus Elite Aviation,GIV SP
+80043f,VTJSK   ,VT-JSK,GL5T,ground,13.0,77.7,GL5T,Bombardier,GL5T,Reliance Transport & Travel Ltd,Global 5000
+80043f,VTJSK   ,VT-JSK,GL5T,ground,13.0,80.2,GL5T,Bombardier,GL5T,Reliance Transport & Travel Ltd,Global 5000
+800b32,VTKJG   ,VT-KJG,E35L,ground,13.0,80.2,E35L,Embraer,E35L,Kalyan Jewellers,Legacy 650
+a69416,N523AC  ,N523AC,GLF5,ground,13.1,-59.5,G550,Gulfstream Aerospace,G550,Alticor Inc,G550
+ad84e7,N970NX  ,N970NX,GL5T,ground,13.9,100.6,GL5T,Bombardier,GL5T,Golden Eagle Aviation Holdings Ltd,Global 5000
+a6ff8b,N550BG  ,N550BG,GLF5,ground,13.9,100.6,G550,Gulfstream Aerospace,G550,BIC Inc,G550
+4247e3,VPCEB   ,VP-CEB,GLEX,ground,13.9,100.6,,---,,---,---
+a314ab,N298RB  ,N298RB,GLF4,ground,13.9,100.6,GLF4,Gulfstream Aerospace,GLF4,SMB G-IV IV LLC,GIV SP
+5000d0,T7MBH   ,T7-MBH,E35L,ground,13.9,100.6,E35L,Embraer,MJE,Empire Aviation Group,Legacy 650
+a2cf53,N280PU  ,N280PU,G280,ground,14.1,-87.2,,---,,---,---
+e491b2,PRFRT   ,PR-FRT,G280,ground,16.7,-22.9,G280,Gulfstream Aerospace,G280,Fertipar Fert Do Parana Ltda,G280
+440652,AOJ96M  ,OE-ISN,GLF5,ground,19.1,72.9,,---,,---,---
+800460,VTAKU   ,VT-AKU,F900,ground,19.1,72.9,,---,,---,---
+0d07fd,XCPFM   ,XC-PFM,GLF4,ground,19.4,-99.1,G350,Gulfstream Aerospace,G350,Mexican Federal Police,G350
+0d07d5,SMX01   ,ANX-1207,GLF5,ground,19.4,-99.1,G550,Gulfstream Aerospace,G550,Mexican Navy,G550
+a73a10,LXJ565  ,N565FX,CL30,ground,20.9,-156.4,CL35,Bombardier,LXJ,Flexjet,Challenger 350
+a0e1e8,N156QS  ,N156QS,GLEX,ground,20.9,-156.4,GL6T,Bombardier,EJA,NetJets,Global 6000
+abfe7e,HOB2    ,N872HL,CL30,ground,20.9,-156.4,CL35,Bombardier,HOB,Hobby Lobby Stores Inc,Challenger 350
+a0e59f,N157QS  ,N157QS,GLEX,ground,20.9,-156.4,GL6T,Bombardier,EJA,NetJets,Global 6000
+aaed05,FGR803  ,N803AC,FA50,ground,20.9,-156.4,FA50,Dassault,FGR,Trans-Pacific Air Charter,Falcon 50
+4d210b,VJT904  ,9H-VJY,GLEX,ground,21.0,-86.9,GL6T,Bombardier,VJT,VistaJet,Global 6000
+0d0400,XARDM   ,XA-RCM,GLF4,ground,21.0,-86.9,GLF4,Gulfstream Aerospace,GLF4,Viajes Ejecutivos Mexicanos,GIV
+0d0400,XARDM   ,XA-RCM,GLF4,ground,21.1,-86.9,GLF4,Gulfstream Aerospace,GLF4,Viajes Ejecutivos Mexicanos,GIV
+a78538,N584ER  ,N584ER,GLF4,ground,21.1,-86.9,GLF4,Gulfstream Aerospace,GLF4,MSP Recovery Aviation LLC,GIV
+89915d,B99998  ,B-99998,GL5T,ground,22.3,113.9,,---,,---,---
+a39a84,N331LD  ,N331LD,G280,ground,22.3,113.9,G280,Gulfstream Aerospace,G280,Corporate,G280
+89915d,B99998  ,B-99998,GL5T,ground,22.6,120.3,,---,,---,---
+5000d0,T7MBH   ,T7-MBH,E35L,ground,23.6,58.3,E35L,Embraer,MJE,Empire Aviation Group,Legacy 650
+896268,A6FLH   ,A6-FLH,GLF4,ground,24.4,54.4,,---,,---,---
+4d21d7,EAU40G  ,9H-OVG,GLEX,ground,24.4,54.5,GL6T,Bombardier,EAU,Elitavia Malta,Global 6000
+a6ffc6,N550DR  ,N550DR,GLF5,ground,24.9,55.1,G550,Gulfstream Aerospace,G550,Oriental Energy Resources Ltd,G550
+800460,VTAKU   ,VT-AKU,F900,ground,24.9,55.2,,---,,---,---
+896268,A6FLH   ,A6-FLH,GLF4,ground,24.9,55.2,,---,,---,---
+a6ffc6,N550DR  ,N550DR,GLF5,ground,24.9,55.2,G550,Gulfstream Aerospace,G550,Oriental Energy Resources Ltd,G550
+4d20f6,VJT861  ,9H-VJN,GLEX,ground,24.9,55.2,GL6T,Bombardier,VJT,VistaJet,Global 6000
+ac6ab6,EJM384  ,N9CK,GLF5,ground,25.0,-77.5,G550,Gulfstream Aerospace,G550,RESC Investments III LLC,G550
+a9a82d,EJM17   ,N721KJ,GLF5,ground,25.0,-77.5,G550,Gulfstream Aerospace,EJM,Executive Jet Management,G550
+ad363d,N950SF  ,N950SF,F900,ground,25.0,-77.5,F900,Dassault,F900,True Aviation,Falcon 900
+a704bf,EJM11   ,N551SN,GLF5,ground,25.0,-77.5,G550,Gulfstream Aerospace,EJM,Executive Jet Management,G550
+a70876,EJM12   ,N552SN,GLF5,ground,25.0,-77.5,G550,Gulfstream Aerospace,EJM,Executive Jet Management,G550
+a00050,N1DC    ,N1DC,GLF5,ground,25.0,-77.5,GLF5,Gulfstream Aerospace,GLF5,Blue Star Management Services Corp,GV
+ad363d,N950SF  ,N950SF,F900,ground,25.1,-77.5,F900,Dassault,F900,True Aviation,Falcon 900
+a704bf,EJM11   ,N551SN,GLF5,ground,25.1,-77.5,G550,Gulfstream Aerospace,EJM,Executive Jet Management,G550
+a70876,EJM12   ,N552SN,GLF5,ground,25.1,-77.5,G550,Gulfstream Aerospace,EJM,Executive Jet Management,G550
+a0265d,EDG109  ,N109CH,GLF6,ground,25.1,-77.5,G650,Gulfstream Aerospace,EDG,Jet Edge,G650 ER
+500253,T7WSS   ,T7-WSS,GLEX,ground,25.2,55.4,,---,,---,---
+140ae2,DXT9678 ,RA-02786,E35L,ground,25.2,55.4,E35L,Embraer,DXT,Air Management Group,Legacy 600
+06a1ca,QQE228  ,A7-CGE,GLF6,ground,25.3,51.6,G650,Gulfstream Aerospace,QQE,Qatar Executive,G650 ER
+5000d0,T7MBH   ,T7-MBH,E35L,ground,25.3,55.4,E35L,Embraer,MJE,Empire Aviation Group,Legacy 650
+ab2f3f,N82HP   ,N82HP,GLEX,ground,25.3,55.4,GL6T,Bombardier,GL6T,Global Flight Inc,Global 6500
+a59922,N46VE   ,N46VE,CL30,ground,25.8,-80.3,CL30,Bombardier,CL30,Noble Plane LLC,Challenger 300
+a7907c,LXJ587  ,N587FX,CL30,ground,25.8,-80.3,CL35,Bombardier,LXJ,Flexjet,Challenger 350
+a04758,N117MS  ,N117MS,GL5T,ground,25.8,-80.3,GL5T,Bombardier,CLY,Clay Lacy Aviation Inc,Global 5000
+a3f1d6,XOJ353  ,N353VJ,CL30,ground,25.8,-80.3,CL35,Bombardier,XOJ,XO,Challenger 350
+4d21bc,TEU9    ,9H-ASB,GL5T,ground,25.8,-80.3,GL5T,Bombardier,TEU,TAG Aviation Malta Ltd,Global 5000
+a6b4b7,LXJ531  ,N531FX,CL30,ground,25.8,-80.3,CL30,Bombardier,LXJ,Flexjet,Challenger 300
+ab2ba3,LJY819  ,N819JR,CL30,ground,25.8,-80.3,,---,,---,---
+a014ff,EJA104  ,N104QS,GL5T,ground,25.8,-80.3,GL5T,Bombardier,EJA,NetJets,Global 5000
+aa2de2,N755PA  ,N755PA,G280,ground,25.8,-80.3,G280,Gulfstream Aerospace,G280,MJL Air Partners LLC,G280
+a8e06e,N671LE  ,N671LE,GLF5,ground,25.8,-80.3,G550,Gulfstream Aerospace,G550,Green Sky Aviation LLC,G550
+a642e3,N502RP  ,N502RP,G280,ground,25.8,-80.3,G280,Gulfstream Aerospace,G280,Penske Jet Inc,G280
+a0b82f,N1454H  ,N1454H,GLF6,ground,25.8,-80.3,G650,Gulfstream Aerospace,G650,Amerada Hess Corp,G650 ER
+ac05db,HRT052  ,N874GU,GL5T,ground,25.8,-80.3,GL5T,Bombardier,HRT,Chartright Air,Global 5500
+a0cb9e,EJA150  ,N150QS,GLEX,ground,25.8,-80.3,GL6T,Bombardier,EJA,NetJets,Global 6000
+a7761c,N580CB  ,N580CB,F900,ground,25.8,-80.3,F9EX,Dassault,TWY,Solairus Aviation,Falcon 900EX EASy
+a88e65,EDG65   ,N650TB,E35L,ground,25.8,-80.3,E35L,Embraer,EDG,Jet Edge,Legacy 650
+a2668d,00000000,N254CA,GLF4,ground,25.9,-97.4,GLF4,Gulfstream Aerospace,GLF4,WSPSL LLC,GIV
+a2ae0a,N272BG  ,N272BG,GLF5,ground,25.9,-97.4,G550,Gulfstream Aerospace,G550,Falcon Landing LLC,G550
+ac0ce3,00000000,N876CS,CL30,ground,25.9,-97.4,CL30,Bombardier,CL30,CommScope Inc,Challenger 300
+a145b8,KPO181  ,N181PR,GLF4,ground,26.1,-81.8,GLF4,Gulfstream Aerospace,KPO,Wing Aviation Group,GIV SP
+a6a382,LXJ527  ,N527FX,CL30,ground,26.1,-81.8,CL30,Bombardier,LXJ,Flexjet,Challenger 300
+a6ab5a,EJM529  ,N529LC,CL30,ground,26.1,-80.2,CL35,Bombardier,EJM,Executive Jet Management,Challenger 350
+0c4155,HI1055  ,HI1055,GLF4,ground,26.1,-80.2,GLF4,Gulfstream Aerospace,GLF4,Helidosa Aviation Group SA,GIV SP
+a0c882,N15GX   ,N15GX,GLEX,ground,26.1,-80.2,GLEX,Bombardier,GLEX,Oracle Navigation LLC,Global Express XRS
+a31d4d,JNY30   ,N30DJ,GLF4,ground,26.1,-80.2,GLF4,Gulfstream Aerospace,JNY,Journey Aviation,GIV SP
+a9b381,N724MF  ,N724MF,GL5T,ground,26.1,-80.2,GL5T,Bombardier,FWD,Fair Wind Air Charter,Global 5000
+acb1d0,N917MS  ,N917MS,GLF4,ground,26.1,-80.2,GLF4,Gulfstream Aerospace,GLF4,JetReady,GIV SP
+a88d89,LXJ657  ,N650JG,GLF6,ground,26.1,-80.2,,---,,---,---
+a3ee1f,XOJ352  ,N352VJ,CL30,ground,26.1,-80.2,,---,,---,---
+a145b8,KPO181  ,N181PR,GLF4,ground,26.2,-81.8,GLF4,Gulfstream Aerospace,KPO,Wing Aviation Group,GIV SP
+a6a382,LXJ527  ,N527FX,CL30,ground,26.2,-81.8,CL30,Bombardier,LXJ,Flexjet,Challenger 300
+a88d52,N650GB  ,N650GB,GLF6,ground,26.2,-80.2,G650,Gulfstream Aerospace,G650,American Express Travel Co,G650 ER
+0c4155,HI1055  ,HI1055,GLF4,ground,26.4,-80.1,GLF4,Gulfstream Aerospace,GLF4,Helidosa Aviation Group SA,GIV SP
+a1f3fd,JAS25   ,N225EE,GLF5,ground,26.4,-80.1,GLF5,Gulfstream Aerospace,JAS,Jet Aviation Flight Services,GV
+a646f9,XOJ503  ,N503VJ,GL5T,ground,26.4,-80.1,GL5T,Bombardier,XOJ,XO,Global 5000
+ac7029,NSH900  ,N900LC,F900,ground,26.4,-80.1,F900,Dassault,NSH,Sterling Aviation,Falcon 900 C
+a255cf,EDG25   ,N25GV,GLF5,ground,26.4,-80.1,GLF5,Gulfstream Aerospace,EDG,Jet Edge,GV
+ac5bb9,DOW896  ,N896BB,CL30,ground,26.4,-80.1,CL30,Bombardier,DOW,Best Jets International,Challenger 300
+ab394e,N822LL  ,N822LL,CL30,ground,26.4,-80.1,CL35,Bombardier,ELZ,Elite Air,Challenger 350
+a7b08d,LXJ595  ,N595FX,CL30,ground,26.4,-80.1,CL35,Bombardier,LXJ,Flexjet,Challenger 350
+a76546,LXJ576  ,N576FX,CL30,ground,26.4,-80.1,CL35,Bombardier,LXJ,Flexjet,Challenger 350
+aae6e1,N801PH  ,N801PH,CL30,ground,26.4,-80.1,CL30,Bombardier,CL30,Post Foods LLC,Challenger 300
+aa91f5,EJA780  ,N780QS,CL30,ground,26.4,-80.1,CL35,Bombardier,EJA,NetJets,Challenger 350
+a4d220,JNY41   ,N41DP,CL30,ground,26.4,-80.1,CL30,Bombardier,JNY,Journey Aviation,Challenger 300
+aa50b1,EJM764  ,N764DB,GLEX,ground,26.4,-80.1,GLEX,Bombardier,EJM,Executive Jet Management,Global Express
+a0958d,PRD1    ,N137DR,GLF4,ground,26.4,-80.1,GLF4,Gulfstream Aerospace,PRD,Presidential Aviation,GIV SP
+a5cc86,N473CW  ,N473CW,GLF4,ground,26.4,-80.1,GLF4,Gulfstream Aerospace,GLF4,Pentastar Aviation,GIV SP
+a170c8,N192NC  ,N192NC,GLF4,ground,26.4,-80.1,G450,Gulfstream Aerospace,TWY,Solairus Aviation,G450
+a06f49,N127SF  ,N127SF,G280,ground,26.4,-80.1,G280,Gulfstream Aerospace,G280,Constellation Brands Inc,G280
+a0be47,N147SF  ,N147SF,GLF5,ground,26.4,-80.1,G550,Gulfstream Aerospace,G550,Constellation Brands Inc,G550
+abf694,N870CM  ,N870CM,GLF5,ground,26.4,-80.1,G550,Gulfstream Aerospace,G550,Constellation Leasing LLC,G550
+a996df,N717JJ  ,N717JJ,CL30,ground,26.4,-80.1,CL30,Bombardier,NSH,Sterling Aviation,Challenger 300
+a3e650,N350RM  ,N350RM,CL30,ground,26.7,-80.1,CL35,Bombardier,CL35,Beyond Ventures LLC,Challenger 350
+aaffcd,HER1    ,N808CF,GLF4,ground,26.7,-80.1,GLF4,Gulfstream Aerospace,HER,Hera Flight,GIV
+a74eb7,N570DC  ,N570DC,GLF4,ground,26.7,-80.1,GLF4,Gulfstream Aerospace,GLF4,Starflite Management Group Inc,GIV SP
+a66e43,N513TF  ,N513TF,GL5T,ground,26.7,-80.1,GL5T,Bombardier,GL5T,EAC Air LLC,Global 5000
+ac9256,EJM909  ,N909TT,E35L,ground,26.7,-80.1,E35L,Embraer,EJM,Executive Jet Management,Legacy 600
+a635da,KPO5    ,N5GF,GLF4,ground,26.7,-80.1,GLF4,Gulfstream Aerospace,KPO,Wing Aviation Group,GIV SP
+a16b24,N1904W  ,N1904W,GLF4,ground,26.7,-80.1,GLF4,Gulfstream Aerospace,PVA,Planet Nine Private Air,GIV SP
+acbc0c,N92CJ   ,N92CJ,FA50,ground,26.7,-80.1,FA50,Dassault,FA50,Club Jet,Falcon 50
+a8e06e,N671LE  ,N671LE,GLF5,ground,27.2,-80.2,G550,Gulfstream Aerospace,G550,Green Sky Aviation LLC,G550
+a96c47,EJA706  ,N706QS,CL30,ground,27.2,-80.2,CL35,Bombardier,EJA,NetJets,Challenger 350
+aa84a1,N777SJ  ,N777SJ,FA7X,ground,27.2,-80.2,FA7X,Dassault,FA7X,SLC Aviation I LLC,Falcon 7X
+aa5941,EJA766  ,N766QS,CL30,ground,27.2,-80.2,CL35,Bombardier,EJA,NetJets,Challenger 350
+a0e276,N156WJ  ,N156WJ,GLF4,ground,27.2,-80.2,GLF4,Gulfstream Aerospace,GLF4,156WJ LLC,GIV SP
+a63bd4,XOJ500  ,N500VJ,GL5T,ground,27.2,-80.2,GL5T,Bombardier,XOJ,XO,Global 5000
+ac2546,N882AC  ,N882AC,E35L,ground,27.2,-80.2,E35L,Embraer,E35L,Corporate,Legacy 600
+ac85b4,N615FJ  ,N906CM,F900,ground,27.2,-80.2,,---,,---,---
+ac6d85,DCM6150 ,N90HC,FA50,ground,27.2,-80.2,FA50,Dassault,FA50,Falcon Aviation LLC,Falcon 50
+a67d2e,EJM517  ,N517TW,GLF5,ground,27.2,-80.2,G550,Gulfstream Aerospace,EJM,Executive Jet Management,G550
+a5772d,N451PW  ,N451PW,GLF4,ground,27.2,-80.2,G450,Gulfstream Aerospace,G450,Mayo Aviation,G450
+a4bbfa,N404F   ,N404F,F900,ground,27.2,-80.2,F9EX,Dassault,F9EX,WCF Aircraft Corp,Falcon 900EX
+adf52f,N999MK  ,N999MK,FA50,ground,27.2,-80.2,FA50,Dassault,FA50,999MK LLC,Falcon 50
+a74efc,LXJ570  ,N570FX,CL30,ground,27.4,-82.6,CL35,Bombardier,LXJ,Flexjet,Challenger 350
+aaa83f,EJA786  ,N786QS,CL30,ground,27.4,-82.6,CL35,Bombardier,EJA,NetJets,Challenger 350
+ad8471,DCM538  ,N970JD,F900,ground,27.4,-82.6,F900,Dassault,F900,Voice of the Covenant Church Inc,Falcon 900 B
+c0424e,CFZCV   ,C-FZCV,G280,ground,27.4,-82.6,G280,Gulfstream Aerospace,SYB,Skyservice Business Aviation,G280
+ac6f95,N900EE  ,N900EE,F900,ground,27.4,-82.6,F900,Dassault,F900,Accelerated Aviation LLC,Falcon 900
+ad8471,DCM790  ,N970JD,F900,ground,27.4,-82.5,F900,Dassault,F900,Voice of the Covenant Church Inc,Falcon 900 B
+a5bffe,N47NS   ,N47NS,FA50,ground,27.5,-99.5,FA50,Dassault,FA50,DHB Falcon LLC,Falcon 50
+a16d0e,N191N   ,N191N,FA50,ground,27.5,-80.4,F5EX,Dassault,F5EX,Lyon Aviation,Falcon 50EX
+ad823e,N97KS   ,N97KS,FA50,ground,27.5,-80.4,FA50,Dassault,FA50,WRM Aviation LLC,Falcon 50
+add3d1,N990NB  ,N990NB,GLF5,ground,27.5,-80.4,G550,Gulfstream Aerospace,G550,Tisma Air Charter,G550
+0d0ae3,XAFUF   ,XA-FUF,E35L,ground,27.5,-80.4,E35L,Embraer,E35L,Redwings,Legacy 600
+3c624e,HRN512  ,D-AHRN,F900,ground,27.5,-80.4,F9EX,Dassault,HRN,Heron Aviation GmbH,Falcon 900EX
+a00068,N1EB    ,N1EB,GLF5,ground,27.5,-80.4,G550,Gulfstream Aerospace,G550,KNC Equipment LLC,G550
+a5bffe,N47NS   ,N47NS,FA50,ground,27.6,-99.5,FA50,Dassault,FA50,DHB Falcon LLC,Falcon 50
+aaa83f,EJA786  ,N786QS,CL30,ground,27.9,-82.7,CL35,Bombardier,EJA,NetJets,Challenger 350
+a8af65,N659NR  ,N659NR,CL30,ground,27.9,-82.7,CL35,Bombardier,CL35,Blue Ocean Aerospace LLC,Challenger 350
+aac850,EJA794  ,N794QS,CL30,ground,27.9,-82.7,CL35,Bombardier,EJA,NetJets,Challenger 350
+aadf88,EJM39   ,N80AD,GLF5,ground,27.9,-82.7,G550,Gulfstream Aerospace,EJM,Executive Jet Management,G550
+a572af,LXJ450  ,N450FX,GLF4,ground,28.0,-82.5,G450,Gulfstream Aerospace,LXJ,Flexjet,G450 LXI
+a3ee1f,XOJ352  ,N352VJ,CL30,ground,28.0,-82.5,,---,,---,---
+a00f8c,EJM274  ,N10274,GLF5,ground,28.0,-82.5,G550,Gulfstream Aerospace,EJM,Executive Jet Management,G550
+c03c34,HRT246  ,C-FWUT,CL30,ground,28.0,-82.5,CL30,Bombardier,HRT,Chartright Air,Challenger 300
+a1c8ed,0N214FT ,N214FT,FA50,ground,28.0,-82.5,F5EX,Dassault,F5EX,Mikes Airplane Rentals,Falcon 50EX
+ac983e,N910SC  ,N910SC,F900,ground,28.0,-82.5,F900,Dassault,F900,Execujet Charter,Falcon 900 B
+a4dc5a,N412JD  ,N412JD,GLF4,ground,28.0,-82.5,GLF4,Gulfstream Aerospace,GLF4,Normandys Triumph LLC,GIV
+adf47e,PVO999  ,N999EH,F900,ground,28.0,-82.5,F900,Dassault,PVO,Privaira,Falcon 900
+a3007b,EJM2929 ,N2929,GLF5,ground,28.0,-82.5,G550,Gulfstream Aerospace,EJM,Executive Jet Management,G550
+a79433,LXJ588  ,N588FX,CL30,ground,28.0,-82.5,CL35,Bombardier,LXJ,Flexjet,Challenger 350
+ac2599,RDY62   ,N882DL,GLF4,ground,28.0,-82.0,G450,Gulfstream Aerospace,RDY,Phantom Air Services,G450
+a3c881,N343AP  ,N343AP,FA7X,ground,28.0,-82.0,FA7X,Dassault,FA7X,Air Products & Chemicals Inc,Falcon 7X
+a95136,N7PW    ,N7PW,CL30,ground,28.0,-82.0,CL30,Bombardier,CL30,Flying W LLC,Challenger 300
+a2cf48,GJE622  ,N280PH,GLF5,ground,28.1,-80.6,GLF5,Gulfstream Aerospace,GJE,Global Air Charters,GV
+a133ed,N177HR  ,N177HR,F900,ground,28.3,-81.4,F9DX,Dassault,F9DX,Lenox Aviation LLC,Falcon 900DX
+4d210b,VJT904  ,9H-VJY,GLEX,ground,28.4,-81.3,GL6T,Bombardier,VJT,VistaJet,Global 6000
+a145b8,KPO181  ,N181PR,GLF4,ground,28.4,-81.3,GLF4,Gulfstream Aerospace,KPO,Wing Aviation Group,GIV SP
+a3007b,EJM2929 ,N2929,GLF5,ground,28.4,-81.3,G550,Gulfstream Aerospace,EJM,Executive Jet Management,G550
+a2cf48,GJE622  ,N280PH,GLF5,ground,28.4,-81.3,GLF5,Gulfstream Aerospace,GJE,Global Air Charters,GV
+aae294,EDG800  ,N800HH,GLF4,ground,28.4,-81.3,GLF4,Gulfstream Aerospace,EDG,Jet Edge,GIV SP
+ab43cb,N825DT  ,N825DT,CL30,ground,28.4,-81.3,,---,,---,---
+a57337,N450MH  ,N450MH,GLF4,ground,28.4,-81.3,G450,Gulfstream Aerospace,G450,Leading Edge Operations Co,G450
+0d098a,XAKAD   ,XA-KAD,E35L,ground,28.4,-81.3,E35L,Embraer,E35L,Operator Unknown,Legacy 600
+a310c9,JNY297  ,N297PJ,GLF4,ground,28.4,-81.3,GLF4,Gulfstream Aerospace,JNY,Journey Aviation,GIV
+ab7e2a,N84GV   ,N84GV,GLF5,ground,28.5,-81.3,GLF5,Gulfstream Aerospace,JAS,Jet Aviation Flight Services,GV
+a81ed7,JTZ622  ,N622N,CL30,ground,28.5,-81.3,CL30,Bombardier,JTZ,Nicholas Air,Challenger 300
+a9c6bb,SDU1141 ,N729TY,GLF4,ground,28.5,-81.3,GLF4,Gulfstream Aerospace,SDU,Dumont Aviation,GIV
+a18845,N1980K  ,N1980K,GLF6,ground,28.5,-81.3,G650,Gulfstream Aerospace,G650,Noel Air LLC,G650 ER
+a7b08d,LXJ595  ,N595FX,CL30,ground,28.8,-81.2,CL35,Bombardier,LXJ,Flexjet,Challenger 350
+a403a0,N358MH  ,N358MH,CL30,ground,29.2,-81.1,CL35,Bombardier,FWD,Fair Wind Air Charter,Challenger 350
+a47348,N386TL  ,N386TL,FA50,ground,29.2,-81.1,FA50,Dassault,FA50,TLO Aviation LLC,Falcon 50
+4d20f6,VJT861  ,9H-VJN,GLEX,ground,29.2,48.0,GL6T,Bombardier,VJT,VistaJet,Global 6000
+3c564f,AHO664H ,D-AERO,E35L,ground,29.2,48.0,E35L,Embraer,AHO,Air Hamburg GmbH,Legacy 650
+4d207e,VJT720  ,9H-VJC,GLEX,ground,29.2,48.0,GL6T,Bombardier,VJT,VistaJet,Global 6000
+5000d4,T7KPC   ,T7-KPC,E35L,ground,29.2,48.0,E35L,Embraer,E35L,National Legacy Aircraft Management,Legacy 600
+a9961f,XSR717  ,N717AS,CL30,ground,29.4,-100.9,CL35,Bombardier,XSR,Executive AirShare,Challenger 350
+a3fc35,N356ML  ,N356ML,CL30,ground,29.5,-98.5,CL30,Bombardier,CL30,Corporate,Challenger 300
+a919b5,N686CB  ,N686CB,CL30,ground,29.5,-98.5,CL35,Bombardier,CL35,HE Butt Grocery Company,Challenger 350
+a67857,GJE2226 ,N516GH,GLF5,ground,29.5,-98.5,GLF5,Gulfstream Aerospace,GJE,Global Air Charters,GV
+adde9b,DCM6083 ,N993JL,CL30,ground,29.5,-98.5,CL35,Bombardier,CL35,JKDB Air LLC,Challenger 350
+a97c74,N710EC  ,N710EC,G280,ground,29.6,-95.7,G280,Gulfstream Aerospace,G280,Chouest Air Inc,G280
+4d21bc,TEU9    ,9H-ASB,GL5T,ground,29.6,-95.3,GL5T,Bombardier,TEU,TAG Aviation Malta Ltd,Global 5000
+a26fbe,00000000,N256WB,CL30,ground,29.6,-95.3,CL30,Bombardier,EDG,Jet Edge,Challenger 300
+a793b2,JNY5    ,N588AT,GLF5,ground,29.6,-95.3,GLF5,Gulfstream Aerospace,JNY,Journey Aviation,GV
+a3d87c,N347NA  ,N347NA,G280,ground,29.6,-95.3,G280,Gulfstream Aerospace,G280,Corporate,G280
+add0f4,N99GV   ,N99GV,GLF5,ground,29.6,-95.3,GLF5,Gulfstream Aerospace,GLF5,Iridium LLC,GV
+a000f9,N1KX    ,N1KX,FA7X,ground,29.6,-95.3,FA7X,Dassault,FA7X,Johnson Law Group,Falcon 7X
+a41ff5,N365MC  ,N365MC,CL30,ground,29.6,-95.3,CL35,Bombardier,CL35,Cockrell Resources,Challenger 350
+a1d851,N218MD  ,N218MD,GLF4,ground,29.6,-95.3,G400,Gulfstream Aerospace,G400,Starflite Management Group Inc,G400
+a16aad,GLH1    ,N1901G,GLF6,ground,29.6,-95.2,G650,Gulfstream Aerospace,GLH,Chevron Corp,G650 ER
+ac2546,N882AC  ,N882AC,E35L,ground,29.9,-94.0,E35L,Embraer,E35L,Corporate,Legacy 600
+ac7130,N900WR  ,N900WR,GLF4,ground,29.9,-94.0,GLF4,Gulfstream Aerospace,GLF4,Wayne Reaud,GIV SP
+ac2546,N882AC  ,N882AC,E35L,ground,30.0,-94.0,E35L,Embraer,E35L,Corporate,Legacy 600
+addf73,N993TB  ,N993TB,CL30,ground,30.0,-94.0,CL30,Bombardier,CL30,Corporate,Challenger 300
+a7907c,LXJ587  ,N587FX,CL30,ground,30.0,-90.3,CL35,Bombardier,LXJ,Flexjet,Challenger 350
+ad8471,DCM538  ,N970JD,F900,ground,30.0,-90.3,F900,Dassault,F900,Voice of the Covenant Church Inc,Falcon 900 B
+ad8471,DCM790  ,N970JD,F900,ground,30.0,-90.3,F900,Dassault,F900,Voice of the Covenant Church Inc,Falcon 900 B
+a3d0ce,N345KM  ,N345KM,F900,ground,30.0,-90.3,F900,Dassault,F900,True Aviation,Falcon 900
+a0fd3e,N163EG  ,N163EG,GLEX,ground,30.0,-90.3,GLEX,Bombardier,GLEX,C Dot Aviation LLC,Global Express
+adde93,EJM106  ,N993JC,E35L,ground,30.0,-90.3,E35L,Embraer,EJM,Executive Jet Management,Legacy 600
+aa4a65,N762QS  ,N762QS,CL30,ground,30.0,-90.3,CL35,Bombardier,EJA,NetJets,Challenger 350
+aa4a65,EJA762  ,N762QS,CL30,ground,30.0,-90.3,CL35,Bombardier,EJA,NetJets,Challenger 350
+a9cc7a,EJA730  ,N730QS,CL30,ground,30.0,-90.3,CL35,Bombardier,EJA,NetJets,Challenger 350
+a7907c,LXJ587  ,N587FX,CL30,ground,30.0,-90.2,CL35,Bombardier,LXJ,Flexjet,Challenger 350
+a0fd3e,N163EG  ,N163EG,GLEX,ground,30.0,-90.2,GLEX,Bombardier,GLEX,C Dot Aviation LLC,Global Express
+a9c66a,EJA729  ,N729QS,CL30,ground,30.0,-90.0,CL35,Bombardier,EJA,NetJets,Challenger 350
+a7b08d,LXJ595  ,N595FX,CL30,ground,30.0,-90.0,CL35,Bombardier,LXJ,Flexjet,Challenger 350
+ada9d7,N98LT   ,N98LT,GLF4,ground,30.0,-90.0,GLF4,Gulfstream Aerospace,GLF4,98LT LLC,GIV SP
+aa998a,N782SF  ,N782SF,GLEX,ground,30.0,-90.0,GL7T,Bombardier,JAS,Jet Aviation Flight Services,Global 7500
+a752b3,LXJ571  ,N571FX,CL30,ground,30.0,-90.0,CL35,Bombardier,LXJ,Flexjet,Challenger 350
+add36c,N990JA  ,N990JA,F900,ground,30.0,-90.0,F900,Dassault,F900,Capital Buyers of Delaware Inc,Falcon 900 B
+aa7f7c,EJM776  ,N776BT,GLF4,ground,30.0,-90.0,G450,Gulfstream Aerospace,EJM,Executive Jet Management,G450
+a7e92a,N609EZ  ,N609EZ,GLF4,ground,30.0,-90.0,G450,Gulfstream Aerospace,G450,Yates Aviation LLC,G450
+ab4147,N824S   ,N824S,F900,ground,30.0,-90.0,F900,Dassault,F900,Meregrass Inc,Falcon 900
+ac5bea,N896DA  ,N896DA,FA50,ground,30.0,-90.0,FA50,Dassault,FA50,Titan International Inc,Falcon 50
+a6bc3c,N533GV  ,N533GV,GLF5,ground,30.0,-90.0,G550,Gulfstream Aerospace,NFX,Netflix Inc,G550
+a58cb0,LXJ457  ,N457FX,GLF4,ground,30.0,-90.0,G450,Gulfstream Aerospace,LXJ,Flexjet,G450
+aa998a,N782SF  ,N782SF,GLEX,ground,30.1,-90.0,GL7T,Bombardier,JAS,Jet Aviation Flight Services,Global 7500
+a752b3,LXJ571  ,N571FX,CL30,ground,30.1,-90.0,CL35,Bombardier,LXJ,Flexjet,Challenger 350
+a7e92a,N609EZ  ,N609EZ,GLF4,ground,30.1,-90.0,G450,Gulfstream Aerospace,G450,Yates Aviation LLC,G450
+a00f8c,EJM274  ,N10274,GLF5,ground,30.2,-97.7,G550,Gulfstream Aerospace,EJM,Executive Jet Management,G550
+ab43cb,N825DT  ,N825DT,CL30,ground,30.2,-97.7,,---,,---,---
+a1d851,N218MD  ,N218MD,GLF4,ground,30.2,-97.7,G400,Gulfstream Aerospace,G400,Starflite Management Group Inc,G400
+a7e92a,N609EZ  ,N609EZ,GLF4,ground,30.2,-97.7,G450,Gulfstream Aerospace,G450,Yates Aviation LLC,G450
+a49fd2,N3975A  ,N3975A,CL30,ground,30.2,-97.7,CL30,Bombardier,CL30,Craft Charter,Challenger 300
+a1316e,N176WC  ,N176WC,CL30,ground,30.2,-97.7,CL35,Bombardier,CL35,Washington Corp,Challenger 350
+a2e243,N285TM  ,N285TM,G280,ground,30.2,-97.7,G280,Gulfstream Aerospace,G280,EMC Corp,G280
+a7b444,LXJ596  ,N596FX,CL30,ground,30.2,-97.7,CL35,Bombardier,LXJ,Flexjet,Challenger 350
+a32484,STV3    ,N301RD,F900,ground,30.2,-97.7,F900,Dassault,STV,Saturn Aviation,Falcon 900 B
+a41ef3,N365AV  ,N365AV,CL30,ground,30.2,-97.7,,---,,---,---
+a6532a,N5064M  ,N5064M,GLF5,ground,30.2,-97.7,,---,,---,---
+a2012f,N22805  ,N22805,G280,ground,30.2,-97.7,G280,Gulfstream Aerospace,G280,Liqwd Inc,G280
+a6f637,LXJ548  ,N548FX,CL30,ground,30.2,-97.7,CL30,Bombardier,LXJ,Flexjet,Challenger 300
+a41487,N362JE  ,N362JE,CL30,ground,30.2,-97.7,CL30,Bombardier,EDG,Jet Edge,Challenger 300
+ab2fcc,N82PE   ,N82PE,G280,ground,30.2,-97.7,G280,Gulfstream Aerospace,G280,White Jet LLC,G280
+a004bf,N100AL  ,N100AL,GLF6,ground,30.2,-97.7,G650,Gulfstream Aerospace,G650,Abbott Laboratories Inc,G650 ER
+a6f7ba,XOJ548  ,N548XJ,CL30,ground,30.2,-97.7,CL30,Bombardier,XOJ,XO,Challenger 300
+aadf09,EDG8    ,N8VC,GLF4,ground,30.2,-97.7,G450,Gulfstream Aerospace,EDG,Jet Edge,G450
+a13044,EDG17   ,N176JE,GLF4,ground,30.2,-97.7,GLF4,Gulfstream Aerospace,EDG,Jet Edge,GIV SP
+a35252,TWY313  ,N313DS,CL30,ground,30.2,-97.7,CL30,Bombardier,TWY,Solairus Aviation,Challenger 300
+a814f2,N62LV   ,N62LV,GLEX,ground,30.2,-97.7,GL7T,Bombardier,GL7T,AMB Group LLC,Global 7500
+aab109,JCY900  ,N7883K,F900,ground,30.2,-97.7,F9EX,Dassault,JCY,Aerius Management,Falcon 900EX EASy
+a9ff1e,EJA743  ,N743QS,CL30,ground,30.2,-97.7,CL35,Bombardier,EJA,NetJets,Challenger 350
+a72b34,LXJ561  ,N561FX,CL30,ground,30.2,-97.7,CL35,Bombardier,LXJ,Flexjet,Challenger 350
+acd854,N927BR  ,N927BR,F900,ground,30.2,-97.7,F900,Dassault,F900,Fur Management & Consulting LLC,Falcon 900 C
+a9936e,N716MD  ,N716MD,G280,ground,30.2,-97.7,G280,Gulfstream Aerospace,G280,Oklahoma Aviation,G280
+ada91e,N98DH   ,N98DH,FA50,ground,30.2,-97.7,FA50,Dassault,FA50,Simon Air LLC,Falcon 50
+a54a2d,N44VP   ,N44VP,F900,ground,30.2,-97.7,F9EX,Dassault,F9EX,Gable S Corp,Falcon 900EX
+a34ea4,N312EA  ,N312EA,CL30,ground,30.2,-97.7,CL35,Bombardier,EDG,Jet Edge,Challenger 350
+a141f6,EJM180  ,N180PE,GLEX,ground,30.2,-97.7,GL6T,Bombardier,EJM,Executive Jet Management,Global 6000
+ac3428,TWY886  ,N886AJ,GLF6,ground,30.2,-97.7,G650,Gulfstream Aerospace,TWY,Solairus Aviation,G650 ER
+a4ad57,N400HG  ,N400HG,GLF4,ground,30.2,-97.7,GLF4,Gulfstream Aerospace,GLF4,Starflite Management Group Inc,GIV
+a79b5b,TWY26   ,N59DB,GLEX,ground,30.2,-97.7,GLEX,Bombardier,TWY,Solairus Aviation,Global Express
+ab4147,N824S   ,N824S,F900,ground,30.4,-97.6,F900,Dassault,F900,Meregrass Inc,Falcon 900
+a1175a,N17FJ   ,N17FJ,GLF5,ground,30.4,-97.6,GLF5,Gulfstream Aerospace,GLF5,Corporate,GV
+a637f3,N50DS   ,N50DS,GL5T,ground,30.4,-97.6,,---,,---,---
+a37ec7,N324SL  ,N324SL,F900,ground,30.4,-97.6,F9EX,Dassault,F9EX,DAA2 Holdings LLC,Falcon 900EX
+a41b88,N364DW  ,N364DW,CL30,ground,30.5,-87.2,,---,,---,---
+a3d17b,N345SK  ,N345SK,F900,ground,30.8,-83.3,F900,Dassault,F900,SBK Capital LLC,Falcon 900 B
+ac703b,N900LW  ,N900LW,F900,ground,31.9,-102.2,F9EX,Dassault,F9EX,MNW Aviation LLC,Falcon 900EX EASy
+a0228f,N108BK  ,N108BK,FA50,ground,31.9,-102.2,FA50,Dassault,FA50,Kent Aviation LLC,Falcon 50
+aa0a43,EJA746  ,N746QS,CL30,ground,31.9,-102.2,CL35,Bombardier,EJA,NetJets,Challenger 350
+a7df02,N606RB  ,N606RB,CL30,ground,31.9,-102.2,,---,,---,---
+140ae2,DXT9678 ,RA-02786,E35L,ground,32.0,34.9,E35L,Embraer,DXT,Air Management Group,Legacy 600
+491d99,NJE985M ,CS-GLY,GL5T,ground,32.0,34.9,GL5T,Bombardier,NJE,NetJets Europe,Global 5000
+5001bb,T7CPX   ,T7-CPX,GLF4,ground,32.0,34.9,GLF4,Gulfstream Aerospace,GLF4,Swift Wings Aviation Ltd,GIV SP
+15063b,TUL9702 ,RA-67131,GL5T,ground,32.0,34.9,GL5T,Bombardier,TUL,Tulpar Air,Global 5000
+738a69,BDK18   ,452,GLF5,ground,32.0,34.9,G550,Gulfstream Aerospace,IAF,Israeli Air Force,G550
+140b29,RA02857 ,RA-02857,E35L,ground,32.0,34.9,E35L,Embraer,RSJ,Rus Jet,Legacy 600
+a724ce,ULA7    ,N56CL,FA7X,ground,32.1,-110.9,FA7X,Dassault,ULA,UltraAir,Falcon 7X
+aa423a,N760HC  ,N760HC,CL30,ground,32.1,-81.2,CL35,Bombardier,CL35,Holder Construction Group LLC,Challenger 350
+a66b9e,N5123   ,N5123,FA50,ground,32.1,-81.2,FA50,Dassault,FA50,TPI Aircraft Interiors LLC,Falcon 50
+add36e,N990JC  ,N990JC,CL30,ground,32.1,-81.2,CL30,Bombardier,CL30,FHI LLC,Challenger 300
+a7f349,PWA611  ,N611JM,GLF4,ground,32.1,-81.2,GLF4,Gulfstream Aerospace,PWA,Priester Aviation,GIV
+aa7541,N773MB  ,N773MB,G280,ground,32.1,-81.2,G280,Gulfstream Aerospace,G280,MB Ramble On LLC,G280
+abe1ad,N865CS  ,N865CS,F900,ground,32.2,-80.7,F9EX,Dassault,F9EX,Reef Aviation LLC,Falcon 900EX EASy
+a79b49,N59CJ   ,N59CJ,FA50,ground,32.2,-80.7,FA50,Dassault,FA50,Optical Air Data Systems LLC,Falcon 50
+ab7e2a,N84GV   ,N84GV,GLF5,ground,32.3,-86.4,GLF5,Gulfstream Aerospace,JAS,Jet Aviation Flight Services,GV
+a638ce,TWY50   ,N50NL,FA7X,ground,32.3,-86.4,FA7X,Dassault,TWY,Solairus Aviation,Falcon 7X
+a1c9ea,EJM214  ,N214RW,CL30,ground,32.4,-111.2,CL35,Bombardier,EJM,Executive Jet Management,Challenger 350
+a3ee1f,XOJ352  ,N352VJ,CL30,ground,32.4,-64.7,,---,,---,---
+aa02d5,N744QS  ,N744QS,CL30,ground,32.4,-64.7,CL35,Bombardier,EJA,NetJets,Challenger 350
+aa3ce7,EJA759  ,N759QS,CL30,ground,32.5,-84.9,CL35,Bombardier,EJA,NetJets,Challenger 350
+ac9166,N909JC  ,N909JC,GLF5,ground,32.6,-117.0,G550,Gulfstream Aerospace,G550,Craft Charter,G550
+a64934,N504ED  ,N504ED,FA50,ground,32.6,-117.0,FA50,Dassault,FA50,Century Aviation,Falcon 50
+4d210b,VJT904  ,9H-VJY,GLEX,ground,32.7,-117.2,GL6T,Bombardier,VJT,VistaJet,Global 6000
+a96c47,EJA706  ,N706QS,CL30,ground,32.7,-117.2,CL35,Bombardier,EJA,NetJets,Challenger 350
+a31c5a,N3TS    ,N3TS,GLEX,ground,32.7,-117.2,GL7T,Bombardier,JAS,Jet Aviation Flight Services,Global 7500
+a950b2,N7JP    ,N7JP,GLF6,ground,32.7,-117.2,G650,Gulfstream Aerospace,G650,Corporate,G650
+424786,VPCOR   ,VP-COR,GLF6,ground,32.7,-117.2,,---,,---,---
+a2ce17,N280BC  ,N280BC,GLF4,ground,32.7,-117.2,G450,Gulfstream Aerospace,G450,Liberty Mutual Insurance Company,G450
+ad5a60,LXJ96   ,N96FX,GLEX,ground,32.7,-117.2,GLEX,Bombardier,LXJ,Flexjet,Global Express
+a6b86e,LXJ532  ,N532FX,CL30,ground,32.7,-117.2,CL30,Bombardier,LXJ,Flexjet,Challenger 300
+a3278d,N302JE  ,N302JE,CL30,ground,32.7,-117.2,CL30,Bombardier,EDG,Jet Edge,Challenger 300
+a491af,EJM159  ,N394AK,GLF4,ground,32.7,-117.2,GLF4,Gulfstream Aerospace,EJM,Executive Jet Management,GIV SP
+a2c983,N279SH  ,N279SH,GLF5,ground,32.7,-117.2,G550,Gulfstream Aerospace,JPT,Prime Jet,G550
+a99d8d,XSR719  ,N719AS,CL30,ground,32.7,-117.2,CL35,Bombardier,XSR,Executive AirShare,Challenger 350
+ac3f7d,N889CG  ,N889CG,GLF4,ground,32.7,-117.2,GLF4,Gulfstream Aerospace,JPT,Prime Jet,GIV SP
+a001af,01234567,N1TD,GLF4,ground,32.7,-117.2,GLF4,Gulfstream Aerospace,GLF4,Air 7,GIV
+a78557,LXJ584  ,N584FX,CL30,ground,32.7,-117.2,CL35,Bombardier,LXJ,Flexjet,Challenger 350
+a5bffe,N47NS   ,N47NS,FA50,ground,32.8,-97.4,FA50,Dassault,FA50,DHB Falcon LLC,Falcon 50
+a3fc35,N356ML  ,N356ML,CL30,ground,32.8,-97.4,CL30,Bombardier,CL30,Corporate,Challenger 300
+acd854,N927BR  ,N927BR,F900,ground,32.8,-97.4,F900,Dassault,F900,Fur Management & Consulting LLC,Falcon 900 C
+a593b1,EJM59   ,N459BN,G280,ground,32.8,-97.4,G280,Gulfstream Aerospace,EJM,Executive Jet Management,G280
+ac916f,N909JM  ,N909JM,FA50,ground,32.8,-97.4,F5EX,Dassault,F5EX,Finmor LLC,Falcon 50EX
+a49ad5,EDG39   ,N396U,GLF4,ground,32.8,-97.4,GLF4,Gulfstream Aerospace,EDG,Jet Edge,GIV SP
+a44854,N375WB  ,N375WB,GL5T,ground,32.8,-97.4,GL5T,Bombardier,CLY,Clay Lacy Aviation Inc,Global 5000
+a2ce8d,N280FW  ,N280FW,G280,ground,32.8,-97.4,G280,Gulfstream Aerospace,G280,Richardson Aviation,G280
+accf03,00000000,N924WJ,FA50,ground,32.8,-97.4,FA50,Dassault,FA50,Avatar Wings LLC,Falcon 50
+ac6fd8,PWA901  ,N900GX,GL5T,ground,32.8,-96.9,GL5T,Bombardier,PWA,Priester Aviation,Global 5000
+a7907c,LXJ587  ,N587FX,CL30,ground,32.8,-96.8,CL35,Bombardier,LXJ,Flexjet,Challenger 350
+a16b24,N1904W  ,N1904W,GLF4,ground,32.8,-96.8,GLF4,Gulfstream Aerospace,PVA,Planet Nine Private Air,GIV SP
+a7b444,LXJ596  ,N596FX,CL30,ground,32.8,-96.8,CL35,Bombardier,LXJ,Flexjet,Challenger 350
+a333e5,N305WM  ,N305WM,CL30,ground,32.8,-96.8,CL30,Bombardier,CL30,WM Aviation LLC,Challenger 300
+a2f5b7,N290CL  ,N290CL,CL30,ground,32.8,-96.8,CL30,Bombardier,CL30,JS Leasing LLC,Challenger 300
+a88d4d,LXJ650  ,N650FX,GLF6,ground,32.8,-96.8,G650,Gulfstream Aerospace,LXJ,Flexjet,G650
+a9ede9,EJA739  ,N739QS,CL30,ground,32.8,-96.8,CL35,Bombardier,EJA,NetJets,Challenger 350
+a0e956,EJA158  ,N158QS,GLEX,ground,32.8,-96.8,GL6T,Bombardier,EJA,NetJets,Global 6500
+a7bf69,LXJ599  ,N599FX,CL30,ground,32.8,-96.8,CL35,Bombardier,LXJ,Flexjet,Challenger 350
+aa269d,EJA753  ,N753QS,CL30,ground,32.8,-96.8,CL35,Bombardier,EJA,NetJets,Challenger 350
+a7277d,LXJ560  ,N560FX,CL30,ground,32.8,-96.8,CL35,Bombardier,LXJ,Flexjet,Challenger 350
+a001b7,N1TM    ,N1TM,GLF4,ground,32.8,-96.8,GLF4,Gulfstream Aerospace,GLF4,Marsico Aviation,GIV SP
+a80cbe,WDY618  ,N618CX,F900,ground,32.8,-96.8,F900,Dassault,WDY,Phoenix Airlines Services,Falcon 900 B
+ab8f51,N844GF  ,N844GF,GLF4,ground,32.8,-96.8,G450,Gulfstream Aerospace,G450,Diamond A Administration Company LLC,G450
+a96890,EJA705  ,N705QS,CL30,ground,32.8,-96.8,CL35,Bombardier,EJA,NetJets,Challenger 350
+a86407,N64MT   ,N64MT,GLEX,ground,32.8,-96.8,GLEX,Bombardier,GLEX,Windtop Inc,Global Express XRS
+a6f9ee,LXJ549  ,N549FX,CL30,ground,32.8,-96.8,CL30,Bombardier,LXJ,Flexjet,Challenger 300
+ac3cbd,N888ND  ,N888ND,GLF4,ground,32.8,-96.8,G450,Gulfstream Aerospace,G450,NPM Equipment Leasing LLC,G450
+a2005a,EDG28   ,N228SS,GLEX,ground,32.8,-96.8,GLEX,Bombardier,EDG,Jet Edge,Global Express
+a3a578,N334JE  ,N334JE,CL30,ground,32.9,-97.1,CL30,Bombardier,EDG,Jet Edge,Challenger 300
+a3a578,N334JE  ,N334JE,CL30,ground,32.9,-97.0,CL30,Bombardier,EDG,Jet Edge,Challenger 300
+a95335,N70LF   ,N70LF,F900,ground,32.9,-97.0,F9EX,Dassault,F9EX,GCI Aviation Inc,Falcon 900EX
+a16b24,N1904W  ,N1904W,GLF4,ground,32.9,-96.9,GLF4,Gulfstream Aerospace,PVA,Planet Nine Private Air,GIV SP
+a7b444,LXJ596  ,N596FX,CL30,ground,32.9,-96.9,CL35,Bombardier,LXJ,Flexjet,Challenger 350
+a41b88,N364DW  ,N364DW,CL30,ground,32.9,-96.9,,---,,---,---
+a7277d,LXJ560  ,N560FX,CL30,ground,32.9,-96.9,CL35,Bombardier,LXJ,Flexjet,Challenger 350
+a80cbe,WDY618  ,N618CX,F900,ground,32.9,-96.9,F900,Dassault,WDY,Phoenix Airlines Services,Falcon 900 B
+a96890,EJA705  ,N705QS,CL30,ground,32.9,-96.9,CL35,Bombardier,EJA,NetJets,Challenger 350
+a3201f,N300JE  ,N300JE,CL30,ground,32.9,-96.9,CL30,Bombardier,EDG,Jet Edge,Challenger 300
+ab0745,N81CR   ,N81CR,CL30,ground,32.9,-96.9,CL30,Bombardier,CL30,Progress Rail Services Corp,Challenger 300
+a71295,N555GA  ,N555GA,GLF6,ground,32.9,-96.9,G650,Gulfstream Aerospace,G650,Hill Air Corp,G650 ER
+a6fda3,N55FV   ,N55FV,GLF5,ground,32.9,-96.9,GLF5,Gulfstream Aerospace,GLF5,Corporate,GV
+a00623,EJA100  ,N100QS,GL5T,ground,32.9,-96.9,GL5T,Bombardier,EJA,NetJets,Global 5000
+a5d012,N474BC  ,N474BC,FA50,ground,32.9,-96.9,FA50,Dassault,FA50,Proteus Energy LLC,Falcon 50
+a96890,EJA705  ,N705QS,CL30,ground,32.9,-96.8,CL35,Bombardier,EJA,NetJets,Challenger 350
+ac6ab6,EJM384  ,N9CK,GLF5,ground,33.0,-97.3,G550,Gulfstream Aerospace,G550,RESC Investments III LLC,G550
+a1316e,N176WC  ,N176WC,CL30,ground,33.0,-97.3,CL35,Bombardier,CL35,Washington Corp,Challenger 350
+ab2fcc,N82PE   ,N82PE,G280,ground,33.0,-97.3,G280,Gulfstream Aerospace,G280,White Jet LLC,G280
+aa6466,EJA769  ,N769QS,CL30,ground,33.0,-96.8,CL35,Bombardier,EJA,NetJets,Challenger 350
+a12d2f,N175QS  ,N175QS,GLEX,ground,33.0,-96.8,GL7T,Bombardier,EJA,NetJets,Global 7500
+a12d2f,EJA170  ,N175QS,GLEX,ground,33.0,-96.8,GL7T,Bombardier,EJA,NetJets,Global 7500
+a12d2f,EJA175  ,N175QS,GLEX,ground,33.0,-96.8,GL7T,Bombardier,EJA,NetJets,Global 7500
+a732a2,LXJ563  ,N563FX,CL30,ground,33.0,-96.8,CL35,Bombardier,LXJ,Flexjet,Challenger 350
+ab2fcc,N82PE   ,N82PE,G280,ground,33.1,-117.3,G280,Gulfstream Aerospace,G280,White Jet LLC,G280
+a5e790,N48PL   ,N48PL,GLF4,ground,33.1,-117.3,G450,Gulfstream Aerospace,G450,Schubach Aviation,G450
+a5745b,N450Z   ,N450Z,GLF4,ground,33.1,-117.3,G450,Gulfstream Aerospace,G450,ZFO Management LLC,G450
+ac3625,N886WT  ,N886WT,GLF6,ground,33.1,-117.3,G650,Gulfstream Aerospace,LXJ,Flexjet,G650 ER
+aaabf6,EJA787  ,N787QS,CL30,ground,33.1,-117.3,CL35,Bombardier,EJA,NetJets,Challenger 350
+aaabf6,N787QS  ,N787QS,CL30,ground,33.1,-117.3,CL35,Bombardier,EJA,NetJets,Challenger 350
+ac1d80,N88WR   ,N88WR,GLF5,ground,33.1,-117.3,G550,Gulfstream Aerospace,G550,Wynn Resorts,G550
+ab1168,N812GH  ,N812GH,CL30,ground,33.1,-117.3,CL35,Bombardier,CL35,1609 Holdings LLC,Challenger 350
+a6d5bd,JTL5    ,N54BS,GLF5,ground,33.1,-117.3,GLF5,Gulfstream Aerospace,JTL,Jet Linx Aviation,GV
+a69210,DCM6757 ,N522TL,F900,ground,33.2,-96.6,F900,Dassault,F900,Century Aviation,Falcon 900 B
+ac7169,N900YY  ,N900YY,F900,ground,33.2,-96.6,F900,Dassault,F900,BBPS Aviation LLC,Falcon 900 B
+a9fb96,CWG742  ,N742SP,E35L,ground,33.2,-96.6,E35L,Embraer,CWG,Wing Aviation,Legacy 650
+a0c99b,GRP15   ,N15UC,GLF5,ground,33.4,-112.4,,---,,---,---
+ab1168,N812GH  ,N812GH,CL30,ground,33.4,-112.0,CL35,Bombardier,CL35,1609 Holdings LLC,Challenger 350
+a37644,EJM133  ,N322FJ,F900,ground,33.4,-112.0,F9LX,Dassault,EJM,Executive Jet Management,Falcon 900LX
+abd419,N861RV  ,N861RV,CL30,ground,33.4,-112.0,CL30,Bombardier,CL30,Lexit Aircraft Holdings LLC,Challenger 300
+a1c13f,N212DD  ,N212DD,GLF6,ground,33.4,-112.0,G650,Gulfstream Aerospace,G650,Corporate,G650 ER
+a99adb,N718MC  ,N718MC,GLF5,ground,33.4,-112.0,G550,Gulfstream Aerospace,G550,Radical Ventures LLC,G550
+020170,CNEEE   ,CN-EEE,FA7X,ground,33.4,-7.6,,---,,---,---
+aaffcd,HER1    ,N808CF,GLF4,ground,33.6,-111.9,GLF4,Gulfstream Aerospace,HER,Hera Flight,GIV
+a41ef3,N365AV  ,N365AV,CL30,ground,33.6,-111.9,,---,,---,---
+a1c9ea,EJM214  ,N214RW,CL30,ground,33.6,-111.9,CL35,Bombardier,EJM,Executive Jet Management,Challenger 350
+a001af,01234567,N1TD,GLF4,ground,33.6,-111.9,GLF4,Gulfstream Aerospace,GLF4,Air 7,GIV
+a3a578,N334JE  ,N334JE,CL30,ground,33.6,-111.9,CL30,Bombardier,EDG,Jet Edge,Challenger 300
+a645bc,N503GS  ,N503GS,GLF5,ground,33.6,-111.9,G550,Gulfstream Aerospace,G550,AS Air II LLC,G550
+a4a820,N4BZ    ,N4BZ,CL30,ground,33.6,-111.9,CL35,Bombardier,CL35,Bunker Hill Aviation LLC,Challenger 350
+aa9963,EJA782  ,N782QS,CL30,ground,33.6,-111.9,CL35,Bombardier,EJA,NetJets,Challenger 350
+a82d54,PEG6    ,N626JE,GLF5,ground,33.6,-111.9,GLF5,Gulfstream Aerospace,PEG,Pegasus Elite Aviation,GV
+a6eb12,LXJ545  ,N545FX,CL30,ground,33.6,-111.9,CL30,Bombardier,LXJ,Flexjet,Challenger 300
+a953b7,N70RL   ,N70RL,CL30,ground,33.6,-111.9,CL30,Bombardier,CL30,BS Aviation Holdings II LLC,Challenger 300
+a03159,EJA111  ,N111QS,GL5T,ground,33.6,-111.9,GL5T,Bombardier,EJA,NetJets,Global 5000
+a768a2,EJM145  ,N577CF,FA7X,ground,33.6,-111.9,FA7X,Dassault,EJM,Executive Jet Management,Falcon 7X
+a3f5a4,N354WG  ,N354WG,CL30,ground,33.6,-111.9,CL30,Bombardier,CL30,Automatic Press LLC,Challenger 300
+a58c34,N457AY  ,N457AY,CL30,ground,33.6,-111.9,CL35,Bombardier,CL35,Aix Fusion LLC,Challenger 350
+a68371,LXJ519  ,N519FX,CL30,ground,33.6,-111.9,CL30,Bombardier,LXJ,Flexjet,Challenger 300
+adc9a7,EJM98   ,N988JC,GLF5,ground,33.6,-111.9,G550,Gulfstream Aerospace,EJM,Executive Jet Management,G550
+a0001a,CXF1    ,N1AZ,FA7X,ground,33.6,-111.9,FA7X,Dassault,CXF,Arizona Cardinals,Falcon 7X
+a7acd6,LXJ594  ,N594FX,CL30,ground,33.6,-111.9,CL35,Bombardier,LXJ,Flexjet,Challenger 350
+a4343a,N370EL  ,N370EL,CL30,ground,33.6,-111.9,CL30,Bombardier,PCL,Pinnacle Aviation,Challenger 300
+a01cab,N106TD  ,N106TD,GLF4,ground,33.6,-111.9,GLF4,Gulfstream Aerospace,GLF4,Bopper Airways LLC,GIV SP
+a2cd75,N28US   ,N28US,FA50,ground,33.6,-111.9,FA50,Dassault,FA50,FFLV F50 LLC,Falcon 50
+aa6923,N770BC  ,N770BC,GLEX,ground,33.6,-111.9,GL6T,Bombardier,GL6T,Indigo Partners LLC,Global 6000
+a15c44,N187SG  ,N187SG,GLF4,ground,33.6,-111.9,G450,Gulfstream Aerospace,G450,SGA Aviation LLC,G450
+a2a74c,N270JH  ,N270JH,CL30,ground,33.6,-111.9,CL30,Bombardier,CL30,LCG Aviation LLC,Challenger 300
+a0ca4b,N150BC  ,N150BC,FA7X,ground,33.6,-111.9,FA7X,Dassault,FA7X,BRC Transit LLC,Falcon 7X
+a00035,N1CA    ,N1CA,CL30,ground,33.6,-111.9,CL30,Bombardier,PWA,Priester Aviation,Challenger 300
+ac6bd0,N9PS    ,N9PS,GLEX,ground,33.6,-111.9,GL6T,Bombardier,GL6T,N9PS LLC,Global 6000
+ab00ae,N808MF  ,N808MF,GLF4,ground,33.6,-111.9,GLF4,Gulfstream Aerospace,CLY,Clay Lacy Aviation Inc,GIV SP
+a642e3,N502RP  ,N502RP,G280,ground,33.6,-86.8,G280,Gulfstream Aerospace,G280,Penske Jet Inc,G280
+abaf1c,N852DL  ,N852DL,CL30,ground,33.6,-86.8,CL35,Bombardier,CL35,PNC Financial Services Group Inc,Challenger 350
+a63b75,N500RP  ,N500RP,G280,ground,33.6,-86.8,G280,Gulfstream Aerospace,G280,Penske Jet Inc,G280
+a36d8d,N32SF   ,N32SF,E35L,ground,33.6,-86.7,E35L,Embraer,PTF,Petroff Air,Legacy 600
+aa8477,EJA777  ,N777QS,CL30,ground,33.6,-84.4,CL35,Bombardier,EJA,NetJets,Challenger 350
+ada9d7,N98LT   ,N98LT,GLF4,ground,33.7,-117.9,GLF4,Gulfstream Aerospace,GLF4,98LT LLC,GIV SP
+a35252,TWY313  ,N313DS,CL30,ground,33.7,-117.9,CL30,Bombardier,TWY,Solairus Aviation,Challenger 300
+a732a2,LXJ563  ,N563FX,CL30,ground,33.7,-117.9,CL35,Bombardier,LXJ,Flexjet,Challenger 350
+a1c13f,N212DD  ,N212DD,GLF6,ground,33.7,-117.9,G650,Gulfstream Aerospace,G650,Corporate,G650 ER
+ac6bd0,N9PS    ,N9PS,GLEX,ground,33.7,-117.9,GL6T,Bombardier,GL6T,N9PS LLC,Global 6000
+a21b34,N235BH  ,N235BH,GLF6,ground,33.7,-117.9,G650,Gulfstream Aerospace,G650,Hamilton Aviation Inc,G650
+a66530,TBL1    ,N511AK,GLF4,ground,33.7,-117.9,,---,,---,---
+a7dedf,N606PS00,N606PS,GLF4,ground,33.7,-117.9,GLF4,Gulfstream Aerospace,GLF4,Corporate,GIV SP
+a0998a,TWY5    ,N138GL,GLF5,ground,33.7,-117.9,G550,Gulfstream Aerospace,TWY,Solairus Aviation,G550
+4241af,VPCPY   ,VP-CPY,GLF5,ground,33.7,-117.9,G550,Gulfstream Aerospace,G550,Jet Aviation Business Jets (HK) Ltd,G550
+459257,MMD8077 ,OY-DRW,FA7X,ground,33.7,-117.9,,---,,---,---
+a04838,N117WR  ,N117WR,GLF4,ground,33.7,-117.9,G350,Gulfstream Aerospace,G350,Whiskey Romeo Owner LLC,G350
+ac6c2c,N9TJ    ,N9TJ,GLEX,ground,33.7,-117.9,GL6T,Bombardier,GL6T,Execjet II LLC,Global 6000
+aad72c,EJA798  ,N798QS,CL30,ground,33.7,-117.9,CL35,Bombardier,EJA,NetJets,Challenger 350
+a13060,        ,N176KH,GLF6,ground,33.7,-117.9,G650,Gulfstream Aerospace,G650,Global Transport Two LLC,G650 ER
+a13060,00000000,N176KH,GLF6,ground,33.7,-117.9,G650,Gulfstream Aerospace,G650,Global Transport Two LLC,G650 ER
+a13060,N176KH  ,N176KH,GLF6,ground,33.7,-117.9,G650,Gulfstream Aerospace,G650,Global Transport Two LLC,G650 ER
+a39d4d,WSN332  ,N332AR,CL30,ground,33.7,-117.9,CL30,Bombardier,WSN,Advanced Air,Challenger 300
+aa6876,N77UF   ,N77UF,GLEX,ground,33.7,-117.9,GLEX,Bombardier,GLEX,F & L Aviation LLC,Global Express XRS
+ad8539,N970SD  ,N970SD,F900,ground,33.7,-117.9,F9EX,Dassault,F9EX,Cirrus Aviation,Falcon 900EX EASy
+a6a739,LXJ528  ,N528FX,CL30,ground,33.7,-117.9,CL30,Bombardier,LXJ,Flexjet,Challenger 300
+aa42f7,EJA760  ,N760QS,CL30,ground,33.7,-117.9,CL35,Bombardier,EJA,NetJets,Challenger 350
+ac38f5,N887MM  ,N887MM,GLF5,ground,33.7,-117.9,G550,Gulfstream Aerospace,G550,Masimo 17 LLC,G550
+a320d4,N300RL  ,N300RL,CL30,ground,33.7,-117.9,CL30,Bombardier,PCL,Pinnacle Aviation,Challenger 300
+a00494,N10YU   ,N10YU,GLF4,ground,33.7,-117.9,GLF4,Gulfstream Aerospace,GLF4,Nutrawise Corp,GIV
+a18e0b,HOB1    ,N2HL,CL30,ground,33.7,-112.1,CL35,Bombardier,HOB,Hobby Lobby Stores Inc,Challenger 350
+aa8477,EJA777  ,N777QS,CL30,ground,33.7,-84.4,CL35,Bombardier,EJA,NetJets,Challenger 350
+a192cd,FWK40   ,N200JB,CL30,ground,33.7,-84.4,CL35,Bombardier,FWK,FlightWorks Inc,Challenger 350
+a642e3,N502RP  ,N502RP,G280,ground,33.8,-118.2,G280,Gulfstream Aerospace,G280,Penske Jet Inc,G280
+a0c99b,GRP15   ,N15UC,GLF5,ground,33.8,-118.2,,---,,---,---
+aa9963,EJA782  ,N782QS,CL30,ground,33.8,-118.2,CL35,Bombardier,EJA,NetJets,Challenger 350
+a5e739,N48KZ   ,N48KZ,F900,ground,33.8,-118.2,F900,Dassault,CLY,Clay Lacy Aviation Inc,Falcon 900 C
+aa9963,EJA782  ,N782QS,CL30,ground,33.8,-118.1,CL35,Bombardier,EJA,NetJets,Challenger 350
+a5e739,N48KZ   ,N48KZ,F900,ground,33.8,-118.1,F900,Dassault,CLY,Clay Lacy Aviation Inc,Falcon 900 C
+a06035,N123Q   ,N123Q,CL30,ground,33.8,-118.1,CL35,Bombardier,CL35,Dorado Aviation LLC,Challenger 350
+ab394e,N822LL  ,N822LL,CL30,ground,33.8,-116.5,CL35,Bombardier,ELZ,Elite Air,Challenger 350
+aa7f8c,N776CJ  ,N776CJ,CL30,ground,33.8,-116.5,CL30,Bombardier,JTL,Jet Linx Aviation,Challenger 300
+a5766a,KPO451  ,N451GA,GLF4,ground,33.8,-116.5,GLF4,Gulfstream Aerospace,KPO,Wing Aviation Group,GIV SP
+a6fffe,LXJ550  ,N550FX,CL30,ground,33.8,-116.5,CL30,Bombardier,LXJ,Flexjet,Challenger 300
+aca2be,N913KN  ,N913KN,G280,ground,33.8,-116.5,G280,Gulfstream Aerospace,G280,Black Knight Infoserv LLC,G280
+a941b2,N696HC  ,N696HC,G280,ground,33.8,-116.5,G280,Gulfstream Aerospace,G280,Henry Crown & Company,G280
+a3ea68,XOJ351  ,N351VJ,CL30,ground,33.8,-116.5,CL35,Bombardier,XOJ,XO,Challenger 350
+a814f2,N62LV   ,N62LV,GLEX,ground,33.8,-84.5,GL7T,Bombardier,GL7T,AMB Group LLC,Global 7500
+a7f294,N611BF  ,N611BF,GLEX,ground,33.8,-84.5,GL6T,Bombardier,GL6T,AMB Group LLC,Global 6000
+a0db63,N1540   ,N1540,G280,ground,33.8,-84.5,G280,Gulfstream Aerospace,G280,Cox Communications Inc,G280
+ac82e4,N905MT  ,N905MT,CL30,ground,33.8,-84.5,CL30,Bombardier,CL30,Metaltek Aviation GA LLC,Challenger 300
+ab502d,N828SK  ,N828SK,CL30,ground,33.8,-84.5,CL30,Bombardier,CL30,Jaztec LLC,Challenger 300
+a04758,N117MS  ,N117MS,GL5T,ground,33.9,-118.4,GL5T,Bombardier,CLY,Clay Lacy Aviation Inc,Global 5000
+4d2089,VJT741  ,9H-VJE,GLEX,ground,33.9,-118.4,GL6T,Bombardier,VJT,VistaJet,Global 6000
+a88e65,EDG65   ,N650TB,E35L,ground,33.9,-118.4,E35L,Embraer,EDG,Jet Edge,Legacy 650
+a95c9a,N702GH  ,N702GH,GLF4,ground,33.9,-118.4,GLF4,Gulfstream Aerospace,GLF4,Starjet Inc,GIV SP
+a31c5a,N3TS    ,N3TS,GLEX,ground,33.9,-118.4,GL7T,Bombardier,JAS,Jet Aviation Flight Services,Global 7500
+a491af,EJM159  ,N394AK,GLF4,ground,33.9,-118.4,GLF4,Gulfstream Aerospace,EJM,Executive Jet Management,GIV SP
+aa9963,EJA782  ,N782QS,CL30,ground,33.9,-118.4,CL35,Bombardier,EJA,NetJets,Challenger 350
+aa8477,EJA777  ,N777QS,CL30,ground,33.9,-118.4,CL35,Bombardier,EJA,NetJets,Challenger 350
+a39d4d,WSN332  ,N332AR,CL30,ground,33.9,-118.4,CL30,Bombardier,WSN,Advanced Air,Challenger 300
+a6fffe,LXJ550  ,N550FX,CL30,ground,33.9,-118.4,CL30,Bombardier,LXJ,Flexjet,Challenger 300
+a9c6e7,N729VS  ,N729VS,GLEX,ground,33.9,-118.4,GL7T,Bombardier,GL7T,MP Air Inc,Global 7500
+a6982f,N524EA  ,N524EA,GLF6,ground,33.9,-118.4,G650,Gulfstream Aerospace,G650,Falstaff Partners LLC,G650 ER
+a6982f,        ,N524EA,GLF6,ground,33.9,-118.4,G650,Gulfstream Aerospace,G650,Falstaff Partners LLC,G650 ER
+a4a8fa,N4LS    ,N4LS,CL30,ground,33.9,-118.4,,---,,---,---
+a2cbf0,N28DC   ,N28DC,F900,ground,33.9,-118.4,F900,Dassault,TEX,Freedom Jets,Falcon 900 B
+aa6e2d,EJA771  ,N771QS,CL30,ground,33.9,-118.4,CL35,Bombardier,EJA,NetJets,Challenger 350
+a576c4,WWI111  ,N451KR,GLF4,ground,33.9,-118.4,GLF4,Gulfstream Aerospace,WWI,Worldwide Jet Charter,GIV SP
+a093bd,LXJ1361 ,N136ZC,GLF6,ground,33.9,-118.4,G650,Gulfstream Aerospace,LXJ,Flexjet,G650
+a810d7,N619GV  ,N619GV,GLF5,ground,33.9,-118.4,GLF5,Gulfstream Aerospace,GLF5,Trans-Exec Air Service Inc,GV
+a6b59e,N531RC  ,N531RC,G280,ground,33.9,-118.4,G280,Gulfstream Aerospace,G280,Henry Crown & Company,G280
+3c4cb6,IFA561  ,D-ACEV,GLEX,ground,33.9,-118.4,GLEX,Bombardier,IFA,FAI Rent-a-Jet AG,Global Express
+ac3c86,EJM30   ,N888KZ,GLF5,ground,33.9,-118.4,G550,Gulfstream Aerospace,EJM,Executive Jet Management,G550
+a3769f,EJM322  ,N322K,GLF5,ground,33.9,-118.4,G550,Gulfstream Aerospace,EJM,Executive Jet Management,G550
+a23047,N240CX  ,N240CX,GLF6,ground,33.9,-118.4,G650,Gulfstream Aerospace,G650,Onex Partners Advisor Group Inc,G650
+a0a7d6,EJA141  ,N141QS,GLEX,ground,33.9,-118.4,GL6T,Bombardier,EJA,NetJets,Global 6000
+a3b492,N338LS  ,N338LS,GLF5,ground,33.9,-118.4,G550,Gulfstream Aerospace,G550,Las Vegas Sands Corp,G550
+a75dd8,LXJ574  ,N574FX,CL30,ground,33.9,-118.4,CL35,Bombardier,LXJ,Flexjet,Challenger 350
+a77706,N580ML  ,N580ML,E35L,ground,33.9,-118.4,E35L,Embraer,E35L,Aircraft Services Group,Legacy 600
+addfed,EJM216  ,N993XZ,FA7X,ground,33.9,-118.4,FA7X,Dassault,EJM,Executive Jet Management,Falcon 7X
+a63722,N5VJ    ,N5VJ,F900,ground,33.9,-118.4,F9EX,Dassault,GAJ,Gama Aviation Signature,Falcon 900EX
+a5a19c,LXJ462  ,N462FX,GLF4,ground,33.9,-118.4,G450,Gulfstream Aerospace,LXJ,Flexjet,G450
+a0326c,N1111G  ,N1111G,GLEX,ground,33.9,-118.4,GL7T,Bombardier,RKS,Phenix Jet,Global 7500
+aa9244,N780TW  ,N780TW,GLF6,ground,33.9,-118.4,G650,Gulfstream Aerospace,G650,IBM Corp,G650 ER
+a13e9d,EJM18   ,N18CZ,GLEX,ground,33.9,-118.4,GL6T,Bombardier,EJM,Executive Jet Management,Global 6000
+a63b6f,N500RH  ,N500RH,GLF5,ground,33.9,-118.4,,---,,---,---
+a33a50,TWY25   ,N307LC,FA7X,ground,33.9,-118.4,FA7X,Dassault,TWY,Solairus Aviation,Falcon 7X
+adf1e7,N998RW  ,N998RW,FA7X,ground,33.9,-118.4,FA7X,Dassault,JTL,Jet Linx Aviation,Falcon 7X
+a968b4,N705SC  ,N705SC,CL30,ground,33.9,-118.4,,---,,---,---
+a39d4d,WSN332  ,N332AR,CL30,ground,33.9,-118.3,CL30,Bombardier,WSN,Advanced Air,Challenger 300
+a2e51d,WSN286  ,N286JR,CL30,ground,33.9,-118.3,CL30,Bombardier,WSN,Advanced Air,Challenger 300
+a71295,N555GA  ,N555GA,GLF6,ground,33.9,-81.1,G650,Gulfstream Aerospace,G650,Hill Air Corp,G650 ER
+a3e607,N350NP  ,N350NP,CL30,ground,33.9,-81.1,CL35,Bombardier,NUS,N-Jet,Challenger 350
+a64cd3,N505DE  ,N505DE,FA50,ground,34.0,-118.5,F5EX,Dassault,F5EX,Paul T Marinelli Trustee,Falcon 50EX
+a64cd3,N505DE  ,N505DE,FA50,ground,34.0,-118.4,F5EX,Dassault,F5EX,Paul T Marinelli Trustee,Falcon 50EX
+a5f536,N483RA  ,N483RA,GLF4,ground,34.0,-117.6,GLF4,Gulfstream Aerospace,GLF4,Threshold Aviation Group,GIV
+acce1b,N924MB  ,N924MB,GLF4,ground,34.0,-117.6,GLF4,Gulfstream Aerospace,GLF4,Starjet Inc,GIV
+ab00ae,N808MF  ,N808MF,GLF4,ground,34.2,-119.1,GLF4,Gulfstream Aerospace,CLY,Clay Lacy Aviation Inc,GIV SP
+a6fffe,LXJ550  ,N550FX,CL30,ground,34.2,-119.1,CL30,Bombardier,LXJ,Flexjet,Challenger 300
+ab0a46,N810KJ  ,N810KJ,GLEX,ground,34.2,-119.1,GL7T,Bombardier,TWY,Solairus Aviation,Global 7500
+a95514,N700FJ  ,N700FJ,GLF4,ground,34.2,-119.1,GLF4,Gulfstream Aerospace,JPT,Prime Jet,GIV SP
+a7bf10,N599CH  ,N599CH,GLEX,ground,34.2,-119.1,GL6T,Bombardier,GL6T,Avwest P/L,Global 6000
+a500fe,N421SZ  ,N421SZ,GLEX,ground,34.2,-119.1,GL7T,Bombardier,GL7T,Gex Leasing Corp,Global 7500
+a23f37,N244DS  ,N244DS,GLF6,ground,34.2,-119.1,G650,Gulfstream Aerospace,G650,DS Aviation LLC,G650 ER
+a03ed3,N115AN  ,N115AN,CL30,ground,34.2,-119.1,CL30,Bombardier,CL30,Dornoch Leasing LLC,Challenger 300
+0aa001,X8PASD  ,8P-ASD,GLF6,ground,34.2,-119.1,G650,Gulfstream Aerospace,G650,Grupo Santo Domingo,G650 ER
+aa26b3,N753RP  ,N753RP,CL30,ground,34.2,-119.1,CL30,Bombardier,CL30,Cirrus Aviation,Challenger 300
+aa8be5,EJA779  ,N779QS,CL30,ground,34.2,-119.1,CL35,Bombardier,EJA,NetJets,Challenger 350
+a16b24,N1904W  ,N1904W,GLF4,ground,34.2,-118.5,GLF4,Gulfstream Aerospace,PVA,Planet Nine Private Air,GIV SP
+a96c47,EJA706  ,N706QS,CL30,ground,34.2,-118.5,CL35,Bombardier,EJA,NetJets,Challenger 350
+a81ed7,JTZ622  ,N622N,CL30,ground,34.2,-118.5,CL30,Bombardier,JTZ,Nicholas Air,Challenger 300
+a1316e,N176WC  ,N176WC,CL30,ground,34.2,-118.5,CL35,Bombardier,CL35,Washington Corp,Challenger 350
+a41487,N362JE  ,N362JE,CL30,ground,34.2,-118.5,CL30,Bombardier,EDG,Jet Edge,Challenger 300
+aadf09,EDG8    ,N8VC,GLF4,ground,34.2,-118.5,G450,Gulfstream Aerospace,EDG,Jet Edge,G450
+ac9166,N909JC  ,N909JC,GLF5,ground,34.2,-118.5,G550,Gulfstream Aerospace,G550,Craft Charter,G550
+a950b2,N7JP    ,N7JP,GLF6,ground,34.2,-118.5,G650,Gulfstream Aerospace,G650,Corporate,G650
+a3278d,N302JE  ,N302JE,CL30,ground,34.2,-118.5,CL30,Bombardier,EDG,Jet Edge,Challenger 300
+ac3f7d,N889CG  ,N889CG,GLF4,ground,34.2,-118.5,GLF4,Gulfstream Aerospace,JPT,Prime Jet,GIV SP
+a7bf69,LXJ599  ,N599FX,CL30,ground,34.2,-118.5,CL35,Bombardier,LXJ,Flexjet,Challenger 350
+a4a848,N4DPN4BP,N4DP,GLF4,ground,34.2,-118.5,GLF4,Gulfstream Aerospace,GLF4,Green Chair Productions Inc,GIV
+a2005a,EDG28   ,N228SS,GLEX,ground,34.2,-118.5,GLEX,Bombardier,EDG,Jet Edge,Global Express
+a3a578,N334JE  ,N334JE,CL30,ground,34.2,-118.5,CL30,Bombardier,EDG,Jet Edge,Challenger 300
+ac1d80,N88WR   ,N88WR,GLF5,ground,34.2,-118.5,G550,Gulfstream Aerospace,G550,Wynn Resorts,G550
+abd419,N861RV  ,N861RV,CL30,ground,34.2,-118.5,CL30,Bombardier,CL30,Lexit Aircraft Holdings LLC,Challenger 300
+a82d54,PEG6    ,N626JE,GLF5,ground,34.2,-118.5,GLF5,Gulfstream Aerospace,PEG,Pegasus Elite Aviation,GV
+a768a2,EJM145  ,N577CF,FA7X,ground,34.2,-118.5,FA7X,Dassault,EJM,Executive Jet Management,Falcon 7X
+a01cab,N106TD  ,N106TD,GLF4,ground,34.2,-118.5,GLF4,Gulfstream Aerospace,GLF4,Bopper Airways LLC,GIV SP
+a2cd75,N28US   ,N28US,FA50,ground,34.2,-118.5,FA50,Dassault,FA50,FFLV F50 LLC,Falcon 50
+ad8539,N970SD  ,N970SD,F900,ground,34.2,-118.5,F9EX,Dassault,F9EX,Cirrus Aviation,Falcon 900EX EASy
+aa42f7,EJA760  ,N760QS,CL30,ground,34.2,-118.5,CL35,Bombardier,EJA,NetJets,Challenger 350
+a5e739,N48KZ   ,N48KZ,F900,ground,34.2,-118.5,F900,Dassault,CLY,Clay Lacy Aviation Inc,Falcon 900 C
+a5766a,KPO451  ,N451GA,GLF4,ground,34.2,-118.5,GLF4,Gulfstream Aerospace,KPO,Wing Aviation Group,GIV SP
+a810d7,N619GV  ,N619GV,GLF5,ground,34.2,-118.5,GLF5,Gulfstream Aerospace,GLF5,Trans-Exec Air Service Inc,GV
+a64cd3,N505DE  ,N505DE,FA50,ground,34.2,-118.5,F5EX,Dassault,F5EX,Paul T Marinelli Trustee,Falcon 50EX
+a5f536,N483RA  ,N483RA,GLF4,ground,34.2,-118.5,GLF4,Gulfstream Aerospace,GLF4,Threshold Aviation Group,GIV
+acce1b,N924MB  ,N924MB,GLF4,ground,34.2,-118.5,GLF4,Gulfstream Aerospace,GLF4,Starjet Inc,GIV
+ab0a46,N810KJ  ,N810KJ,GLEX,ground,34.2,-118.5,GL7T,Bombardier,TWY,Solairus Aviation,Global 7500
+aa26b3,N753RP  ,N753RP,CL30,ground,34.2,-118.5,CL30,Bombardier,CL30,Cirrus Aviation,Challenger 300
+aa8be5,EJA779  ,N779QS,CL30,ground,34.2,-118.5,CL35,Bombardier,EJA,NetJets,Challenger 350
+a2dd33,N284DS  ,N284DS,GLEX,ground,34.2,-118.5,GL6T,Bombardier,GL6T,Corporate,Global 6000
+aa4cfa,N763DB  ,N763DB,GLF4,ground,34.2,-118.5,GLF4,Gulfstream Aerospace,GLF4,Trans-Exec Air Service Inc,GIV
+a88ebf,N650WS  ,N650WS,GLF6,ground,34.2,-118.5,G650,Gulfstream Aerospace,G650,Corporate,G650 ER
+aa5f64,N768BL  ,N768BL,CL30,ground,34.2,-118.5,CL35,Bombardier,CL35,Trinity Property Group II LLC,Challenger 350
+a0fe42,EJA163  ,N163QS,GLEX,ground,34.2,-118.5,GL6T,Bombardier,EJA,NetJets,Global 6000
+a912de,N684JC  ,N684JC,GLF4,ground,34.2,-118.5,GLF4,Gulfstream Aerospace,TFF,Talon Air,GIV SP
+a327cc,SIS302  ,N302LT,CL30,ground,34.2,-118.5,CL30,Bombardier,SIS,Silver Air,Challenger 300
+ad2062,EDG45   ,N945GS,GLF4,ground,34.2,-118.5,GLF4,Gulfstream Aerospace,EDG,Jet Edge,GIV SP
+adf413,KFB999  ,N999AA,GLF4,ground,34.2,-118.5,GLF4,Gulfstream Aerospace,KFB,STAjets,GIV SP
+a00cef,EDG48   ,N102JE,GLF4,ground,34.2,-118.5,GLF4,Gulfstream Aerospace,EDG,Jet Edge,GIV SP
+ab0064,N808JG  ,N808JG,GLF5,ground,34.2,-118.5,GLF5,Gulfstream Aerospace,JPT,Prime Jet,GV
+a2cba6,TWY84   ,N28AD,GLF4,ground,34.2,-118.5,G450,Gulfstream Aerospace,TWY,Solairus Aviation,G450
+aa6a76,EJA770  ,N770QS,CL30,ground,34.2,-118.5,CL35,Bombardier,EJA,NetJets,Challenger 350
+a31fc6,N300ER  ,N300ER,CL30,ground,34.2,-118.5,CL30,Bombardier,XSR,Executive AirShare,Challenger 300
+a72598,N56LN   ,N56LN,FA50,ground,34.2,-118.5,FA50,Dassault,FA50,Century Jets,Falcon 50
+a78116,N583AJ  ,N583AJ,GLF4,ground,34.2,-118.5,GLF4,Gulfstream Aerospace,KFB,STAjets,GIV
+a78116,KFB583  ,N583AJ,GLF4,ground,34.2,-118.5,GLF4,Gulfstream Aerospace,KFB,STAjets,GIV
+a14000,KFB18   ,N18TD,GLF4,ground,34.2,-118.5,GLF4,Gulfstream Aerospace,KFB,STAjets,GIV
+a0fc23,N1625   ,N1625,GLF4,ground,34.2,-118.5,GLF4,Gulfstream Aerospace,CLY,Clay Lacy Aviation Inc,GIV SP
+a64ab0,XOJ504  ,N504VJ,GL5T,ground,34.2,-118.5,GL5T,Bombardier,XOJ,XO,Global 5000
+a1e97f,N222LX  ,N222LX,GLF5,ground,34.2,-118.5,GLF5,Gulfstream Aerospace,GLF5,Trans Exec Air Service Inc,GV
+ac1fe2,N880X   ,N880X,GLEX,ground,34.2,-118.5,GL6T,Bombardier,GL6T,Pratt Aviation P/L,Global 6000
+a89c29,LXJ654  ,N654FX,GLF6,ground,34.2,-118.5,,---,,---,---
+a35ebc,N316SS  ,N316SS,F900,ground,34.2,-118.5,F900,Dassault,F900,Century Jets,Falcon 900
+a6fe60,PEG55   ,N55PJ,GLF4,ground,34.2,-118.5,GLF4,Gulfstream Aerospace,PEG,Pegasus Elite Aviation,GIV
+a63f8b,XOJ501  ,N501VJ,GL5T,ground,34.2,-118.5,GL5T,Bombardier,XOJ,XO,Global 5000
+a97088,KPO707  ,N707WE,GLF4,ground,34.2,-118.5,GLF4,Gulfstream Aerospace,KPO,Wing Aviation Group,GIV SP
+a9848a,TWY21   ,N712LW,GLF4,ground,34.2,-118.5,G400,Gulfstream Aerospace,TWY,Solairus Aviation,G400
+ac3dcd,N888ZA  ,N888ZA,F900,ground,34.2,-118.5,F9EX,Dassault,CLY,Clay Lacy Aviation Inc,Falcon 900EX EASy
+a9b78e,EJA725  ,N725QS,CL30,ground,34.2,-118.5,CL35,Bombardier,EJA,NetJets,Challenger 350
+a73659,LXJ564  ,N564FX,CL30,ground,34.2,-118.5,CL35,Bombardier,LXJ,Flexjet,Challenger 350
+a0f340,N160SB  ,N160SB,CL30,ground,34.2,-118.5,CL30,Bombardier,CL30,Medical Center Development LLC,Challenger 300
+a7c583,KFB60   ,N60GG,GLF4,ground,34.2,-118.5,GLF4,Gulfstream Aerospace,KFB,STAjets,GIV SP
+a88dbb,N650LG  ,N650LG,GLF4,ground,34.2,-118.5,G450,Gulfstream Aerospace,G450,Leonard Green & Partners LP,G450
+a7b7fb,LXJ597  ,N597FX,CL30,ground,34.2,-118.5,CL35,Bombardier,LXJ,Flexjet,Challenger 350
+acd941,N927MC  ,N927MC,GLF6,ground,34.2,-118.5,G650,Gulfstream Aerospace,NEW,Northeastern Aviation,G650
+a1d821,N218KF  ,N218KF,CL30,ground,34.2,-118.5,CL30,Bombardier,CL30,KW Flight LLC,Challenger 300
+aa69f9,70KS70KS,N770KS,GLF4,ground,34.2,-118.5,GLF4,Gulfstream Aerospace,EDG,Jet Edge,GIV
+ad4521,N954SP  ,N954SP,GLEX,ground,34.2,-118.5,GLEX,Bombardier,CLY,Clay Lacy Aviation Inc,Global Express
+a5f7fe,N484FM  ,N484FM,F900,ground,34.2,-118.5,F900,Dassault,F900,Alaska Utah Aviation LLC,Falcon 900
+aaafad,EJA788  ,N788QS,CL30,ground,34.2,-118.5,CL35,Bombardier,EJA,NetJets,Challenger 350
+a9c5e2,N729KF  ,N729KF,GLEX,ground,34.2,-118.5,GL7T,Bombardier,GL7T,KW Flight LLC,Global 7500
+a1d807,EDG436  ,N218JE,GLF4,ground,34.2,-118.5,GLF4,Gulfstream Aerospace,EDG,Jet Edge,GIV SP
+ac95ba,N91QK   ,N91QK,CL30,ground,34.2,-118.5,CL30,Bombardier,EDG,Jet Edge,Challenger 300
+a73dc7,N566FX  ,N566FX,CL30,ground,34.2,-118.5,CL35,Bombardier,LXJ,Flexjet,Challenger 350
+aa545e,N765CS  ,N765CS,GLEX,ground,34.2,-118.5,,---,,---,---
+a31dc6,EDG151  ,N30JE,GLF4,ground,34.2,-118.5,G300,Gulfstream Aerospace,EDG,Jet Edge,G300
+ac0564,N874C   ,N874C,GLF4,ground,34.2,-118.5,GLF4,Gulfstream Aerospace,GLF4,Trans-Exec Air Service Inc,GIV SP
+adabc1,N980GG  ,N980GG,GLEX,ground,34.2,-118.5,GL6T,Bombardier,GL6T,Lucky Fives LLC,Global 6000
+a34522,N31GV   ,N31GV,GLF4,ground,34.2,-118.5,GLF4,Gulfstream Aerospace,GLF4,Craft Charter,GIV
+a242af,N245BD  ,N245BD,GLF5,ground,34.2,-118.5,G550,Gulfstream Aerospace,G550,BS Farms Aviation LLC,G550
+a35764,N314TP  ,N314TP,GLF5,ground,34.2,-118.5,G550,Gulfstream Aerospace,G550,Tutor Perini Corp,G550
+adf522,N999LX  ,N999LX,GLF5,ground,34.2,-118.5,G550,Gulfstream Aerospace,G550,CKE Associates LLC,G550
+ad5cff,EDG521  ,N960JS,GLF4,ground,34.2,-118.5,G400,Gulfstream Aerospace,EDG,Jet Edge,G400
+aba54a,N85D    ,N85D,GLEX,ground,34.2,-118.5,GLEX,Bombardier,GLEX,Sky Velocity Aviation LLC,Global Express
+a066dc,N125GA  ,N125GA,GLF5,ground,34.2,-118.5,G550,Gulfstream Aerospace,G550,Graton Economic Development Authority,G550
+ac952b,WWI91   ,N91JS,GLF4,ground,34.2,-118.5,GLF4,Gulfstream Aerospace,WWI,Worldwide Jet Charter,GIV SP
+ada5f8,N979KC  ,N979KC,CL30,ground,34.2,-118.5,CL35,Bombardier,CL35,Kansas City Life Insurance Company,Challenger 350
+a60bf3,PEG89   ,N489VR,GLF4,ground,34.2,-118.5,GLF4,Gulfstream Aerospace,PEG,Pegasus Elite Aviation,GIV SP
+a95c57,TWY702  ,N702DR,GLEX,ground,34.2,-118.5,GLEX,Bombardier,TWY,Solairus Aviation,Global Express XRS
+a88ecd,N650XF  ,N650XF,GLF6,ground,34.2,-118.5,G650,Gulfstream Aerospace,JAS,Jet Aviation Flight Services,G650
+aa1ab5,N750GX  ,N750GX,GLEX,ground,34.2,-118.5,,---,,---,---
+a1bfcf,N21112  ,N21112,GLF4,ground,34.2,-118.5,G450,Gulfstream Aerospace,KFB,STAjets,G450
+acdd17,N928NJ  ,N928NJ,GLF5,ground,34.2,-118.5,G550,Gulfstream Aerospace,CLY,Clay Lacy Aviation Inc,G550
+ab48aa,WWI82   ,N826RP,GLF4,ground,34.2,-118.5,G300,Gulfstream Aerospace,WWI,Worldwide Jet Charter,G300
+a13f96,N18NY   ,N18NY,GLF4,ground,34.2,-118.5,G450,Gulfstream Aerospace,G450,TSTC LLC,G450
+a08114,EDG58   ,N131YF,GLF4,ground,34.2,-118.5,G450,Gulfstream Aerospace,G450,Corporate,G450
+4077c4,LNX12MO ,G-FOMO,GLEX,ground,34.2,-118.5,GL6T,Bombardier,LNX,Luxaviation UK,Global 6000
+aa95ac,EJA781  ,N781QS,CL30,ground,34.2,-118.5,CL35,Bombardier,EJA,NetJets,Challenger 350
+a137df,N178L   ,N178L,GLF5,ground,34.2,-118.5,G550,Gulfstream Aerospace,G550,Nantworks LLC,G550
+a02792,EJA109  ,N109QS,GL5T,ground,34.2,-118.5,GL5T,Bombardier,EJA,NetJets,Global 5000
+a973a4,N708Q   ,N708Q,CL30,ground,34.2,-118.5,CL35,Bombardier,EDG,Jet Edge,Challenger 350
+a6f7ba,XOJ548  ,N548XJ,CL30,ground,34.2,-118.4,CL30,Bombardier,XOJ,XO,Challenger 300
+a1175a,N17FJ   ,N17FJ,GLF5,ground,34.2,-118.4,GLF5,Gulfstream Aerospace,GLF5,Corporate,GV
+adc9a7,EJM98   ,N988JC,GLF5,ground,34.2,-118.4,G550,Gulfstream Aerospace,EJM,Executive Jet Management,G550
+a0fe42,EJA163  ,N163QS,GLEX,ground,34.2,-118.4,GL6T,Bombardier,EJA,NetJets,Global 6000
+ac3dcd,N888ZA  ,N888ZA,F900,ground,34.2,-118.4,F9EX,Dassault,CLY,Clay Lacy Aviation Inc,Falcon 900EX EASy
+aa5c11,N767FL  ,N767FL,GLF5,ground,34.2,-118.4,GLF5,Gulfstream Aerospace,GLF5,Corporate,GV
+a91618,JAS685  ,N685DC,FA7X,ground,34.2,-118.4,FA7X,Dassault,JAS,Jet Aviation Flight Services,Falcon 7X
+a97d34,MVJ710  ,N710MV,GLF4,ground,34.2,-118.4,GLF4,Gulfstream Aerospace,MVJ,Mira Vista Aviation,GIV SP
+ac3f7e,N889CH  ,N889CH,GLF6,ground,34.2,-118.4,G650,Gulfstream Aerospace,PEG,Pegasus Elite Aviation,G650
+aaf670,N805WM  ,N805WM,GLEX,ground,34.2,-118.4,GL6T,Bombardier,GL6T,Citigroup Inc,Global 6000
+a3f944,XOJ355  ,N355VJ,CL30,ground,34.2,-118.4,,---,,---,---
+a2da6d,N283PH  ,N283PH,GLF5,ground,34.2,-118.4,G550,Gulfstream Aerospace,G550,Global Services Detroit LLC,G550
+a2f6d0,XGN290  ,N290PS,GLF4,ground,34.2,-118.4,GLF4,Gulfstream Aerospace,XGN,NexGen Flight Solutions,GIV SP
+aa7bfe,N775E   ,N775E,FA7X,ground,34.2,-118.4,FA7X,Dassault,FA7X,Falcon 7X-75 LLC,Falcon 7X
+a00529,N100ES  ,N100ES,GLF6,ground,34.2,-118.4,G650,Gulfstream Aerospace,G650,Earth Star Inc,G650 ER
+a624a6,KPO495  ,N495WG,GLF4,ground,34.2,-79.7,GLF4,Gulfstream Aerospace,KPO,Wing Aviation Group,GIV
+a3f58d,XOJ354  ,N354VJ,CL30,ground,34.3,-83.8,CL35,Bombardier,XOJ,XO,Challenger 350
+ac38f5,N887MM  ,N887MM,GLF5,ground,34.4,-119.9,G550,Gulfstream Aerospace,G550,Masimo 17 LLC,G550
+a327cc,SIS302  ,N302LT,CL30,ground,34.4,-119.9,CL30,Bombardier,SIS,Silver Air,Challenger 300
+aa80ca,00000000,N776RB,GLF5,ground,34.4,-119.9,GLF5,Gulfstream Aerospace,EDG,Jet Edge,GV
+a33a30,EJM37   ,N307JW,CL30,ground,34.4,-119.9,CL30,Bombardier,EJM,Executive Jet Management,Challenger 300
+a2012f,N22805  ,N22805,G280,ground,34.4,-119.8,G280,Gulfstream Aerospace,G280,Liqwd Inc,G280
+a638ce,TWY50   ,N50NL,FA7X,ground,34.4,-119.8,FA7X,Dassault,TWY,Solairus Aviation,Falcon 7X
+ac38f5,N887MM  ,N887MM,GLF5,ground,34.4,-119.8,G550,Gulfstream Aerospace,G550,Masimo 17 LLC,G550
+aca2be,N913KN  ,N913KN,G280,ground,34.4,-119.8,G280,Gulfstream Aerospace,G280,Black Knight Infoserv LLC,G280
+a327cc,SIS302  ,N302LT,CL30,ground,34.4,-119.8,CL30,Bombardier,SIS,Silver Air,Challenger 300
+aa80ca,00000000,N776RB,GLF5,ground,34.4,-119.8,GLF5,Gulfstream Aerospace,EDG,Jet Edge,GV
+a95c57,TWY702  ,N702DR,GLEX,ground,34.4,-119.8,GLEX,Bombardier,TWY,Solairus Aviation,Global Express XRS
+a33a30,EJM37   ,N307JW,CL30,ground,34.4,-119.8,CL30,Bombardier,EJM,Executive Jet Management,Challenger 300
+a13687,JAS61   ,N1777M,GLF6,ground,34.4,-119.8,G650,Gulfstream Aerospace,JAS,Jet Aviation Flight Services,G650 ER
+a2c5b1,TWY180  ,N278RF,F900,ground,34.4,-119.8,F9EX,Dassault,TWY,Solairus Aviation,Falcon 900EX EASy
+a81e4b,EDG622  ,N622GK,GLF4,ground,34.4,-119.8,G450,Gulfstream Aerospace,EDG,Jet Edge,G450
+a68cf3,N521DC  ,N521DC,F900,ground,34.9,-82.2,F9DX,Dassault,F9DX,CAS Transportation LLC,Falcon 900DX
+ac42fc,N89AA   ,N89AA,F900,ground,34.9,-82.2,F9DX,Dassault,F9DX,FSR Racing LLC,Falcon 900DX
+780979,B8259   ,B-8259,GLF5,ground,34.9,33.6,,---,,---,---
+a431f4,N37FE   ,N37FE,CL30,ground,35.0,-90.0,CL30,Bombardier,CL30,FedEx,Challenger 300
+a54b6c,N440JG  ,N440JG,CL30,ground,35.0,-90.0,CL35,Bombardier,JTZ,Nicholas Air,Challenger 350
+ad8ca6,00000000,N972SC,CL30,ground,35.0,-90.0,CL35,Bombardier,EJM,Executive Jet Management,Challenger 350
+a88d89,LXJ657  ,N650JG,GLF6,ground,35.0,-85.2,,---,,---,---
+aac850,EJA794  ,N794QS,CL30,ground,35.0,-85.2,CL35,Bombardier,EJA,NetJets,Challenger 350
+ac82e4,N905MT  ,N905MT,CL30,ground,35.0,-85.2,CL30,Bombardier,CL30,Metaltek Aviation GA LLC,Challenger 300
+ab502d,N828SK  ,N828SK,CL30,ground,35.0,-85.2,CL30,Bombardier,CL30,Jaztec LLC,Challenger 300
+a2d2d1,EJM281  ,N281MM,GLF6,ground,35.0,-85.2,G650,Gulfstream Aerospace,EJM,Executive Jet Management,G650 ER
+a793b2,JNY5    ,N588AT,GLF5,ground,35.1,-90.0,GLF5,Gulfstream Aerospace,JNY,Journey Aviation,GV
+a431f4,N37FE   ,N37FE,CL30,ground,35.1,-90.0,CL30,Bombardier,CL30,FedEx,Challenger 300
+a54b6c,N440JG  ,N440JG,CL30,ground,35.1,-90.0,CL35,Bombardier,JTZ,Nicholas Air,Challenger 350
+a2cc24,N28FE   ,N28FE,CL30,ground,35.1,-90.0,CL30,Bombardier,CL30,FedEx,Challenger 300
+a66da8,N513MA  ,N513MA,GLF5,ground,35.1,-90.0,G550,Gulfstream Aerospace,PRD,Presidential Aviation,G550
+e48ced,PPCFJ   ,PP-CFJ,FA7X,ground,35.1,-90.0,FA7X,Dassault,FA7X,Grande Moinho Cearense SA,Falcon 7X
+aa8a8e,N779AZ  ,N779AZ,GLF4,ground,35.1,-90.0,G450,Gulfstream Aerospace,G450,Pittco Aviation LLC,G450
+ac39e3,N887X   ,N887X,FA7X,ground,35.1,-90.0,FA7X,Dassault,FA7X,International Paper Company,Falcon 7X
+a6f04c,XOJ546  ,N546XJ,CL30,ground,35.1,-90.0,CL30,Bombardier,EDG,Jet Edge,Challenger 300
+a03159,EJA111  ,N111QS,GL5T,ground,35.2,-120.6,GL5T,Bombardier,EJA,NetJets,Global 5000
+a9b9f5,N726BF  ,N726BF,GLEX,ground,35.2,-120.6,GLEX,Bombardier,GLEX,ACI Jet,Global Express XRS
+a57046,N411R   ,N45FF,FA7X,ground,35.2,-120.6,FA7X,Dassault,FA7X,Leconte LLC,Falcon 7X
+acd10b,N925DC  ,N925DC,GLF4,ground,35.2,-81.0,GLF4,Gulfstream Aerospace,GLF4,Avion LLC,GIV SP
+a646f9,XOJ503  ,N503VJ,GL5T,ground,35.2,-80.9,GL5T,Bombardier,XOJ,XO,Global 5000
+acd10b,N925DC  ,N925DC,GLF4,ground,35.2,-80.9,GLF4,Gulfstream Aerospace,GLF4,Avion LLC,GIV SP
+a0dca3,N1549E  ,N1549E,F900,ground,35.2,-80.9,F9EX,Dassault,F9EX,Hudson Takeoff LLC,Falcon 900EX EASy
+a950c0,N7KC    ,N7KC,F900,ground,35.2,-80.9,F9EX,Dassault,F9EX,Falcon 200 Inc,Falcon 900EX
+a7fb07,N613MS  ,N613MS,GLF4,ground,35.2,-80.9,GLF4,Gulfstream Aerospace,GLF4,Miller Time Aviation LLC,GIV
+a952bc,N70FK   ,N70FK,F900,ground,35.2,-80.9,F9LX,Dassault,PRD,Presidential Aviation,Falcon 900LX
+a7c769,N600BS  ,N600BS,F900,ground,35.2,-80.9,F9LX,Dassault,F9LX,Sonic Automotive Inc,Falcon 900LX
+a9936e,N716MD  ,N716MD,G280,ground,35.4,-97.6,G280,Gulfstream Aerospace,G280,Oklahoma Aviation,G280
+a18e0b,HOB1    ,N2HL,CL30,ground,35.4,-97.6,CL35,Bombardier,HOB,Hobby Lobby Stores Inc,Challenger 350
+a5cc86,N473CW  ,N473CW,GLF4,ground,35.4,-82.5,GLF4,Gulfstream Aerospace,GLF4,Pentastar Aviation,GIV SP
+a72eeb,LXJ562  ,N562FX,CL30,ground,35.4,-82.5,CL35,Bombardier,LXJ,Flexjet,Challenger 350
+aa22e6,EJA752  ,N752QS,CL30,ground,35.4,-82.5,CL35,Bombardier,EJA,NetJets,Challenger 350
+aa22e6,N752QS  ,N752QS,CL30,ground,35.4,-82.5,CL35,Bombardier,EJA,NetJets,Challenger 350
+a2517c,N249AP  ,N249AP,FA50,ground,35.4,-80.7,F5EX,Dassault,F5EX,Falcon 50EX 0281 LLC,Falcon 50EX
+ad81a1,EJM200  ,N97DK,CL30,ground,35.4,-80.7,CL30,Bombardier,EJM,Executive Jet Management,Challenger 300
+a9c8b8,N73AF   ,N73AF,GLEX,ground,35.5,-97.6,GLEX,Bombardier,GLEX,American Fidelity Corp,Global Express XRS
+a14b9b,RKK28   ,N1828S,F900,ground,35.5,-97.6,F9EX,Dassault,RKK,Stephens Group Inc,Falcon 900EX EASy
+300575,IXPRA   ,I-XPRA,GLF4,ground,35.5,139.8,,---,,---,---
+a955ab,N700MK  ,N700MK,GLF6,ground,35.5,139.8,G650,Gulfstream Aerospace,JAS,Jet Aviation Flight Services,G650 ER
+a54a2d,N44VP   ,N44VP,F900,ground,35.6,-106.1,F9EX,Dassault,F9EX,Gable S Corp,Falcon 900EX
+a9ede9,EJA739  ,N739QS,CL30,ground,35.6,-106.1,CL35,Bombardier,EJA,NetJets,Challenger 350
+aad72c,EJA798  ,N798QS,CL30,ground,35.6,-106.1,CL35,Bombardier,EJA,NetJets,Challenger 350
+a7b7fb,LXJ597  ,N597FX,CL30,ground,35.6,-106.1,CL35,Bombardier,LXJ,Flexjet,Challenger 350
+ad4521,N954SP  ,N954SP,GLEX,ground,35.6,-106.1,GLEX,Bombardier,CLY,Clay Lacy Aviation Inc,Global Express
+ac2ab8,DPJ883  ,N883TW,CL30,ground,35.6,-106.1,CL35,Bombardier,DPJ,Wheels Up Private Jets,Challenger 350
+a0c87e,N15GT   ,N15GT,CL30,ground,35.6,-106.1,CL30,Bombardier,CL30,Garrett Thornburg,Challenger 300
+a955ab,N700MK  ,N700MK,GLF6,ground,35.6,139.8,G650,Gulfstream Aerospace,JAS,Jet Aviation Flight Services,G650 ER
+ab0ec8,N811TM  ,N811TM,GLF6,ground,35.6,139.8,G650,Gulfstream Aerospace,RDX,Toyota Motor Sales USA Inc,G650 ER
+ac7fc2,N904TS  ,N904TS,GLF4,ground,35.7,-81.4,G450,Gulfstream Aerospace,G450,DSWA LLC,G450
+aa5941,EJA766  ,N766QS,CL30,ground,35.8,-84.0,CL35,Bombardier,EJA,NetJets,Challenger 350
+abe1ad,N865CS  ,N865CS,F900,ground,35.8,-84.0,F9EX,Dassault,F9EX,Reef Aviation LLC,Falcon 900EX EASy
+a7277d,LXJ560  ,N560FX,CL30,ground,35.8,-84.0,CL35,Bombardier,LXJ,Flexjet,Challenger 350
+a5861e,N455QS  ,N455QS,GLF4,ground,35.8,-84.0,G450,Gulfstream Aerospace,EJM,Executive Jet Management,G450
+a57666,LXJ451  ,N451FX,GLF4,ground,35.8,-84.0,G450,Gulfstream Aerospace,LXJ,Flexjet,G450 LXI
+06a1d1,QQE500  ,A7-CGM,GLF6,ground,35.8,140.4,G650,Gulfstream Aerospace,QQE,Qatar Executive,G650 ER
+a82ddd,N626PS  ,N626PS,CL30,ground,35.9,-100.4,CL30,Bombardier,CL30,Westwind Investors Management Company LLC,Challenger 300
+add36e,N990JC  ,N990JC,CL30,ground,35.9,-78.8,CL30,Bombardier,CL30,FHI LLC,Challenger 300
+ac3cbd,N888ND  ,N888ND,GLF4,ground,35.9,-78.8,G450,Gulfstream Aerospace,G450,NPM Equipment Leasing LLC,G450
+aa8a8e,N779AZ  ,N779AZ,GLF4,ground,35.9,-78.8,G450,Gulfstream Aerospace,G450,Pittco Aviation LLC,G450
+a32150,N300WK  ,N300WK,CL30,ground,35.9,-78.8,CL30,Bombardier,CL30,Flightgest Aviation,Challenger 300
+3c450f,AHO712M ,D-AAHO,E35L,ground,35.9,14.5,E35L,Embraer,AHO,Air Hamburg GmbH,Legacy 650
+adf52f,N999MK  ,N999MK,FA50,ground,36.0,-115.1,FA50,Dassault,FA50,999MK LLC,Falcon 50
+acd854,N927BR  ,N927BR,F900,ground,36.0,-115.1,F900,Dassault,F900,Fur Management & Consulting LLC,Falcon 900 C
+a81e4b,EDG622  ,N622GK,GLF4,ground,36.0,-115.1,G450,Gulfstream Aerospace,EDG,Jet Edge,G450
+ad5a5c,EDG96   ,N96FT,G280,ground,36.0,-115.1,G280,Gulfstream Aerospace,EDG,Jet Edge,G280
+a32010,N300HQ  ,N300HQ,CL30,ground,36.0,-115.1,CL30,Bombardier,CL30,Comerica Leasing,Challenger 300
+ab2737,N818BK  ,N818BK,GLF4,ground,36.0,-115.1,G450,Gulfstream Aerospace,G450,In Flight Leasing Group LLC,G450
+a7f2a2,VTE611  ,N611BV,E35L,ground,36.0,-86.5,E35L,Embraer,VTE,Contour Aviation,Legacy 600
+a7bfb0,N599JT  ,N599JT,CL30,ground,36.0,-86.5,CL35,Bombardier,VTE,Contour Aviation,Challenger 350
+a2668d,00000000,N254CA,GLF4,ground,36.1,-115.2,GLF4,Gulfstream Aerospace,GLF4,WSPSL LLC,GIV
+a88e65,EDG65   ,N650TB,E35L,ground,36.1,-115.2,E35L,Embraer,EDG,Jet Edge,Legacy 650
+a67d2e,EJM517  ,N517TW,GLF5,ground,36.1,-115.2,G550,Gulfstream Aerospace,EJM,Executive Jet Management,G550
+a2e243,N285TM  ,N285TM,G280,ground,36.1,-115.2,G280,Gulfstream Aerospace,G280,EMC Corp,G280
+a6f7ba,XOJ548  ,N548XJ,CL30,ground,36.1,-115.2,CL30,Bombardier,XOJ,XO,Challenger 300
+a6b86e,LXJ532  ,N532FX,CL30,ground,36.1,-115.2,CL30,Bombardier,LXJ,Flexjet,Challenger 300
+aaabf6,EJA787  ,N787QS,CL30,ground,36.1,-115.2,CL35,Bombardier,EJA,NetJets,Challenger 350
+ac1d80,N88WR   ,N88WR,GLF5,ground,36.1,-115.2,G550,Gulfstream Aerospace,G550,Wynn Resorts,G550
+ac7169,N900YY  ,N900YY,F900,ground,36.1,-115.2,F900,Dassault,F900,BBPS Aviation LLC,Falcon 900 B
+a66530,TBL1    ,N511AK,GLF4,ground,36.1,-115.2,,---,,---,---
+a04838,N117WR  ,N117WR,GLF4,ground,36.1,-115.2,G350,Gulfstream Aerospace,G350,Whiskey Romeo Owner LLC,G350
+ac6c2c,N9TJ    ,N9TJ,GLEX,ground,36.1,-115.2,GL6T,Bombardier,GL6T,Execjet II LLC,Global 6000
+aa6876,N77UF   ,N77UF,GLEX,ground,36.1,-115.2,GLEX,Bombardier,GLEX,F & L Aviation LLC,Global Express XRS
+ad8539,N970SD  ,N970SD,F900,ground,36.1,-115.2,F9EX,Dassault,F9EX,Cirrus Aviation,Falcon 900EX EASy
+a6a739,LXJ528  ,N528FX,CL30,ground,36.1,-115.2,CL30,Bombardier,LXJ,Flexjet,Challenger 300
+ac82e4,N905MT  ,N905MT,CL30,ground,36.1,-115.2,CL30,Bombardier,CL30,Metaltek Aviation GA LLC,Challenger 300
+a2cbf0,N28DC   ,N28DC,F900,ground,36.1,-115.2,F900,Dassault,TEX,Freedom Jets,Falcon 900 B
+a093bd,LXJ1361 ,N136ZC,GLF6,ground,36.1,-115.2,G650,Gulfstream Aerospace,LXJ,Flexjet,G650
+a3b492,N338LS  ,N338LS,GLF5,ground,36.1,-115.2,G550,Gulfstream Aerospace,G550,Las Vegas Sands Corp,G550
+aa26b3,N753RP  ,N753RP,CL30,ground,36.1,-115.2,CL30,Bombardier,CL30,Cirrus Aviation,Challenger 300
+a0fe42,EJA163  ,N163QS,GLEX,ground,36.1,-115.2,GL6T,Bombardier,EJA,NetJets,Global 6000
+adf413,KFB999  ,N999AA,GLF4,ground,36.1,-115.2,GLF4,Gulfstream Aerospace,KFB,STAjets,GIV SP
+a64ab0,XOJ504  ,N504VJ,GL5T,ground,36.1,-115.2,GL5T,Bombardier,XOJ,XO,Global 5000
+a9848a,TWY21   ,N712LW,GLF4,ground,36.1,-115.2,G400,Gulfstream Aerospace,TWY,Solairus Aviation,G400
+aa69f9,70KS70KS,N770KS,GLF4,ground,36.1,-115.2,GLF4,Gulfstream Aerospace,EDG,Jet Edge,GIV
+a95c57,TWY702  ,N702DR,GLEX,ground,36.1,-115.2,GLEX,Bombardier,TWY,Solairus Aviation,Global Express XRS
+aa1f2f,EJA751  ,N751QS,CL30,ground,36.1,-115.2,CL35,Bombardier,EJA,NetJets,Challenger 350
+aa7532,N773LM  ,N773LM,GLF4,ground,36.1,-115.2,G450,Gulfstream Aerospace,SBE,World Class Jets,G450
+a0765e,00000000,N129NS,GLF4,ground,36.1,-115.2,GLF4,Gulfstream Aerospace,GLF4,Alliance Aviation Group LLC,GIV SP
+a0765e,GJE1209 ,N129NS,GLF4,ground,36.1,-115.2,GLF4,Gulfstream Aerospace,GLF4,Alliance Aviation Group LLC,GIV SP
+a0000e,N1AM    ,N1AM,GLF5,ground,36.1,-115.2,GLF5,Gulfstream Aerospace,GLF5,Meruelo Group LLC,GV
+491d85,NJE6L0L ,CS-GLE,GLEX,ground,36.1,-115.2,GL6T,Bombardier,NJE,NetJets Europe,Global 6000
+491d85,NJE6PM  ,CS-GLE,GLEX,ground,36.1,-115.2,GL6T,Bombardier,NJE,NetJets Europe,Global 6000
+a586aa,KPO455  ,N455WG,GLF4,ground,36.1,-115.2,GLF4,Gulfstream Aerospace,KPO,Wing Aviation Group,GIV SP
+a5a654,N463SD  ,N463SD,G280,ground,36.1,-115.2,G280,Gulfstream Aerospace,G280,DuPage Aerospace Corp,G280
+a7ac76,N594CA  ,N594CA,CL30,ground,36.1,-115.2,CL30,Bombardier,CL30,Delta Aviation LLC,Challenger 300
+0c414f,HI1025  ,HI1025,GLF4,ground,36.1,-115.2,G400,Gulfstream Aerospace,G400,Helidosa Aviation Group SA,G400
+ac3bd0,EJM88   ,N888CS,GLF4,ground,36.1,-115.2,GLF4,Gulfstream Aerospace,WWI,Worldwide Jet Charter,GIV SP
+a7c076,KPO599  ,N599SR,GLEX,ground,36.1,-115.2,GLEX,Bombardier,KPO,Wing Aviation Group,Global Express
+aaa0d1,EJA784  ,N784QS,CL30,ground,36.1,-115.2,CL35,Bombardier,EJA,NetJets,Challenger 350
+a9a862,N721MM  ,N721MM,GLF6,ground,36.1,-115.2,G650,Gulfstream Aerospace,G650,Mandalay Resort Group LLC,G650 ER
+a88cec,JCY650  ,N650C,GLF6,ground,36.1,-115.2,G650,Gulfstream Aerospace,JCY,Aerius Management,G650 ER
+a9a7c6,N721FF  ,N721FF,GLEX,ground,36.1,-115.2,GLEX,Bombardier,GLEX,FE Aviation II LLC,Global Express XRS
+a2cfb0,N280TM  ,N280TM,G280,ground,36.1,-115.2,G280,Gulfstream Aerospace,G280,EMC Corp,G280
+a3a19f,N333GW  ,N333GW,GLF6,ground,36.1,-115.2,G650,Gulfstream Aerospace,SJM,Sino Jet Management,G650 ER
+a6f7ba,XOJ548  ,N548XJ,CL30,ground,36.1,-115.1,CL30,Bombardier,XOJ,XO,Challenger 300
+a0fe42,EJA163  ,N163QS,GLEX,ground,36.1,-115.1,GL6T,Bombardier,EJA,NetJets,Global 6000
+aaa0d1,EJA784  ,N784QS,CL30,ground,36.1,-115.1,CL35,Bombardier,EJA,NetJets,Challenger 350
+ab394e,N822LL  ,N822LL,CL30,ground,36.1,-86.7,CL35,Bombardier,ELZ,Elite Air,Challenger 350
+a635da,KPO5    ,N5GF,GLF4,ground,36.1,-86.7,GLF4,Gulfstream Aerospace,KPO,Wing Aviation Group,GIV SP
+ac85b4,N615FJ  ,N906CM,F900,ground,36.1,-86.7,,---,,---,---
+a1c8ed,0N214FT ,N214FT,FA50,ground,36.1,-86.7,F5EX,Dassault,F5EX,Mikes Airplane Rentals,Falcon 50EX
+ab43cb,N825DT  ,N825DT,CL30,ground,36.1,-86.7,,---,,---,---
+a81ed7,JTZ622  ,N622N,CL30,ground,36.1,-86.7,CL30,Bombardier,JTZ,Nicholas Air,Challenger 300
+a6a739,LXJ528  ,N528FX,CL30,ground,36.1,-86.7,CL30,Bombardier,LXJ,Flexjet,Challenger 300
+a2cc24,N28FE   ,N28FE,CL30,ground,36.1,-86.7,CL30,Bombardier,CL30,FedEx,Challenger 300
+a950c0,N7KC    ,N7KC,F900,ground,36.1,-86.7,F9EX,Dassault,F9EX,Falcon 200 Inc,Falcon 900EX
+a37d30,N324AD  ,N324AD,F900,ground,36.1,-86.7,F900,Dassault,F900,Alpha Delta Aviation LLC,Falcon 900
+ada9e6,N98MH   ,N98MH,F900,ground,36.1,-86.7,F9EX,Dassault,F9EX,MH Air LLC,Falcon 900EX
+a620a4,CJE494  ,N494TG,E35L,ground,36.1,-86.7,E35L,Embraer,CJE,Custom Jet Charters LLC,Legacy 600
+a6aaf0,LXJ529  ,N529FX,CL30,ground,36.1,-86.7,CL30,Bombardier,LXJ,Flexjet,Challenger 300
+a3db5a,SDU1348 ,N348DJ,GLF4,ground,36.1,-86.7,GLF4,Gulfstream Aerospace,SDU,Dumont Aviation,GIV SP
+a6617c,TWY510  ,N510AN,FA7X,ground,36.1,-86.7,FA7X,Dassault,TWY,Solairus Aviation,Falcon 7X
+a7a568,LXJ592  ,N592FX,CL30,ground,36.1,-86.7,CL35,Bombardier,LXJ,Flexjet,Challenger 350
+ab56d2,N83JJ   ,N83JJ,GL5T,ground,36.1,-86.7,GL5T,Bombardier,FSR,Flightstar Corp,Global 5000
+a3f1d6,XOJ353  ,N353VJ,CL30,ground,36.1,-79.9,CL35,Bombardier,XOJ,XO,Challenger 350
+a0228f,N108BK  ,N108BK,FA50,ground,36.2,-115.2,FA50,Dassault,FA50,Kent Aviation LLC,Falcon 50
+a7bfb0,N599JT  ,N599JT,CL30,ground,36.2,-86.9,CL35,Bombardier,VTE,Contour Aviation,Challenger 350
+aa882e,EJA778  ,N778QS,CL30,ground,36.2,-86.9,CL35,Bombardier,EJA,NetJets,Challenger 350
+a97088,KPO707  ,N707WE,GLF4,ground,36.3,-119.4,GLF4,Gulfstream Aerospace,KPO,Wing Aviation Group,GIV SP
+a2d93a,LJY711  ,N283BA,G280,ground,36.5,-82.4,G280,Gulfstream Aerospace,LJY,L J Aviation,G280
+a95262,N70BV   ,N70BV,CL30,ground,36.5,-82.4,CL35,Bombardier,CL35,Tabletop LLC,Challenger 350
+a96c47,EJA706  ,N706QS,CL30,ground,36.6,-121.9,CL35,Bombardier,EJA,NetJets,Challenger 350
+a953b7,N70RL   ,N70RL,CL30,ground,36.6,-121.9,CL30,Bombardier,CL30,BS Aviation Holdings II LLC,Challenger 300
+a15c44,N187SG  ,N187SG,GLF4,ground,36.6,-121.9,G450,Gulfstream Aerospace,G450,SGA Aviation LLC,G450
+ac6bd0,N9PS    ,N9PS,GLEX,ground,36.6,-121.9,GL6T,Bombardier,GL6T,N9PS LLC,Global 6000
+a39d4d,WSN332  ,N332AR,CL30,ground,36.6,-121.9,CL30,Bombardier,WSN,Advanced Air,Challenger 300
+a6fffe,LXJ550  ,N550FX,CL30,ground,36.6,-121.9,CL30,Bombardier,LXJ,Flexjet,Challenger 300
+a3b492,N338LS  ,N338LS,GLF5,ground,36.6,-121.9,G550,Gulfstream Aerospace,G550,Las Vegas Sands Corp,G550
+a33a50,TWY25   ,N307LC,FA7X,ground,36.6,-121.9,FA7X,Dassault,TWY,Solairus Aviation,Falcon 7X
+a2e51d,WSN286  ,N286JR,CL30,ground,36.6,-121.9,CL30,Bombardier,WSN,Advanced Air,Challenger 300
+a7c076,KPO599  ,N599SR,GLEX,ground,36.6,-121.9,GLEX,Bombardier,KPO,Wing Aviation Group,Global Express
+ac40e6,N889ST  ,N889ST,GL5T,ground,36.6,-121.9,GL5T,Bombardier,GL5T,Forindo P/L,Global 5000
+a3133d,N298AL  ,N298AL,GLF6,ground,36.6,-121.9,G650,Gulfstream Aerospace,CLY,Clay Lacy Aviation Inc,G650 ER
+a678cf,N516MC  ,N516MC,GLF4,ground,36.6,-121.9,G400,Gulfstream Aerospace,TFF,Talon Air,G400
+a678cf,TFF909  ,N516MC,GLF4,ground,36.6,-121.9,G400,Gulfstream Aerospace,TFF,Talon Air,G400
+a21489,N233KC  ,N233KC,F900,ground,36.6,-121.9,F900,Dassault,SCN,TWC Aviation Inc,Falcon 900
+a68981,LXJ520  ,N520FX,CL30,ground,36.6,-121.9,CL30,Bombardier,LXJ,Flexjet,Challenger 300
+a9972b,N717MK  ,N717MK,GL5T,ground,36.6,-121.9,GL5T,Bombardier,GL5T,The Whitewind Company,Global 5000
+a6c8cd,XOJ536  ,N536XJ,CL30,ground,36.6,-121.9,CL30,Bombardier,XOJ,XO,Challenger 300
+a96c47,EJA706  ,N706QS,CL30,ground,36.6,-121.8,CL35,Bombardier,EJA,NetJets,Challenger 350
+ac3428,TWY886  ,N886AJ,GLF6,ground,36.6,-121.8,G650,Gulfstream Aerospace,TWY,Solairus Aviation,G650 ER
+a953b7,N70RL   ,N70RL,CL30,ground,36.6,-121.8,CL30,Bombardier,CL30,BS Aviation Holdings II LLC,Challenger 300
+a15c44,N187SG  ,N187SG,GLF4,ground,36.6,-121.8,G450,Gulfstream Aerospace,G450,SGA Aviation LLC,G450
+ac6bd0,N9PS    ,N9PS,GLEX,ground,36.6,-121.8,GL6T,Bombardier,GL6T,N9PS LLC,Global 6000
+a39d4d,WSN332  ,N332AR,CL30,ground,36.6,-121.8,CL30,Bombardier,WSN,Advanced Air,Challenger 300
+a6fffe,LXJ550  ,N550FX,CL30,ground,36.6,-121.8,CL30,Bombardier,LXJ,Flexjet,Challenger 300
+a3b492,N338LS  ,N338LS,GLF5,ground,36.6,-121.8,G550,Gulfstream Aerospace,G550,Las Vegas Sands Corp,G550
+a33a50,TWY25   ,N307LC,FA7X,ground,36.6,-121.8,FA7X,Dassault,TWY,Solairus Aviation,Falcon 7X
+a2e51d,WSN286  ,N286JR,CL30,ground,36.6,-121.8,CL30,Bombardier,WSN,Advanced Air,Challenger 300
+a7c076,KPO599  ,N599SR,GLEX,ground,36.6,-121.8,GLEX,Bombardier,KPO,Wing Aviation Group,Global Express
+ac40e6,N889ST  ,N889ST,GL5T,ground,36.6,-121.8,GL5T,Bombardier,GL5T,Forindo P/L,Global 5000
+a678cf,TFF909  ,N516MC,GLF4,ground,36.6,-121.8,G400,Gulfstream Aerospace,TFF,Talon Air,G400
+a21489,N233KC  ,N233KC,F900,ground,36.6,-121.8,F900,Dassault,SCN,TWC Aviation Inc,Falcon 900
+a68981,LXJ520  ,N520FX,CL30,ground,36.6,-121.8,CL30,Bombardier,LXJ,Flexjet,Challenger 300
+a9972b,N717MK  ,N717MK,GL5T,ground,36.6,-121.8,GL5T,Bombardier,GL5T,The Whitewind Company,Global 5000
+aabd2b,EJA791  ,N791QS,CL30,ground,36.6,-121.8,CL35,Bombardier,EJA,NetJets,Challenger 350
+a1897c,N1989F  ,N1989F,FA50,ground,36.6,-121.8,FA50,Dassault,FA50,Finmor LLC,Falcon 50
+aa1899,N75KH   ,N75KH,GLEX,ground,36.7,-6.1,GL6T,Bombardier,GL6T,75 Express Inc,Global 6000
+440834,GCK18   ,OE-IGL,GLEX,ground,36.7,-4.5,,---,,---,---
+a674e4,N515KA  ,N515KA,GLF6,ground,36.7,-4.5,G650,Gulfstream Aerospace,G650,Yusuf Ahmed Alghanim & Sons WLL,G650
+44047d,AOJ84K  ,OE-IBK,E35L,ground,36.7,-4.5,E35L,Embraer,AOJ,Avcon Jet AG,Legacy 600
+aa1899,N75KH   ,N75KH,GLEX,ground,36.8,-6.1,GL6T,Bombardier,GL6T,75 Express Inc,Global 6000
+39de26,IXR529G ,F-HXRG,GLEX,ground,36.8,12.0,GLEX,Bombardier,IXR,iXAir,Global Express XRS
+a32484,STV3    ,N301RD,F900,ground,36.9,-76.2,F900,Dassault,STV,Saturn Aviation,Falcon 900 B
+a57666,LXJ451  ,N451FX,GLF4,ground,36.9,-76.2,G450,Gulfstream Aerospace,LXJ,Flexjet,G450 LXI
+a54eb1,N441DT  ,N441DT,G280,ground,36.9,-76.2,G280,Gulfstream Aerospace,G280,Family Dollar LLC,G280
+aa9963,EJA782  ,N782QS,CL30,ground,37.4,-122.1,CL35,Bombardier,EJA,NetJets,Challenger 350
+a6fffe,LXJ550  ,N550FX,CL30,ground,37.4,-122.1,CL30,Bombardier,LXJ,Flexjet,Challenger 300
+a9b9f5,N726BF  ,N726BF,GLEX,ground,37.4,-122.1,GLEX,Bombardier,GLEX,ACI Jet,Global Express XRS
+a1e919,N222GV  ,N222GV,GLF5,ground,37.4,-122.1,G550,Gulfstream Aerospace,G550,First Republic Bank,G550
+a49fd2,N3975A  ,N3975A,CL30,ground,37.4,-122.0,CL30,Bombardier,CL30,Craft Charter,Challenger 300
+aa9963,EJA782  ,N782QS,CL30,ground,37.4,-122.0,CL35,Bombardier,EJA,NetJets,Challenger 350
+a6fffe,LXJ550  ,N550FX,CL30,ground,37.4,-122.0,CL30,Bombardier,LXJ,Flexjet,Challenger 300
+a9b9f5,N726BF  ,N726BF,GLEX,ground,37.4,-122.0,GLEX,Bombardier,GLEX,ACI Jet,Global Express XRS
+a89442,EJM652  ,N652BA,GLF6,ground,37.4,-122.0,G650,Gulfstream Aerospace,EJM,Executive Jet Management,G650 ER
+aaed05,FGR803  ,N803AC,FA50,ground,37.4,-121.9,FA50,Dassault,FGR,Trans-Pacific Air Charter,Falcon 50
+aaa83f,EJA786  ,N786QS,CL30,ground,37.4,-121.9,CL35,Bombardier,EJA,NetJets,Challenger 350
+a491af,EJM159  ,N394AK,GLF4,ground,37.4,-121.9,GLF4,Gulfstream Aerospace,EJM,Executive Jet Management,GIV SP
+aa6e2d,EJA771  ,N771QS,CL30,ground,37.4,-121.9,CL35,Bombardier,EJA,NetJets,Challenger 350
+addfed,EJM216  ,N993XZ,FA7X,ground,37.4,-121.9,FA7X,Dassault,EJM,Executive Jet Management,Falcon 7X
+a0f340,N160SB  ,N160SB,CL30,ground,37.4,-121.9,CL30,Bombardier,CL30,Medical Center Development LLC,Challenger 300
+a242af,N245BD  ,N245BD,GLF5,ground,37.4,-121.9,G550,Gulfstream Aerospace,G550,BS Farms Aviation LLC,G550
+a08114,EDG58   ,N131YF,GLF4,ground,37.4,-121.9,G450,Gulfstream Aerospace,G450,Corporate,G450
+aa7bfe,N775E   ,N775E,FA7X,ground,37.4,-121.9,FA7X,Dassault,FA7X,Falcon 7X-75 LLC,Falcon 7X
+a2c5b1,TWY180  ,N278RF,F900,ground,37.4,-121.9,F9EX,Dassault,TWY,Solairus Aviation,Falcon 900EX EASy
+ad5a5c,EDG96   ,N96FT,G280,ground,37.4,-121.9,G280,Gulfstream Aerospace,EDG,Jet Edge,G280
+aaa0d1,EJA784  ,N784QS,CL30,ground,37.4,-121.9,CL35,Bombardier,EJA,NetJets,Challenger 350
+a78cc5,LXJ586  ,N586FX,CL30,ground,37.4,-121.9,CL35,Bombardier,LXJ,Flexjet,Challenger 350
+3c08c9,AHO9547 ,D-ASIM,FA7X,ground,37.4,-121.9,FA7X,Dassault,AHO,Air Hamburg GmbH,Falcon 7X
+a400b2,XOJ357  ,N357VJ,CL30,ground,37.4,-121.9,CL35,Bombardier,XOJ,XO,Challenger 350
+a4380d,KPO371  ,N371FP,GLF4,ground,37.4,-121.9,GLF4,Gulfstream Aerospace,KPO,Wing Aviation Group,GIV SP
+a2d957,N283CE  ,N283CE,G280,ground,37.4,-121.9,G280,Gulfstream Aerospace,G280,Cummins Inc,G280
+a690ef,LXJ522  ,N522FX,CL30,ground,37.4,-121.9,CL30,Bombardier,LXJ,Flexjet,Challenger 300
+a3d097,N345HG  ,N345HG,CL30,ground,37.4,-121.9,CL30,Bombardier,CL30,Pentastar Aviation,Challenger 300
+a4a826,N4CE    ,N4CE,FA7X,ground,37.4,-121.9,FA7X,Dassault,FA7X,Bucephalus Air Inc,Falcon 7X
+aae132,TWY1026 ,N80TE,GLEX,ground,37.4,-121.9,GL6T,Bombardier,TWY,Solairus Aviation,Global 6500
+a82ec6,EJM626  ,N626Z,FA7X,ground,37.4,-121.9,FA7X,Dassault,EJM,Executive Jet Management,Falcon 7X
+a0046f,N10XG   ,N10XG,GLF5,ground,37.4,-121.9,G550,Gulfstream Aerospace,G550,Google Inc,G550
+a18e7d,N2N     ,N2N,GLF6,ground,37.4,-121.9,G650,Gulfstream Aerospace,G650,Marmalade Skies LLC,G650
+a0ec67,N159JA  ,N159JA,GLF6,ground,37.4,-121.9,G650,Gulfstream Aerospace,G650,EBAY Inc,G650 ER
+a91ddf,N687GS  ,N687GS,GLF6,ground,37.4,-121.9,G650,Gulfstream Aerospace,G650,Gilead Sciences Inc,G650 ER
+a3e6b1,XOJ350  ,N350VJ,CL30,ground,37.4,-121.9,CL35,Bombardier,XOJ,XO,Challenger 350
+ac7ee7,N904JY  ,N904JY,GLF5,ground,37.4,-121.9,G550,Gulfstream Aerospace,G550,Pacific Jet Aviation LLC,G550
+a4c18c,N4050   ,N4050,GLF6,ground,37.4,-121.9,G650,Gulfstream Aerospace,G650,PayPal Holdings Inc,G650 ER
+885ca8,HSWEH   ,HS-WEH,GLF5,ground,37.4,126.4,GLF5,Gulfstream Aerospace,GLF5,M Jets,GV
+885ca8,HSWEH   ,HS-WEH,GLF5,ground,37.5,126.4,GLF5,Gulfstream Aerospace,GLF5,M Jets,GV
+502d6d,UAG27G  ,YL-VCR,GLEX,ground,37.5,126.4,GLEX,Bombardier,UAG,Union Aviation,Global Express
+a004bf,N100AL  ,N100AL,GLF6,ground,37.6,-122.4,G650,Gulfstream Aerospace,G650,Abbott Laboratories Inc,G650 ER
+aa3ce7,EJA759  ,N759QS,CL30,ground,37.6,-122.4,CL35,Bombardier,EJA,NetJets,Challenger 350
+a39d4d,WSN332  ,N332AR,CL30,ground,37.6,-122.4,CL30,Bombardier,WSN,Advanced Air,Challenger 300
+a4a8fa,N4LS    ,N4LS,CL30,ground,37.6,-122.4,,---,,---,---
+a3769f,EJM322  ,N322K,GLF5,ground,37.6,-122.4,G550,Gulfstream Aerospace,EJM,Executive Jet Management,G550
+a0a7d6,EJA141  ,N141QS,GLEX,ground,37.6,-122.4,GL6T,Bombardier,EJA,NetJets,Global 6000
+a9b78e,EJA725  ,N725QS,CL30,ground,37.6,-122.4,CL35,Bombardier,EJA,NetJets,Challenger 350
+a3f944,XOJ355  ,N355VJ,CL30,ground,37.6,-122.4,,---,,---,---
+a22f57,N24TH   ,N24TH,FA7X,ground,37.6,-122.4,FA7X,Dassault,PVA,Planet Nine Private Air,Falcon 7X
+a130e6,N176QS  ,N176QS,GLEX,ground,37.6,-122.4,GL7T,Bombardier,EJA,NetJets,Global 7500
+a130e6,EJA176  ,N176QS,GLEX,ground,37.6,-122.4,GL7T,Bombardier,EJA,NetJets,Global 7500
+a88ddb,N650MP  ,N650MP,G280,ground,37.6,-122.4,G280,Gulfstream Aerospace,G280,Keystone Aviation,G280
+a0fa8b,EJA162  ,N162QS,GLEX,ground,37.6,-122.4,GL6T,Bombardier,EJA,NetJets,Global 6000
+ab5030,        ,N828SN,GLF6,ground,37.6,-122.4,G650,Gulfstream Aerospace,RKS,Phenix Jet,G650 ER
+ab5030,RKS8    ,N828SN,GLF6,ground,37.6,-122.4,G650,Gulfstream Aerospace,RKS,Phenix Jet,G650 ER
+ad36b4,N950X   ,N950X,FA7X,ground,37.6,-122.4,FA7X,Dassault,JAS,Jet Aviation Flight Services,Falcon 7X
+4d2114,VJT708  ,9H-LXX,GLEX,ground,37.6,-122.4,GLEX,Bombardier,VJT,VistaJet,Global Express XRS
+a9c8b8,N73AF   ,N73AF,GLEX,ground,37.6,-97.4,GLEX,Bombardier,GLEX,American Fidelity Corp,Global Express XRS
+71c230,KAL9019 ,HL8230,GLEX,ground,37.6,126.8,GLEX,Bombardier,KAL,Korean Air,Global Express XRS
+a16aad,GLH1    ,N1901G,GLF6,ground,37.7,-122.2,G650,Gulfstream Aerospace,GLH,Chevron Corp,G650 ER
+a3d0ce,N345KM  ,N345KM,F900,ground,37.7,-122.2,F900,Dassault,F900,True Aviation,Falcon 900
+a35252,TWY313  ,N313DS,CL30,ground,37.7,-122.2,CL30,Bombardier,TWY,Solairus Aviation,Challenger 300
+a7dedf,N606PS00,N606PS,GLF4,ground,37.7,-122.2,GLF4,Gulfstream Aerospace,GLF4,Corporate,GIV SP
+a0998a,TWY5    ,N138GL,GLF5,ground,37.7,-122.2,G550,Gulfstream Aerospace,TWY,Solairus Aviation,G550
+a320d4,N300RL  ,N300RL,CL30,ground,37.7,-122.2,CL30,Bombardier,PCL,Pinnacle Aviation,Challenger 300
+a88dbb,N650LG  ,N650LG,GLF4,ground,37.7,-122.2,G450,Gulfstream Aerospace,G450,Leonard Green & Partners LP,G450
+a7b7fb,LXJ597  ,N597FX,CL30,ground,37.7,-122.2,CL35,Bombardier,LXJ,Flexjet,Challenger 350
+a31dc6,EDG151  ,N30JE,GLF4,ground,37.7,-122.2,G300,Gulfstream Aerospace,EDG,Jet Edge,G300
+a13687,JAS61   ,N1777M,GLF6,ground,37.7,-122.2,G650,Gulfstream Aerospace,JAS,Jet Aviation Flight Services,G650 ER
+a68981,LXJ520  ,N520FX,CL30,ground,37.7,-122.2,CL30,Bombardier,LXJ,Flexjet,Challenger 300
+a07bfe,EDG30   ,N130JE,GLF4,ground,37.7,-122.2,GLF4,Gulfstream Aerospace,EDG,Jet Edge,GIV SP
+a22753,TWY4    ,N238MH,GLF4,ground,37.7,-122.2,G450,Gulfstream Aerospace,TWY,Solairus Aviation,G450
+ad5dbc,N960SF  ,N960SF,F900,ground,37.7,-122.2,F9EX,Dassault,F9EX,BNT International Corp,Falcon 900EX
+a2c14d,00000000,N277JH,CL30,ground,37.7,-122.2,CL35,Bombardier,CL35,Lughnasa Management LLC,Challenger 350
+a3176d,N299FG  ,N299FG,F900,ground,37.7,-122.2,F9EX,Dassault,F9EX,Bechtel Corp,Falcon 900EX EASy
+adc979,N988GG  ,N988GG,GLEX,ground,37.7,-122.2,GLEX,Bombardier,GLEX,Amys Kitchen Inc,Global Express
+a7005c,N550KR  ,N550KR,GLF5,ground,37.7,-122.2,G550,Gulfstream Aerospace,G550,Alsco Inc,G550
+a1c8bd,N214DV  ,N214DV,FA50,ground,37.7,-122.2,F5EX,Dassault,F5EX,Listwin Ventures LLC,Falcon 50EX
+a30017,N2926E  ,N2926E,CL30,ground,37.7,-122.1,CL35,Bombardier,CL35,CTP Aviation,Challenger 350
+a54eb1,N441DT  ,N441DT,G280,ground,37.7,-121.8,G280,Gulfstream Aerospace,G280,Family Dollar LLC,G280
+a96890,EJA705  ,N705QS,CL30,ground,37.7,-97.4,CL35,Bombardier,EJA,NetJets,Challenger 350
+a12d2f,EJA175  ,N175QS,GLEX,ground,37.7,-97.4,GL7T,Bombardier,EJA,NetJets,Global 7500
+a02792,EJA109  ,N109QS,GL5T,ground,37.7,-97.4,GL5T,Bombardier,EJA,NetJets,Global 5000
+a9c8b8,N73AF   ,N73AF,GLEX,ground,37.7,-97.4,GLEX,Bombardier,GLEX,American Fidelity Corp,Global Express XRS
+a0f31d,EJA160  ,N160QS,GLEX,ground,37.7,-97.4,GL6T,Bombardier,EJA,NetJets,Global 6000
+a35dfc,N316K   ,N316K,CL30,ground,37.7,-97.4,CL35,Bombardier,CL35,Corporate Jet Leasing Company LLC,Challenger 350
+0d0d9f,XASBT   ,XA-SBT,GLF4,ground,37.7,-25.7,GLF4,Gulfstream Aerospace,GLF4,Heli Ejecutivo SA de CV,GIV
+a51d5d,N429DD  ,N429DD,GLF4,ground,37.7,-25.7,GLF4,Gulfstream Aerospace,GLF4,Basurven Servicios Sanitarios CA,GIV SP
+a0017b,N1RB    ,N1RB,CL30,ground,37.9,-121.3,CL30,Bombardier,CL30,BAC Transportation Inc,Challenger 300
+a0017b,N1RB    ,N1RB,CL30,ground,37.9,-121.2,CL30,Bombardier,CL30,BAC Transportation Inc,Challenger 300
+407c02,GMA040B ,G-VTLY,GLEX,ground,37.9,23.9,GL6T,Bombardier,VXS,Voluxis Ltd,Global 6000
+407c02,GMA040B ,G-VTLY,GLEX,ground,37.9,24.0,GL6T,Bombardier,VXS,Voluxis Ltd,Global 6000
+c0624c,CGLFV   ,C-GLFV,GLF5,ground,37.9,24.0,GLF5,Gulfstream Aerospace,SYB,Skyservice Business Aviation,GV
+4d20d6,VJT827  ,9H-VJJ,GLEX,ground,37.9,24.0,GL6T,Bombardier,VJT,VistaJet,Global 6000
+a33a30,EJM37   ,N307JW,CL30,ground,38.0,-122.1,CL30,Bombardier,EJM,Executive Jet Management,Challenger 300
+468111,HAF352A ,273,FA7X,ground,38.1,23.6,,---,,---,---
+a37ec7,N324SL  ,N324SL,F900,ground,38.2,-122.3,F9EX,Dassault,F9EX,DAA2 Holdings LLC,Falcon 900EX
+a2cba6,TWY84   ,N28AD,GLF4,ground,38.2,-122.3,G450,Gulfstream Aerospace,TWY,Solairus Aviation,G450
+a64ab0,XOJ504  ,N504VJ,GL5T,ground,38.2,-122.3,GL5T,Bombardier,XOJ,XO,Global 5000
+a9a2cf,        ,N72SM,CL30,ground,38.2,-122.3,CL35,Bombardier,CL35,Select Medical Corp,Challenger 350
+ac2e48,N884SG  ,N884SG,GLF5,ground,38.4,-81.6,G550,Gulfstream Aerospace,KFB,STAjets,G550
+aa1ab5,N750GX  ,N750GX,GLEX,ground,38.5,-122.8,,---,,---,---
+a22f57,N24TH   ,N24TH,FA7X,ground,38.5,-122.8,FA7X,Dassault,PVA,Planet Nine Private Air,Falcon 7X
+a67a34,N5161   ,N5161,CL30,ground,38.5,-122.8,,---,,---,---
+a3cc2b,N344AA  ,N344AA,GLF4,ground,38.5,-122.8,GLF4,Gulfstream Aerospace,GLF4,Absolutamente LLC,GIV
+a4c00d,N405JS  ,N405JS,GLF4,ground,38.7,-77.5,GLF4,Gulfstream Aerospace,JRE,flyExclusive,GIV SP
+a1344a,N177MJ  ,N177MJ,FA50,ground,38.8,-94.9,FA50,Dassault,FA50,IAL Corp,Falcon 50
+a03c7e,EJA114  ,N114QS,GL5T,ground,38.8,-94.9,GL5T,Bombardier,EJA,NetJets,Global 5000
+aac537,TWY750  ,N793X,GL5T,ground,38.8,-77.0,GL5T,Bombardier,TWY,Solairus Aviation,Global 5000
+ae10c1,C101    ,01,GLF5,ground,38.8,-77.0,GLF5,Gulfstream Aerospace,GLF5,United States Coast Guard,GV
+424b05,MAAAL   ,M-AAAL,GLF6,ground,38.8,-9.1,G650,Gulfstream Aerospace,G650,Global Jet IOM Ltd,G650
+4d2148,ULC34   ,9H-FCB,FA7X,ground,38.8,-9.1,FA7X,Dassault,ULC,Albinati Aviation Ltd,Falcon 7X
+342294,MGO101  ,EC-JIL,GLEX,ground,38.8,-9.1,,---,,---,---
+a7f349,PWA611  ,N611JM,GLF4,ground,38.9,-77.5,GLF4,Gulfstream Aerospace,PWA,Priester Aviation,GIV
+acc5cc,N922CB  ,N922CB,GLF4,ground,38.9,-77.5,G450,Gulfstream Aerospace,G450,Axella 2 LLC,G450
+a43f8d,N373GG  ,N373GG,GL5T,ground,38.9,-77.5,GL5T,Bombardier,GL5T,Artoc Group For Investment And Development,Global 5000
+4d2065,VJT719  ,9H-VJA,GLEX,ground,38.9,-77.5,GL6T,Bombardier,VJT,VistaJet,Global 6000
+a0cf55,EJA151  ,N151QS,GLEX,ground,38.9,-77.5,GL6T,Bombardier,EJA,NetJets,Global 6000
+aadf08,N8VB    ,N8VB,GLEX,ground,38.9,-77.5,GL6T,Bombardier,GL6T,Paramount Pictures Corp,Global 6000
+a1658d,N1898B  ,N1898B,FA7X,ground,38.9,-77.5,FA8X,Dassault,FA8X,BNT International Corp,Falcon 8X
+ac7e90,OKC904  ,N904FL,E35L,ground,38.9,-77.5,E35L,Embraer,OKC,Private Jets Inc,Legacy 600
+a7f349,PWA611  ,N611JM,GLF4,ground,38.9,-77.4,GLF4,Gulfstream Aerospace,PWA,Priester Aviation,GIV
+a54b6c,N440JG  ,N440JG,CL30,ground,38.9,-77.4,CL35,Bombardier,JTZ,Nicholas Air,Challenger 350
+a0cf55,EJA151  ,N151QS,GLEX,ground,38.9,-77.4,GL6T,Bombardier,EJA,NetJets,Global 6000
+3c5c48,BTX8H   ,D-AGBH,FA7X,ground,38.9,-77.4,FA7X,Dassault,BTX,Volkswagen Air Service GmbH,Falcon 7X
+ae10c1,C101    ,01,GLF5,ground,38.9,-77.0,GLF5,Gulfstream Aerospace,GLF5,United States Coast Guard,GV
+a145b8,KPO181  ,N181PR,GLF4,ground,39.0,-77.5,GLF4,Gulfstream Aerospace,KPO,Wing Aviation Group,GIV SP
+a624a6,KPO495  ,N495WG,GLF4,ground,39.0,-77.5,GLF4,Gulfstream Aerospace,KPO,Wing Aviation Group,GIV
+a0017b,N1RB    ,N1RB,CL30,ground,39.0,-77.5,CL30,Bombardier,CL30,BAC Transportation Inc,Challenger 300
+acc5cc,N922CB  ,N922CB,GLF4,ground,39.0,-77.5,G450,Gulfstream Aerospace,G450,Axella 2 LLC,G450
+a43f8d,N373GG  ,N373GG,GL5T,ground,39.0,-77.5,GL5T,Bombardier,GL5T,Artoc Group For Investment And Development,Global 5000
+aadf08,N8VB    ,N8VB,GLEX,ground,39.0,-77.5,GL6T,Bombardier,GL6T,Paramount Pictures Corp,Global 6000
+e491b5,PRCRC   ,PR-CRC,G280,ground,39.0,-77.5,G280,Gulfstream Aerospace,G280,Natureza Prod Art E Public SS Ltda,G280
+a7743f,JAS182  ,N58HA,CL30,ground,39.0,-77.5,CL30,Bombardier,JAS,Jet Aviation Flight Services,Challenger 300
+42476c,VPCZB   ,VP-CZB,GLF6,ground,39.0,-77.5,G650,Gulfstream Aerospace,PJS,Jet Aviation Business Jets AG,G650
+a01b3a,GAJ106  ,N106CK,F900,ground,39.0,-77.5,F9EX,Dassault,GAJ,Gama Aviation Signature,Falcon 900EX EASy
+a03510,N112QS  ,N112QS,GL5T,ground,39.0,-77.5,GL5T,Bombardier,EJA,NetJets,Global 5000
+a03510,EJA112  ,N112QS,GL5T,ground,39.0,-77.5,GL5T,Bombardier,EJA,NetJets,Global 5000
+a5d3c9,N475BC  ,N475BC,GLF5,ground,39.0,-77.5,G550,Gulfstream Aerospace,G550,Proteus Energy LLC,G550
+a7f349,PWA611  ,N611JM,GLF4,ground,39.0,-77.4,GLF4,Gulfstream Aerospace,PWA,Priester Aviation,GIV
+a6b86e,LXJ532  ,N532FX,CL30,ground,39.0,-77.4,CL30,Bombardier,LXJ,Flexjet,Challenger 300
+ac3625,N886WT  ,N886WT,GLF6,ground,39.0,-77.4,G650,Gulfstream Aerospace,LXJ,Flexjet,G650 ER
+a00cef,EDG48   ,N102JE,GLF4,ground,39.0,-77.4,GLF4,Gulfstream Aerospace,EDG,Jet Edge,GIV SP
+ac0564,N874C   ,N874C,GLF4,ground,39.0,-77.4,GLF4,Gulfstream Aerospace,GLF4,Trans-Exec Air Service Inc,GIV SP
+acdd17,N928NJ  ,N928NJ,GLF5,ground,39.0,-77.4,G550,Gulfstream Aerospace,CLY,Clay Lacy Aviation Inc,G550
+ac7fc2,N904TS  ,N904TS,GLF4,ground,39.0,-77.4,G450,Gulfstream Aerospace,G450,DSWA LLC,G450
+a0765e,GJE1209 ,N129NS,GLF4,ground,39.0,-77.4,GLF4,Gulfstream Aerospace,GLF4,Alliance Aviation Group LLC,GIV SP
+a18e7d,N2N     ,N2N,GLF6,ground,39.0,-77.4,G650,Gulfstream Aerospace,G650,Marmalade Skies LLC,G650
+ad5dbc,N960SF  ,N960SF,F900,ground,39.0,-77.4,F9EX,Dassault,F9EX,BNT International Corp,Falcon 900EX
+4d2065,VJT719  ,9H-VJA,GLEX,ground,39.0,-77.4,GL6T,Bombardier,VJT,VistaJet,Global 6000
+a0cf55,EJA151  ,N151QS,GLEX,ground,39.0,-77.4,GL6T,Bombardier,EJA,NetJets,Global 6000
+a1658d,N1898B  ,N1898B,FA7X,ground,39.0,-77.4,FA8X,Dassault,FA8X,BNT International Corp,Falcon 8X
+ac7e90,OKC904  ,N904FL,E35L,ground,39.0,-77.4,E35L,Embraer,OKC,Private Jets Inc,Legacy 600
+3c5c48,BTX8H   ,D-AGBH,FA7X,ground,39.0,-77.4,FA7X,Dassault,BTX,Volkswagen Air Service GmbH,Falcon 7X
+a03510,EJA112  ,N112QS,GL5T,ground,39.0,-77.4,GL5T,Bombardier,EJA,NetJets,Global 5000
+a17907,N194WM  ,N194WM,GLF6,ground,39.0,-77.4,G650,Gulfstream Aerospace,G650,Challenger Administration LLC,G650 ER
+a5a226,N462MK  ,N462MK,GLF5,ground,39.0,-77.4,G550,Gulfstream Aerospace,G550,Merck Sharp & Dohme LLC,G550
+adf51c,N999LR  ,N999LR,GLF5,ground,39.0,-77.4,G550,Gulfstream Aerospace,G550,White Cloud Charter LLC,G550
+aacc07,EJA795  ,N795QS,CL30,ground,39.0,-77.4,CL35,Bombardier,EJA,NetJets,Challenger 350
+a6d03b,XOJ538  ,N538XJ,CL30,ground,39.0,-77.4,CL30,Bombardier,XOJ,XO,Challenger 300
+ab525a,N829AR  ,N829AR,GLF6,ground,39.0,-77.4,G650,Gulfstream Aerospace,G650,Route 66 LLC,G650
+aa5cf8,EJA767  ,N767QS,CL30,ground,39.0,-77.4,CL35,Bombardier,EJA,NetJets,Challenger 350
+a0b6b2,EJA145  ,N145QS,GLEX,ground,39.0,-77.4,GL6T,Bombardier,EJA,NetJets,Global 6000
+a07fda,JCY131  ,N131KS,CL30,ground,39.1,-108.5,CL30,Bombardier,CL30,Springbok LLC,Challenger 300
+a04035,EJA115  ,N115QS,GL5T,ground,39.1,-108.5,GL5T,Bombardier,EJA,NetJets,Global 5000
+abb9eb,N855A   ,N855A,G280,ground,39.1,-94.6,G280,Gulfstream Aerospace,G280,StoneX Group Inc,G280
+a8dc52,N670GD  ,N670GD,GLF6,ground,39.1,-75.5,,---,,---,---
+a63bd4,XOJ500  ,N500VJ,GL5T,ground,39.2,-76.7,GL5T,Bombardier,XOJ,XO,Global 5000
+a6eb12,LXJ545  ,N545FX,CL30,ground,39.2,-76.7,CL30,Bombardier,LXJ,Flexjet,Challenger 300
+a7890e,LXJ585  ,N585FX,CL30,ground,39.2,-76.7,CL35,Bombardier,LXJ,Flexjet,Challenger 350
+a7d308,WMN603  ,N603GP,CL30,ground,39.2,-76.7,CL35,Bombardier,WMN,Trident Aircraft Inc,Challenger 350
+a88dbb,N650LG  ,N650LG,GLF4,ground,39.3,-123.8,G450,Gulfstream Aerospace,G450,Leonard Green & Partners LP,G450
+a6a382,LXJ527  ,N527FX,CL30,ground,39.3,-94.7,CL30,Bombardier,LXJ,Flexjet,Challenger 300
+aadae3,EJA799  ,N799QS,CL30,ground,39.3,-94.7,CL35,Bombardier,EJA,NetJets,Challenger 350
+a2d957,N283CE  ,N283CE,G280,ground,39.3,-85.9,G280,Gulfstream Aerospace,G280,Cummins Inc,G280
+a2d59e,N282CC  ,N282CC,G280,ground,39.3,-85.9,G280,Gulfstream Aerospace,G280,Cummins Inc,G280
+ac7029,NSH900  ,N900LC,F900,ground,39.3,-76.4,F900,Dassault,NSH,Sterling Aviation,Falcon 900 C
+ac2cd7,N884BN  ,N884BN,F900,ground,39.3,-76.4,F9LX,Dassault,WMN,Trident Aircraft Inc,Falcon 900LX
+a74887,N569BW  ,N569BW,FA50,ground,39.3,-76.4,FA50,Dassault,FA50,Worldwide Options LLC,Falcon 50
+a646f9,XOJ503  ,N503VJ,GL5T,ground,39.4,-74.6,GL5T,Bombardier,XOJ,XO,Global 5000
+a5e790,N48PL   ,N48PL,GLF4,ground,39.5,-119.8,G450,Gulfstream Aerospace,G450,Schubach Aviation,G450
+a82ddd,N626PS  ,N626PS,CL30,ground,39.5,-119.8,CL30,Bombardier,CL30,Westwind Investors Management Company LLC,Challenger 300
+a9ea32,EJA738  ,N738QS,CL30,ground,39.5,-119.8,CL35,Bombardier,EJA,NetJets,Challenger 350
+a732a2,LXJ563  ,N563FX,CL30,ground,39.5,-107.7,CL35,Bombardier,LXJ,Flexjet,Challenger 350
+a13060,        ,N176KH,GLF6,ground,39.5,-107.7,G650,Gulfstream Aerospace,G650,Global Transport Two LLC,G650 ER
+a3ea68,XOJ351  ,N351VJ,CL30,ground,39.5,-107.7,CL35,Bombardier,XOJ,XO,Challenger 350
+a1b3f1,JTL209  ,N209FB,G280,ground,39.5,-107.7,G280,Gulfstream Aerospace,JTL,Jet Linx Aviation,G280
+a57a1d,LXJ452  ,N452FX,GLF4,ground,39.5,-107.7,G450,Gulfstream Aerospace,LXJ,Flexjet,G450 LXI
+a646f9,XOJ503  ,N503VJ,GL5T,ground,39.5,-74.6,GL5T,Bombardier,XOJ,XO,Global 5000
+ad823e,N97KS   ,N97KS,FA50,ground,39.5,-74.6,FA50,Dassault,FA50,WRM Aviation LLC,Falcon 50
+34520d,GES201D ,EC-MMD,GLEX,ground,39.5,2.7,GLEX,Bombardier,GES,Gestair Executive Jet SA,Global Express XRS
+43ea70,MINTY   ,M-INTY,G280,ground,39.5,2.7,G280,Gulfstream Aerospace,G280,Hampshire Aviation Ltd,G280
+a9b9f5,N726BF  ,N726BF,GLEX,ground,39.6,-106.9,GLEX,Bombardier,GLEX,ACI Jet,Global Express XRS
+a62665,JCY211  ,N496AC,FA7X,ground,39.6,-106.9,FA7X,Dassault,JCY,Aerius Management,Falcon 7X
+a95a3c,N701WC  ,N701WC,GLF4,ground,39.6,-106.9,G450,Gulfstream Aerospace,G450,Kalihiwai Aviation LLC,G450
+ac9256,EJM909  ,N909TT,E35L,ground,39.6,-104.9,E35L,Embraer,EJM,Executive Jet Management,Legacy 600
+a03159,EJA111  ,N111QS,GL5T,ground,39.6,-104.9,GL5T,Bombardier,EJA,NetJets,Global 5000
+a89c29,LXJ654  ,N654FX,GLF6,ground,39.6,-104.9,,---,,---,---
+a1d821,N218KF  ,N218KF,CL30,ground,39.6,-104.9,CL30,Bombardier,CL30,KW Flight LLC,Challenger 300
+a32010,N300HQ  ,N300HQ,CL30,ground,39.6,-104.9,CL30,Bombardier,CL30,Comerica Leasing,Challenger 300
+a62665,JCY211  ,N496AC,FA7X,ground,39.6,-104.9,FA7X,Dassault,JCY,Aerius Management,Falcon 7X
+50027d,T7CLG   ,T7-CLG,GL5T,ground,39.6,-104.9,GLEX,Bombardier,GLEX,Limitless Aviation SM SRL,Global Express
+aac0e2,N792QS  ,N792QS,CL30,ground,39.6,-104.9,CL35,Bombardier,EJA,NetJets,Challenger 350
+aaed05,FGR803  ,N803AC,FA50,ground,39.6,-104.8,FA50,Dassault,FGR,Trans-Pacific Air Charter,Falcon 50
+ac9256,EJM909  ,N909TT,E35L,ground,39.6,-104.8,E35L,Embraer,EJM,Executive Jet Management,Legacy 600
+a491af,EJM159  ,N394AK,GLF4,ground,39.6,-104.8,GLF4,Gulfstream Aerospace,EJM,Executive Jet Management,GIV SP
+a03159,EJA111  ,N111QS,GL5T,ground,39.6,-104.8,GL5T,Bombardier,EJA,NetJets,Global 5000
+a89c29,LXJ654  ,N654FX,GLF6,ground,39.6,-104.8,,---,,---,---
+a1d821,N218KF  ,N218KF,CL30,ground,39.6,-104.8,CL30,Bombardier,CL30,KW Flight LLC,Challenger 300
+a32010,N300HQ  ,N300HQ,CL30,ground,39.6,-104.8,CL30,Bombardier,CL30,Comerica Leasing,Challenger 300
+a9a2cf,        ,N72SM,CL30,ground,39.6,-104.8,CL35,Bombardier,CL35,Select Medical Corp,Challenger 350
+a1344a,N177MJ  ,N177MJ,FA50,ground,39.6,-104.8,FA50,Dassault,FA50,IAL Corp,Falcon 50
+a62665,JCY211  ,N496AC,FA7X,ground,39.6,-104.8,FA7X,Dassault,JCY,Aerius Management,Falcon 7X
+aac0e2,N792QS  ,N792QS,CL30,ground,39.6,-104.8,CL35,Bombardier,EJA,NetJets,Challenger 350
+c01022,HRT042  ,C-FGCV,CL30,ground,39.6,-104.8,CL30,Bombardier,HRT,Chartright Air,Challenger 300
+a00273,N10AZ   ,N10AZ,F900,ground,39.6,-104.8,F900,Dassault,F900,Anschutz Corp,Falcon 900 B
+a944ec,N697CC  ,N697CC,G280,ground,39.6,-104.8,G280,Gulfstream Aerospace,G280,Henry Crown & Company,G280
+a4e822,N415QS  ,N415QS,GLF4,ground,39.6,-104.8,G450,Gulfstream Aerospace,EJA,NetJets,G450
+ab2144,N816SP  ,N816SP,GLF4,ground,39.6,-104.8,GLF4,Gulfstream Aerospace,GLF4,Lockton Enterprises Inc,GIV SP
+aa6a0d,N770LM  ,N770LM,FA7X,ground,39.6,-104.8,FA7X,Dassault,FA7X,Liberty Media Corp,Falcon 7X
+adcca3,N989AR  ,N989AR,GLF5,ground,39.6,-104.8,G550,Gulfstream Aerospace,G550,Prem Rawat Priyan Foundation,G550
+43ea70,MINTY   ,M-INTY,G280,ground,39.6,2.7,G280,Gulfstream Aerospace,G280,Hampshire Aviation Ltd,G280
+a63b75,N500RP  ,N500RP,G280,ground,39.7,-86.3,G280,Gulfstream Aerospace,G280,Penske Jet Inc,G280
+a95514,N700FJ  ,N700FJ,GLF4,ground,39.7,-86.3,GLF4,Gulfstream Aerospace,JPT,Prime Jet,GIV SP
+a83c9b,N63NM   ,N63NM,GLF4,ground,39.7,-86.3,GLF4,Gulfstream Aerospace,GLF4,Century Jets,GIV
+a57412,N450WB  ,N450WB,GLF4,ground,39.7,-86.3,G450,Gulfstream Aerospace,G450,Bindley Aviation LLC,G450
+a13044,EDG17   ,N176JE,GLF4,ground,39.8,-104.7,GLF4,Gulfstream Aerospace,EDG,Jet Edge,GIV SP
+adc9a7,EJM98   ,N988JC,GLF5,ground,39.8,-104.7,G550,Gulfstream Aerospace,EJM,Executive Jet Management,G550
+ac3bd0,EJM88   ,N888CS,GLF4,ground,39.8,-104.7,GLF4,Gulfstream Aerospace,WWI,Worldwide Jet Charter,GIV SP
+a1b3f1,JTL209  ,N209FB,G280,ground,39.8,-104.7,G280,Gulfstream Aerospace,JTL,Jet Linx Aviation,G280
+a952bc,N70FK   ,N70FK,F900,ground,39.8,-89.7,F9LX,Dassault,PRD,Presidential Aviation,Falcon 900LX
+aab109,JCY900  ,N7883K,F900,ground,39.9,-105.1,F9EX,Dassault,JCY,Aerius Management,Falcon 900EX EASy
+a0fa8b,EJA162  ,N162QS,GLEX,ground,39.9,-105.1,GL6T,Bombardier,EJA,NetJets,Global 6000
+a2e10c,        ,N285FA,G280,ground,39.9,-105.1,G280,Gulfstream Aerospace,EJM,Executive Jet Management,G280
+a1b3b3,N209CQ  ,N209CQ,F900,ground,39.9,-105.1,F9EX,Dassault,F9EX,42K RE Management LLC,Falcon 900EX
+a70016,N550GW  ,N550GW,GLF5,ground,39.9,-105.1,G550,Gulfstream Aerospace,G550,711 Cody Inc,G550
+a13044,EDG17   ,N176JE,GLF4,ground,39.9,-104.7,GLF4,Gulfstream Aerospace,EDG,Jet Edge,GIV SP
+adc9a7,EJM98   ,N988JC,GLF5,ground,39.9,-104.7,G550,Gulfstream Aerospace,EJM,Executive Jet Management,G550
+ac3cbd,N888ND  ,N888ND,GLF4,ground,39.9,-75.2,G450,Gulfstream Aerospace,G450,NPM Equipment Leasing LLC,G450
+a6eb12,LXJ545  ,N545FX,CL30,ground,39.9,-75.2,CL30,Bombardier,LXJ,Flexjet,Challenger 300
+aa95ac,EJA781  ,N781QS,CL30,ground,39.9,-75.2,CL35,Bombardier,EJA,NetJets,Challenger 350
+ad81a1,EJM200  ,N97DK,CL30,ground,39.9,-75.2,CL30,Bombardier,EJM,Executive Jet Management,Challenger 300
+aaa0d1,EJA784  ,N784QS,CL30,ground,39.9,-75.2,CL35,Bombardier,EJA,NetJets,Challenger 350
+a30017,N2926E  ,N2926E,CL30,ground,39.9,-75.2,CL35,Bombardier,CL35,CTP Aviation,Challenger 350
+a48a07,N3918Y  ,N3918Y,GLF4,ground,39.9,-75.2,G450,Gulfstream Aerospace,GAJ,Gama Aviation Signature,G450
+a364d7,N318DC  ,N318DC,GLF4,ground,39.9,-75.2,G450,Gulfstream Aerospace,GAJ,Gama Aviation Signature,G450
+a56657,N447TR  ,N447TR,GLF5,ground,39.9,-75.2,G550,Gulfstream Aerospace,G550,The Travelers Indemnity Company,G550
+a05544,JTL120  ,N120SB,GLF4,ground,39.9,-75.2,GLF4,Gulfstream Aerospace,JTL,Jet Linx Aviation,GIV SP
+a66b9e,N5123   ,N5123,FA50,ground,40.0,-82.9,FA50,Dassault,FA50,TPI Aircraft Interiors LLC,Falcon 50
+a0cf55,EJA151  ,N151QS,GLEX,ground,40.0,-82.9,GL6T,Bombardier,EJA,NetJets,Global 6000
+a0cb44,N150MB  ,N150MB,CL30,ground,40.0,-82.9,CL30,Bombardier,CL30,Craft Charter,Challenger 300
+a3418e,N309JE  ,N309JE,CL30,ground,40.0,-82.9,CL30,Bombardier,EDG,Jet Edge,Challenger 300
+ab9dd4,N848CS  ,N848CS,CL30,ground,40.0,-82.9,CL30,Bombardier,CL30,JBW Eagle LLC,Challenger 300
+ac3dab,N888XS  ,N888XS,GLF5,ground,40.0,-82.9,,---,,---,---
+a009da,EJA101  ,N101QS,GL5T,ground,40.0,-82.9,GL5T,Bombardier,EJA,NetJets,Global 5000
+a000f9,N1KX    ,N1KX,FA7X,ground,40.1,-76.3,FA7X,Dassault,FA7X,Johnson Law Group,Falcon 7X
+a78557,LXJ584  ,N584FX,CL30,ground,40.1,-76.3,CL35,Bombardier,LXJ,Flexjet,Challenger 350
+a109ef,N166WC  ,N166WC,CL30,ground,40.1,-76.3,CL30,Bombardier,CL30,Washington Corp,Challenger 300
+a9b9f5,N726BF  ,N726BF,GLEX,ground,40.2,-111.7,GLEX,Bombardier,GLEX,ACI Jet,Global Express XRS
+a57337,N450MH  ,N450MH,GLF4,ground,40.2,-76.8,G450,Gulfstream Aerospace,G450,Leading Edge Operations Co,G450
+a9a2cf,        ,N72SM,CL30,ground,40.2,-76.8,CL35,Bombardier,CL35,Select Medical Corp,Challenger 350
+a0d30c,EJA152  ,N152QS,GLEX,ground,40.2,-74.1,GL6T,Bombardier,EJA,NetJets,Global 6000
+ab2ba3,LJY819  ,N819JR,CL30,ground,40.3,-79.4,,---,,---,---
+adc30c,LJY710  ,N986SP,GLF4,ground,40.3,-79.4,G450,Gulfstream Aerospace,LJY,L J Aviation,G450
+aa5941,EJA766  ,N766QS,CL30,ground,40.3,-74.8,CL35,Bombardier,EJA,NetJets,Challenger 350
+a63b6f,N500RH  ,N500RH,GLF5,ground,40.3,-74.8,,---,,---,---
+aacc07,EJA795  ,N795QS,CL30,ground,40.3,-74.8,CL35,Bombardier,EJA,NetJets,Challenger 350
+aa5cf8,EJA767  ,N767QS,CL30,ground,40.3,-74.8,CL35,Bombardier,EJA,NetJets,Challenger 350
+a48a07,N3918Y  ,N3918Y,GLF4,ground,40.3,-74.8,G450,Gulfstream Aerospace,GAJ,Gama Aviation Signature,G450
+ac9576,N91MS   ,N91MS,F900,ground,40.3,-74.8,F900,Dassault,F900,Labbe LLC,Falcon 900
+a4a82f,N4CP    ,N4CP,GLF6,ground,40.3,-74.8,G650,Gulfstream Aerospace,G650,Pfizer Inc,G650 ER
+a5772d,N451PW  ,N451PW,GLF4,ground,40.4,-105.0,G450,Gulfstream Aerospace,G450,Mayo Aviation,G450
+a8af65,N659NR  ,N659NR,CL30,ground,40.4,-105.0,CL35,Bombardier,CL35,Blue Ocean Aerospace LLC,Challenger 350
+a33a30,EJM37   ,N307JW,CL30,ground,40.4,-105.0,CL30,Bombardier,EJM,Executive Jet Management,Challenger 300
+ad52a1,N958CR  ,N958CR,CL30,ground,40.4,-105.0,CL35,Bombardier,CL35,JH Transportation LLC,Challenger 350
+a3fcfb,XOJ356  ,N356VJ,CL30,ground,40.5,-111.4,CL35,Bombardier,XOJ,XO,Challenger 350
+a6ddb9,XOJ541  ,N541XJ,CL30,ground,40.5,-111.4,CL30,Bombardier,EDG,Jet Edge,Challenger 300
+a5772d,N451PW  ,N451PW,GLF4,ground,40.5,-105.0,G450,Gulfstream Aerospace,G450,Mayo Aviation,G450
+a8af65,N659NR  ,N659NR,CL30,ground,40.5,-105.0,CL35,Bombardier,CL35,Blue Ocean Aerospace LLC,Challenger 350
+a33a30,EJM37   ,N307JW,CL30,ground,40.5,-105.0,CL30,Bombardier,EJM,Executive Jet Management,Challenger 300
+ad52a1,N958CR  ,N958CR,CL30,ground,40.5,-105.0,CL35,Bombardier,CL35,JH Transportation LLC,Challenger 350
+440652,AOJ96M  ,OE-ISN,GLF5,ground,40.5,-3.6,,---,,---,---
+a51d5d,N429DD  ,N429DD,GLF4,ground,40.5,-3.6,GLF4,Gulfstream Aerospace,GLF4,Basurven Servicios Sanitarios CA,GIV SP
+a7f063,N610SW  ,N610SW,GLEX,ground,40.5,-3.6,GL6T,Bombardier,GL6T,Corporate,Global 6000
+344547,GES181U ,EC-LZU,GLF6,ground,40.5,-3.6,,---,,---,---
+3435c5,GES451N ,EC-MNH,GLEX,ground,40.5,-3.6,GLEX,Bombardier,GES,Gestair Executive Jet SA,Global Express XRS
+600806,AHY5506 ,4K-AI06,GLF5,ground,40.5,50.1,,---,,---,---
+ad491c,N955VG  ,N955VG,FA50,ground,40.6,-75.4,F5EX,Dassault,F5EX,J4V LLC,Falcon 50EX
+a72eeb,LXJ562  ,N562FX,CL30,ground,40.6,-73.8,CL35,Bombardier,LXJ,Flexjet,Challenger 350
+44067b,IJM011  ,OE-ISX,FA7X,ground,40.6,-73.8,FA7X,Dassault,IJM,International Jet Management GmbH,Falcon 7X
+a79dad,TWY590  ,N590CV,CL30,ground,40.6,-73.8,CL35,Bombardier,TWY,Solairus Aviation,Challenger 350
+48412b,BFY674R ,P4-BFY,GLF5,ground,40.6,-73.8,G550,Gulfstream Aerospace,BFY,Bestfly Aruba,G550
+a3c881,N343AP  ,N343AP,FA7X,ground,40.7,-75.4,FA7X,Dassault,FA7X,Air Products & Chemicals Inc,Falcon 7X
+ac3dab,N888XS  ,N888XS,GLF5,ground,40.7,-75.4,,---,,---,---
+a0c882,N15GX   ,N15GX,GLEX,ground,40.7,-74.2,GLEX,Bombardier,GLEX,Oracle Navigation LLC,Global Express XRS
+a23f37,N244DS  ,N244DS,GLF6,ground,40.7,-74.2,G650,Gulfstream Aerospace,G650,DS Aviation LLC,G650 ER
+ac3f7e,N889CH  ,N889CH,GLF6,ground,40.7,-74.2,G650,Gulfstream Aerospace,PEG,Pegasus Elite Aviation,G650
+43ea87,MCNZI   ,M-MAXX,GLEX,ground,40.7,-74.2,GL6T,Bombardier,GL6T,Lavenda Services Inc,Global 6000
+ac9975,N9103J  ,N9103J,GLEX,ground,40.7,-74.2,GLEX,Bombardier,PVA,Planet Nine Private Air,Global Express
+a9ecde,N739E   ,N739E,CL30,ground,40.7,-74.2,CL30,Bombardier,CL30,Eaton Leasing Corp,Challenger 300
+a813e9,N62AE   ,N62AE,G280,ground,40.7,-74.2,G280,Gulfstream Aerospace,G280,Air Eagle LLC,G280
+0d0d61,XAFTY   ,XA-FTY,FA7X,ground,40.7,-74.2,FA7X,Dassault,LET,Aerolineas Ejecutivas SA,Falcon 7X
+a79dad,TWY590  ,N590CV,CL30,ground,40.7,-73.8,CL35,Bombardier,TWY,Solairus Aviation,Challenger 350
+a0e276,N156WJ  ,N156WJ,GLF4,ground,40.7,-73.4,GLF4,Gulfstream Aerospace,GLF4,156WJ LLC,GIV SP
+a7dbcd,N605WG  ,N605WG,E35L,ground,40.7,-73.4,E35L,Embraer,NEW,Northeastern Aviation,Legacy 600
+459257,MMD8077 ,OY-DRW,FA7X,ground,40.8,-112.0,,---,,---,---
+a3f944,XOJ355  ,N355VJ,CL30,ground,40.8,-112.0,,---,,---,---
+ac2ab8,DPJ883  ,N883TW,CL30,ground,40.8,-112.0,CL35,Bombardier,DPJ,Wheels Up Private Jets,Challenger 350
+aa882e,EJA778  ,N778QS,CL30,ground,40.8,-112.0,CL35,Bombardier,EJA,NetJets,Challenger 350
+a88ddb,N650MP  ,N650MP,G280,ground,40.8,-112.0,G280,Gulfstream Aerospace,G280,Keystone Aviation,G280
+a71668,N556HD  ,N556HD,FA50,ground,40.8,-112.0,F5EX,Dassault,F5EX,N50HD LLC,Falcon 50EX
+a7c3d5,N6PC    ,N6PC,GLF5,ground,40.8,-112.0,GLF5,Gulfstream Aerospace,GLF5,Mountain Aviation Leasing LLC,GV
+a26dc8,N256A   ,N256A,FA50,ground,40.8,-96.8,FA50,Dassault,FA50,Ameritas Life Insurance Company,Falcon 50
+a724ce,ULA7    ,N56CL,FA7X,ground,40.8,-96.7,FA7X,Dassault,ULA,UltraAir,Falcon 7X
+a03c7e,EJA114  ,N114QS,GL5T,ground,40.8,-96.7,GL5T,Bombardier,EJA,NetJets,Global 5000
+a88d52,N650GB  ,N650GB,GLF6,ground,40.8,-74.4,G650,Gulfstream Aerospace,G650,American Express Travel Co,G650 ER
+a76546,LXJ576  ,N576FX,CL30,ground,40.8,-74.4,CL35,Bombardier,LXJ,Flexjet,Challenger 350
+a0958d,PRD1    ,N137DR,GLF4,ground,40.8,-74.4,GLF4,Gulfstream Aerospace,PRD,Presidential Aviation,GIV SP
+a2341b,EJM241  ,N241EA,GL5T,ground,40.8,-74.4,GL5T,Bombardier,EJM,Executive Jet Management,Global 5000
+ac3dcd,N888ZA  ,N888ZA,F900,ground,40.8,-74.4,F9EX,Dassault,CLY,Clay Lacy Aviation Inc,Falcon 900EX EASy
+aa22e6,EJA752  ,N752QS,CL30,ground,40.8,-74.4,CL35,Bombardier,EJA,NetJets,Challenger 350
+a4c00d,N405JS  ,N405JS,GLF4,ground,40.8,-74.4,GLF4,Gulfstream Aerospace,JRE,flyExclusive,GIV SP
+aa4122,N76VZ   ,N76VZ,GLF5,ground,40.8,-74.4,G550,Gulfstream Aerospace,G550,Verizon Corporate Services,G550
+a3d76c,N347BD  ,N347BD,FA7X,ground,40.8,-74.4,FA7X,Dassault,FA7X,Beckton Dickinson & Company,Falcon 7X
+a4f9e5,N42GJ   ,N42GJ,CL30,ground,40.8,-74.4,CL30,Bombardier,CL30,JLJ Equipment Leasing Corp,Challenger 300
+a6f149,N5465M  ,N5465M,GLF5,ground,40.8,-74.4,G550,Gulfstream Aerospace,G550,Corporate,G550
+4b1857,HBJFR   ,HB-JFR,FA7X,ground,40.8,-74.4,FA7X,Dassault,FA7X,Japat AG,Falcon 7X
+aadd32,N8AG    ,N8AG,F900,ground,40.8,-74.4,F9LX,Dassault,F9LX,Wing & Rotor Transportation Holdings LLC,Falcon 900LX
+a014ff,EJA104  ,N104QS,GL5T,ground,40.8,-74.1,GL5T,Bombardier,EJA,NetJets,Global 5000
+a18845,N1980K  ,N1980K,GLF6,ground,40.8,-74.1,G650,Gulfstream Aerospace,G650,Noel Air LLC,G650 ER
+a18845,        ,N1980K,GLF6,ground,40.8,-74.1,G650,Gulfstream Aerospace,G650,Noel Air LLC,G650 ER
+aa7f7c,EJM776  ,N776BT,GLF4,ground,40.8,-74.1,G450,Gulfstream Aerospace,EJM,Executive Jet Management,G450
+a9ff1e,EJA743  ,N743QS,CL30,ground,40.8,-74.1,CL35,Bombardier,EJA,NetJets,Challenger 350
+a34ea4,N312EA  ,N312EA,CL30,ground,40.8,-74.1,CL35,Bombardier,EDG,Jet Edge,Challenger 350
+a82d54,PEG6    ,N626JE,GLF5,ground,40.8,-74.1,GLF5,Gulfstream Aerospace,PEG,Pegasus Elite Aviation,GV
+aa6e2d,EJA771  ,N771QS,CL30,ground,40.8,-74.1,CL35,Bombardier,EJA,NetJets,Challenger 350
+a0a7d6,EJA141  ,N141QS,GLEX,ground,40.8,-74.1,GL6T,Bombardier,EJA,NetJets,Global 6000
+a5f536,N483RA  ,N483RA,GLF4,ground,40.8,-74.1,GLF4,Gulfstream Aerospace,GLF4,Threshold Aviation Group,GIV
+ab0a46,N810KJ  ,N810KJ,GLEX,ground,40.8,-74.1,GL7T,Bombardier,TWY,Solairus Aviation,Global 7500
+aa6a76,EJA770  ,N770QS,CL30,ground,40.8,-74.1,CL35,Bombardier,EJA,NetJets,Challenger 350
+a31fc6,N300ER  ,N300ER,CL30,ground,40.8,-74.1,CL30,Bombardier,XSR,Executive AirShare,Challenger 300
+a78116,KFB583  ,N583AJ,GLF4,ground,40.8,-74.1,GLF4,Gulfstream Aerospace,KFB,STAjets,GIV
+ac0564,N874C   ,N874C,GLF4,ground,40.8,-74.1,GLF4,Gulfstream Aerospace,GLF4,Trans-Exec Air Service Inc,GIV SP
+aae952,N802AG  ,N802AG,GLF5,ground,40.8,-74.1,,---,,---,---
+a400b2,XOJ357  ,N357VJ,CL30,ground,40.8,-74.1,CL35,Bombardier,XOJ,XO,Challenger 350
+a9ea32,EJA738  ,N738QS,CL30,ground,40.8,-74.1,CL35,Bombardier,EJA,NetJets,Challenger 350
+a0cb44,N150MB  ,N150MB,CL30,ground,40.8,-74.1,CL30,Bombardier,CL30,Craft Charter,Challenger 300
+a3fcfb,XOJ356  ,N356VJ,CL30,ground,40.8,-74.1,CL35,Bombardier,XOJ,XO,Challenger 350
+a955fd,EJA700  ,N700QS,CL30,ground,40.8,-74.1,CL35,Bombardier,EJA,NetJets,Challenger 350
+a038c7,EJA113  ,N113QS,GL5T,ground,40.8,-74.1,GL5T,Bombardier,EJA,NetJets,Global 5000
+aa4e1c,EJA763  ,N763QS,CL30,ground,40.8,-74.1,CL35,Bombardier,EJA,NetJets,Challenger 350
+a65054,N506BA  ,N506BA,FA7X,ground,40.8,-74.1,FA7X,Dassault,XFL,Executive Fliteways,Falcon 7X
+ab00ad,N808ME  ,N808ME,GLF5,ground,40.8,-74.1,G550,Gulfstream Aerospace,G550,Corporate,G550
+ab8baa,N843GX  ,N843GX,GLEX,ground,40.8,-74.1,GLEX,Bombardier,GLEX,GEX 9026 LLC,Global Express
+a3a9de,N335RE  ,N335RE,CL30,ground,40.8,-74.1,CL35,Bombardier,EDG,Jet Edge,Challenger 350
+ab888d,PEG42   ,N842PA,GLF4,ground,40.8,-74.1,GLF4,Gulfstream Aerospace,PEG,Pegasus Elite Aviation,GIV
+a02da2,EJA110  ,N110QS,GL5T,ground,40.8,-74.1,GL5T,Bombardier,EJA,NetJets,Global 5000
+a96041,N703FS  ,N703FS,GLF5,ground,40.8,-74.1,G550,Gulfstream Aerospace,G550,Flo-Sun Aircraft Inc,G550
+a29ea2,PEG68   ,N268VT,GLF4,ground,40.8,-74.1,GLF4,Gulfstream Aerospace,PEG,Pegasus Elite Aviation,GIV SP
+a043ec,EJA116  ,N116QS,GL5T,ground,40.8,-74.1,GL5T,Bombardier,EJA,NetJets,Global 5000
+0d0bc5,XAJEY   ,XA-JEY,GLF4,ground,40.8,-74.1,GLF4,Gulfstream Aerospace,GLF4,Performance Air SAPI de CV,GIV SP
+a9b274,N724AM  ,N724AM,GLEX,ground,40.8,-74.1,GL6T,Bombardier,GL6T,True Nomad LLC,Global 6000
+a5c289,N470QS  ,N470QS,GLF4,ground,40.8,-74.1,G450,Gulfstream Aerospace,EJM,Executive Jet Management,G450
+ac6428,EJM898  ,N898MJ,GLEX,ground,40.8,-74.1,GL6T,Bombardier,EJM,Executive Jet Management,Global 6000
+a9bb45,EJA726  ,N726QS,CL30,ground,40.8,-74.1,CL35,Bombardier,EJA,NetJets,Challenger 350
+ac70c5,N900SJ  ,N900SJ,F900,ground,40.8,-74.1,,---,,---,---
+a76546,LXJ576  ,N576FX,CL30,ground,40.8,-73.9,CL35,Bombardier,LXJ,Flexjet,Challenger 350
+a3133d,N298AL  ,N298AL,GLF6,ground,40.8,-73.9,G650,Gulfstream Aerospace,CLY,Clay Lacy Aviation Inc,G650 ER
+a249a0,N2467K  ,N2467K,GLF4,ground,40.8,-73.9,,---,,---,---
+a032bb,        ,N1113R,GLF6,ground,40.8,-73.9,G650,Gulfstream Aerospace,TWY,Solairus Aviation,G650 ER
+ad0b62,LXJ94   ,N94FX,GLEX,ground,40.8,-73.9,GLEX,Bombardier,LXJ,Flexjet,Global Express XRS
+0aa001,X8PASD  ,8P-ASD,GLF6,ground,40.8,-72.6,G650,Gulfstream Aerospace,G650,Grupo Santo Domingo,G650 ER
+a57666,LXJ451  ,N451FX,GLF4,ground,40.8,-72.6,G450,Gulfstream Aerospace,LXJ,Flexjet,G450 LXI
+a57046,N411R   ,N45FF,FA7X,ground,40.9,-111.9,FA7X,Dassault,FA7X,Leconte LLC,Falcon 7X
+a3fc35,N356ML  ,N356ML,CL30,ground,40.9,-96.7,CL30,Bombardier,CL30,Corporate,Challenger 300
+a03c7e,EJA114  ,N114QS,GL5T,ground,40.9,-96.7,GL5T,Bombardier,EJA,NetJets,Global 5000
+a26dc8,N256A   ,N256A,FA50,ground,40.9,-96.7,FA50,Dassault,FA50,Ameritas Life Insurance Company,Falcon 50
+a2e561,N286MJ  ,N286MJ,F900,ground,40.9,-96.7,F9EX,Dassault,F9EX,900EX LLC,Falcon 900EX EASy
+a9c66a,EJA729  ,N729QS,CL30,ground,40.9,-81.4,CL35,Bombardier,EJA,NetJets,Challenger 350
+a79433,LXJ588  ,N588FX,CL30,ground,40.9,-81.4,CL35,Bombardier,LXJ,Flexjet,Challenger 350
+a49ad5,EDG39   ,N396U,GLF4,ground,40.9,-81.4,GLF4,Gulfstream Aerospace,EDG,Jet Edge,GIV SP
+a31d4d,JNY30   ,N30DJ,GLF4,ground,40.9,-74.1,GLF4,Gulfstream Aerospace,JNY,Journey Aviation,GIV SP
+a0379b,N113CS  ,N113CS,GLF6,ground,40.9,-74.1,G650,Gulfstream Aerospace,G650,113CS LLC,G650 ER
+a6876f,N52JT   ,N52JT,CL30,ground,40.9,-74.1,CL30,Bombardier,EDG,Jet Edge,Challenger 300
+acbc0c,N92CJ   ,N92CJ,FA50,ground,40.9,-74.1,FA50,Dassault,FA50,Club Jet,Falcon 50
+a79433,LXJ588  ,N588FX,CL30,ground,40.9,-74.1,CL35,Bombardier,LXJ,Flexjet,Challenger 350
+a3c881,N343AP  ,N343AP,FA7X,ground,40.9,-74.1,FA7X,Dassault,FA7X,Air Products & Chemicals Inc,Falcon 7X
+aae294,EDG800  ,N800HH,GLF4,ground,40.9,-74.1,GLF4,Gulfstream Aerospace,EDG,Jet Edge,GIV SP
+a18845,        ,N1980K,GLF6,ground,40.9,-74.1,G650,Gulfstream Aerospace,G650,Noel Air LLC,G650 ER
+a41ff5,N365MC  ,N365MC,CL30,ground,40.9,-74.1,CL35,Bombardier,CL35,Cockrell Resources,Challenger 350
+aa998a,N782SF  ,N782SF,GLEX,ground,40.9,-74.1,GL7T,Bombardier,JAS,Jet Aviation Flight Services,Global 7500
+a13044,EDG17   ,N176JE,GLF4,ground,40.9,-74.1,GLF4,Gulfstream Aerospace,EDG,Jet Edge,GIV SP
+a9ff1e,EJA743  ,N743QS,CL30,ground,40.9,-74.1,CL35,Bombardier,EJA,NetJets,Challenger 350
+a34ea4,N312EA  ,N312EA,CL30,ground,40.9,-74.1,CL35,Bombardier,EDG,Jet Edge,Challenger 350
+a1c9ea,EJM214  ,N214RW,CL30,ground,40.9,-74.1,CL35,Bombardier,EJM,Executive Jet Management,Challenger 350
+a49ad5,EDG39   ,N396U,GLF4,ground,40.9,-74.1,GLF4,Gulfstream Aerospace,EDG,Jet Edge,GIV SP
+a80cbe,WDY618  ,N618CX,F900,ground,40.9,-74.1,F900,Dassault,WDY,Phoenix Airlines Services,Falcon 900 B
+aa6e2d,EJA771  ,N771QS,CL30,ground,40.9,-74.1,CL35,Bombardier,EJA,NetJets,Challenger 350
+a0a7d6,EJA141  ,N141QS,GLEX,ground,40.9,-74.1,GL6T,Bombardier,EJA,NetJets,Global 6000
+a63722,N5VJ    ,N5VJ,F900,ground,40.9,-74.1,F9EX,Dassault,GAJ,Gama Aviation Signature,Falcon 900EX
+a13e9d,EJM18   ,N18CZ,GLEX,ground,40.9,-74.1,GL6T,Bombardier,EJM,Executive Jet Management,Global 6000
+a63b6f,N500RH  ,N500RH,GLF5,ground,40.9,-74.1,,---,,---,---
+adf1e7,N998RW  ,N998RW,FA7X,ground,40.9,-74.1,FA7X,Dassault,JTL,Jet Linx Aviation,Falcon 7X
+a5f536,N483RA  ,N483RA,GLF4,ground,40.9,-74.1,GLF4,Gulfstream Aerospace,GLF4,Threshold Aviation Group,GIV
+0aa001,X8PASD  ,8P-ASD,GLF6,ground,40.9,-74.1,G650,Gulfstream Aerospace,G650,Grupo Santo Domingo,G650 ER
+a31fc6,N300ER  ,N300ER,CL30,ground,40.9,-74.1,CL30,Bombardier,XSR,Executive AirShare,Challenger 300
+a78116,KFB583  ,N583AJ,GLF4,ground,40.9,-74.1,GLF4,Gulfstream Aerospace,KFB,STAjets,GIV
+ac1fe2,N880X   ,N880X,GLEX,ground,40.9,-74.1,GL6T,Bombardier,GL6T,Pratt Aviation P/L,Global 6000
+ac0564,N874C   ,N874C,GLF4,ground,40.9,-74.1,GLF4,Gulfstream Aerospace,GLF4,Trans-Exec Air Service Inc,GIV SP
+adabc1,N980GG  ,N980GG,GLEX,ground,40.9,-74.1,GL6T,Bombardier,GL6T,Lucky Fives LLC,Global 6000
+adf522,N999LX  ,N999LX,GLF5,ground,40.9,-74.1,G550,Gulfstream Aerospace,G550,CKE Associates LLC,G550
+ac952b,WWI91   ,N91JS,GLF4,ground,40.9,-74.1,GLF4,Gulfstream Aerospace,WWI,Worldwide Jet Charter,GIV SP
+a88ecd,N650XF  ,N650XF,GLF6,ground,40.9,-74.1,G650,Gulfstream Aerospace,JAS,Jet Aviation Flight Services,G650
+ab48aa,WWI82   ,N826RP,GLF4,ground,40.9,-74.1,G300,Gulfstream Aerospace,WWI,Worldwide Jet Charter,G300
+4077c4,LNX12MO ,G-FOMO,GLEX,ground,40.9,-74.1,GL6T,Bombardier,LNX,Luxaviation UK,Global 6000
+a973a4,N708Q   ,N708Q,CL30,ground,40.9,-74.1,CL35,Bombardier,EDG,Jet Edge,Challenger 350
+a91618,JAS685  ,N685DC,FA7X,ground,40.9,-74.1,FA7X,Dassault,JAS,Jet Aviation Flight Services,Falcon 7X
+a97d34,MVJ710  ,N710MV,GLF4,ground,40.9,-74.1,GLF4,Gulfstream Aerospace,MVJ,Mira Vista Aviation,GIV SP
+acd10b,N925DC  ,N925DC,GLF4,ground,40.9,-74.1,GLF4,Gulfstream Aerospace,GLF4,Avion LLC,GIV SP
+a32150,N300WK  ,N300WK,CL30,ground,40.9,-74.1,CL30,Bombardier,CL30,Flightgest Aviation,Challenger 300
+a7bfb0,N599JT  ,N599JT,CL30,ground,40.9,-74.1,CL35,Bombardier,VTE,Contour Aviation,Challenger 350
+a7a568,LXJ592  ,N592FX,CL30,ground,40.9,-74.1,CL35,Bombardier,LXJ,Flexjet,Challenger 350
+aae952,N802AG  ,N802AG,GLF5,ground,40.9,-74.1,,---,,---,---
+a400b2,XOJ357  ,N357VJ,CL30,ground,40.9,-74.1,CL35,Bombardier,XOJ,XO,Challenger 350
+a07bfe,EDG30   ,N130JE,GLF4,ground,40.9,-74.1,GLF4,Gulfstream Aerospace,EDG,Jet Edge,GIV SP
+a1c8bd,N214DV  ,N214DV,FA50,ground,40.9,-74.1,F5EX,Dassault,F5EX,Listwin Ventures LLC,Falcon 50EX
+a9ea32,EJA738  ,N738QS,CL30,ground,40.9,-74.1,CL35,Bombardier,EJA,NetJets,Challenger 350
+ac2e48,N884SG  ,N884SG,GLF5,ground,40.9,-74.1,G550,Gulfstream Aerospace,KFB,STAjets,G550
+abb9eb,N855A   ,N855A,G280,ground,40.9,-74.1,G280,Gulfstream Aerospace,G280,StoneX Group Inc,G280
+a57a1d,LXJ452  ,N452FX,GLF4,ground,40.9,-74.1,G450,Gulfstream Aerospace,LXJ,Flexjet,G450 LXI
+a57412,N450WB  ,N450WB,GLF4,ground,40.9,-74.1,G450,Gulfstream Aerospace,G450,Bindley Aviation LLC,G450
+a56657,N447TR  ,N447TR,GLF5,ground,40.9,-74.1,G550,Gulfstream Aerospace,G550,The Travelers Indemnity Company,G550
+a0cb44,N150MB  ,N150MB,CL30,ground,40.9,-74.1,CL30,Bombardier,CL30,Craft Charter,Challenger 300
+a009da,EJA101  ,N101QS,GL5T,ground,40.9,-74.1,GL5T,Bombardier,EJA,NetJets,Global 5000
+a109ef,N166WC  ,N166WC,CL30,ground,40.9,-74.1,CL30,Bombardier,CL30,Washington Corp,Challenger 300
+a3fcfb,XOJ356  ,N356VJ,CL30,ground,40.9,-74.1,CL35,Bombardier,XOJ,XO,Challenger 350
+ad491c,N955VG  ,N955VG,FA50,ground,40.9,-74.1,F5EX,Dassault,F5EX,J4V LLC,Falcon 50EX
+a038c7,EJA113  ,N113QS,GL5T,ground,40.9,-74.1,GL5T,Bombardier,EJA,NetJets,Global 5000
+a65054,N506BA  ,N506BA,FA7X,ground,40.9,-74.1,FA7X,Dassault,XFL,Executive Fliteways,Falcon 7X
+aacfbe,EJA796  ,N796QS,CL30,ground,40.9,-74.1,CL35,Bombardier,EJA,NetJets,Challenger 350
+ab00ad,N808ME  ,N808ME,GLF5,ground,40.9,-74.1,G550,Gulfstream Aerospace,G550,Corporate,G550
+a3a9de,N335RE  ,N335RE,CL30,ground,40.9,-74.1,CL35,Bombardier,EDG,Jet Edge,Challenger 350
+a96041,N703FS  ,N703FS,GLF5,ground,40.9,-74.1,G550,Gulfstream Aerospace,G550,Flo-Sun Aircraft Inc,G550
+a29ea2,PEG68   ,N268VT,GLF4,ground,40.9,-74.1,GLF4,Gulfstream Aerospace,PEG,Pegasus Elite Aviation,GIV SP
+a043ec,EJA116  ,N116QS,GL5T,ground,40.9,-74.1,GL5T,Bombardier,EJA,NetJets,Global 5000
+ac6428,EJM898  ,N898MJ,GLEX,ground,40.9,-74.1,GL6T,Bombardier,EJM,Executive Jet Management,Global 6000
+a2248e,N237X   ,N237X,FA7X,ground,40.9,-74.1,FA7X,Dassault,JAS,Jet Aviation Flight Services,Falcon 7X
+a67d7c,LXJ556  ,N517WZ,CL30,ground,40.9,-74.1,,---,,---,---
+a00c4a,N102BQ  ,N102BQ,GLF4,ground,40.9,-74.1,,---,,---,---
+a9b63c,LRT0725 ,N725BD,E35L,ground,40.9,-74.1,E35L,Embraer,LRT,Liberty Jet Management,Legacy 600
+4d20f7,VJT878  ,9H-VJO,GLEX,ground,40.9,-74.1,GL6T,Bombardier,VJT,VistaJet,Global 6000
+491d8a,NJE9UQ  ,CS-GLJ,GLEX,ground,40.9,-74.1,GL6T,Bombardier,NJE,NetJets Europe,Global 6500
+adab7b,WDY980  ,N980DM,FA50,ground,40.9,-74.1,FA50,Dassault,WDY,Phoenix Airlines Services,Falcon 50
+a4b89f,N403JS  ,N403JS,GLF4,ground,40.9,-74.1,GLF4,Gulfstream Aerospace,JRE,flyExclusive,GIV SP
+a88e39,N650RH  ,N650RH,GLF6,ground,40.9,-74.1,G650,Gulfstream Aerospace,G650,Reyes Holdings,G650
+459da6,VMP999  ,OY-GMF,GLEX,ground,40.9,-74.1,GLEX,Bombardier,VMP,ExecuJet Europe A/S,Global Express
+abccd8,EJM86   ,N86DQ,CL30,ground,40.9,-74.1,CL30,Bombardier,EJM,Executive Jet Management,Challenger 300
+abcda2,EDG86   ,N86MS,GLF4,ground,40.9,-74.1,GLF4,Gulfstream Aerospace,EDG,Jet Edge,GIV SP
+a5c0bc,N47WG   ,N47WG,GLEX,ground,40.9,-74.1,GLEX,Bombardier,KPO,Wing Aviation Group,Global Express
+3c0c0a,AHO9291 ,D-ATON,FA7X,ground,40.9,-74.1,FA7X,Dassault,AHO,Air Hamburg GmbH,Falcon 7X
+a9816a,N711SX  ,N711SX,GLEX,ground,40.9,-74.1,GLEX,Bombardier,GLEX,Jonathan D Lewis,Global Express
+a0723d,TWY44   ,N128JL,F900,ground,40.9,-74.1,F9EX,Dassault,TWY,Solairus Aviation,Falcon 900EX
+a3a178,N333FG  ,N333FG,GLF4,ground,40.9,-74.1,GLF4,Gulfstream Aerospace,GLF4,Aviation Charters Inc,GIV SP
+ac3dd2,TWY888  ,N888ZF,GLF6,ground,40.9,-74.1,G650,Gulfstream Aerospace,TWY,Solairus Aviation,G650 ER
+a0836c,EDG403  ,N132JE,GLF4,ground,40.9,-74.1,GLF4,Gulfstream Aerospace,EDG,Jet Edge,GIV SP
+aa558a,EJA765  ,N765QS,CL30,ground,40.9,-74.1,CL35,Bombardier,EJA,NetJets,Challenger 350
+a0a97b,TWY15   ,N1415N,GLF6,ground,40.9,-74.1,G650,Gulfstream Aerospace,TWY,Solairus Aviation,G650 ER
+a4c0a3,N405QS  ,N405QS,GLF4,ground,40.9,-74.1,G450,Gulfstream Aerospace,EJA,NetJets,G450
+add149,N99LE   ,N99LE,GLEX,ground,40.9,-74.1,GL6T,Bombardier,GL6T,Corporate,Global 6000
+a7a91f,LXJ593  ,N593FX,CL30,ground,40.9,-74.1,CL35,Bombardier,LXJ,Flexjet,Challenger 350
+acb60e,JAS918  ,N918TB,GL5T,ground,40.9,-74.1,GL5T,Bombardier,JAS,Jet Aviation Flight Services,Global 5000
+a64e67,XOJ505  ,N505VJ,GL5T,ground,40.9,-74.1,GL5T,Bombardier,XOJ,XO,Global 5000
+a175fc,N1932P  ,N1932P,GLF5,ground,40.9,-74.1,G550,Gulfstream Aerospace,G550,Mozart Investments Inc,G550
+a6ec95,XOJ545  ,N545XJ,CL30,ground,40.9,-74.1,CL30,Bombardier,XOJ,XO,Challenger 300
+a48e1b,N393BV  ,N393BV,GLEX,ground,40.9,-74.1,,---,,---,---
+a8e777,EJM473  ,N673GD,GLF6,ground,40.9,-74.1,,---,,---,---
+a3479e,N310JE  ,N310JE,CL30,ground,40.9,-74.1,CL35,Bombardier,EDG,Jet Edge,Challenger 350
+a03f9f,N115JS  ,N115JS,GLEX,ground,40.9,-74.1,GL6T,Bombardier,GL6T,Princess Gate LLC,Global 6000
+a6697e,JAS127  ,N512GL,GLEX,ground,40.9,-74.1,GL7T,Bombardier,JAS,Jet Aviation Flight Services,Global 7500
+aa1abe,N750HF  ,N750HF,GLF6,ground,40.9,-74.1,G650,Gulfstream Aerospace,G650,Central Management Services LLC,G650 ER
+a0de5d,N155SL  ,N155SL,CL30,ground,40.9,-74.1,CL30,Bombardier,CL30,Cockrell Resources,Challenger 300
+a76e37,XOJ578  ,N578XJ,CL30,ground,40.9,-74.1,CL30,Bombardier,XOJ,XO,Challenger 300
+a25785,N250AG  ,N250AG,CL30,ground,40.9,-74.1,CL35,Bombardier,CL35,Business Jet Access,Challenger 350
+a14f52,RKK38   ,N1838S,FA7X,ground,40.9,-74.1,FA7X,Dassault,RKK,Stephens Group Inc,Falcon 7X
+a4ad27,EDG494  ,N400FJ,GLF4,ground,40.9,-74.1,GLF4,Gulfstream Aerospace,EDG,Jet Edge,GIV SP
+c04e94,SYB007  ,C-GDTR,GLEX,ground,40.9,-74.1,GL6T,Bombardier,SYB,Skyservice Business Aviation,Global 6000
+a13f8c,N18NN   ,N18NN,GLEX,ground,40.9,-74.1,GLEX,Bombardier,GLEX,East Side Aviation LLC,Global Express XRS
+c03d0c,CFXDB   ,C-FXDB,GLEX,ground,40.9,-74.1,GL6T,Bombardier,KNT,Flightpath Charter Airways,Global 6000
+a3d7e4,N347FZ  ,N347FZ,CL30,ground,40.9,-74.1,CL35,Bombardier,CLY,Clay Lacy Aviation Inc,Challenger 350
+a95031,JNY7    ,N7DK,GLF4,ground,40.9,-74.1,GLF4,Gulfstream Aerospace,GLF4,Pontiac Aviation LLC,GIV SP
+adb711,N983J   ,N983J,GLEX,ground,40.9,-74.1,GLEX,Bombardier,GLEX,Irwin Mark Jacobs Trustee,Global Express
+a1619f,N1886S  ,N1886S,GLEX,ground,40.9,-74.1,GL6T,Bombardier,GL6T,One Campus Drive Services LLC,Global 6000
+a69fcb,LXJ526  ,N526FX,CL30,ground,40.9,-74.1,CL30,Bombardier,LXJ,Flexjet,Challenger 300
+ac8641,TFF912  ,N906JC,GLF4,ground,40.9,-74.1,G350,Gulfstream Aerospace,TFF,Talon Air,G350
+4d22d1,ALE75X  ,9H-ANS,GLEX,ground,40.9,-74.1,GL6T,Bombardier,ALE,Alliance Executive Jets,Global 6000
+a3203b,LXJ350  ,N300KH,CL30,ground,41.0,-72.3,CL30,Bombardier,LXJ,Flexjet,Challenger 300
+4d21d7,EAU40G  ,9H-OVG,GLEX,ground,41.0,28.8,GL6T,Bombardier,EAU,Elitavia Malta,Global 6000
+44047d,AOJ84K  ,OE-IBK,E35L,ground,41.0,28.8,E35L,Embraer,AOJ,Avcon Jet AG,Legacy 600
+3c61f3,AHO979M ,D-AHOS,E35L,ground,41.0,28.8,E35L,Embraer,AHO,Air Hamburg GmbH,Legacy 650
+4598c9,VMP888  ,OY-FFI,FA7X,ground,41.0,28.8,FA7X,Dassault,VMP,ExecuJet Europe A/S,Falcon 7X
+a40da9,N360PZ  ,N360PZ,FA7X,ground,41.0,28.8,FA7X,Dassault,FA7X,City Electric Supply Company,Falcon 7X
+4b8d0e,TCCHN   ,TC-CHN,GLEX,ground,41.0,28.8,,---,,---,---
+4d2156,9HAVA   ,9H-AVA,GL5T,ground,41.0,28.8,GL5T,Bombardier,HYP,Hyperion Aviation,Global 5000
+4b8d42,TCCJB   ,TC-CJB,E35L,ground,41.0,28.8,E35L,Embraer,TRK,Government of Turkey,Legacy 650
+4bce0c,TCSPL   ,TC-SPL,CL30,ground,41.0,28.8,CL30,Bombardier,CL30,Genel Havacilik,Challenger 300
+4bad07,TCKHG   ,TC-KHG,GLF5,ground,41.0,28.8,G550,Gulfstream Aerospace,G550,Korfez Havacilik,G550
+4b8565,TCAKE   ,TC-AKE,F900,ground,41.0,28.8,F9LX,Dassault,F9LX,AK Havacilik,Falcon 900LX
+4b8681,TRK20   ,TC-ATA,GLF5,ground,41.0,28.8,G550,Gulfstream Aerospace,TRK,Turkish Airlines General Aviation,G550
+4b9d82,TCGLB   ,TC-GLB,GLEX,ground,41.0,28.8,GL6T,Bombardier,GL6T,Barair,Global 6000
+a0cb9e,EJA150  ,N150QS,GLEX,ground,41.1,-73.7,GL6T,Bombardier,EJA,NetJets,Global 6000
+a31d4d,JNY30   ,N30DJ,GLF4,ground,41.1,-73.7,GLF4,Gulfstream Aerospace,JNY,Journey Aviation,GIV SP
+a88d89,LXJ657  ,N650JG,GLF6,ground,41.1,-73.7,,---,,---,---
+a4bbfa,N404F   ,N404F,F900,ground,41.1,-73.7,F9EX,Dassault,F9EX,WCF Aircraft Corp,Falcon 900EX
+a752b3,LXJ571  ,N571FX,CL30,ground,41.1,-73.7,CL35,Bombardier,LXJ,Flexjet,Challenger 350
+a58cb0,LXJ457  ,N457FX,GLF4,ground,41.1,-73.7,G450,Gulfstream Aerospace,LXJ,Flexjet,G450
+a0e956,EJA158  ,N158QS,GLEX,ground,41.1,-73.7,GL6T,Bombardier,EJA,NetJets,Global 6500
+a68371,LXJ519  ,N519FX,CL30,ground,41.1,-73.7,CL30,Bombardier,LXJ,Flexjet,Challenger 300
+ac3c86,EJM30   ,N888KZ,GLF5,ground,41.1,-73.7,G550,Gulfstream Aerospace,EJM,Executive Jet Management,G550
+a5a19c,LXJ462  ,N462FX,GLF4,ground,41.1,-73.7,G450,Gulfstream Aerospace,LXJ,Flexjet,G450
+aa9244,N780TW  ,N780TW,GLF6,ground,41.1,-73.7,G650,Gulfstream Aerospace,G650,IBM Corp,G650 ER
+a13e9d,EJM18   ,N18CZ,GLEX,ground,41.1,-73.7,GL6T,Bombardier,EJM,Executive Jet Management,Global 6000
+aa80ca,00000000,N776RB,GLF5,ground,41.1,-73.7,GLF5,Gulfstream Aerospace,EDG,Jet Edge,GV
+a5861e,N455QS  ,N455QS,GLF4,ground,41.1,-73.7,G450,Gulfstream Aerospace,EJM,Executive Jet Management,G450
+ac7e90,OKC904  ,N904FL,E35L,ground,41.1,-73.7,E35L,Embraer,OKC,Private Jets Inc,Legacy 600
+adf51c,N999LR  ,N999LR,GLF5,ground,41.1,-73.7,G550,Gulfstream Aerospace,G550,White Cloud Charter LLC,G550
+ac9975,N9103J  ,N9103J,GLEX,ground,41.1,-73.7,GLEX,Bombardier,PVA,Planet Nine Private Air,Global Express
+a038c7,EJA113  ,N113QS,GL5T,ground,41.1,-73.7,GL5T,Bombardier,EJA,NetJets,Global 5000
+aa4e1c,EJA763  ,N763QS,CL30,ground,41.1,-73.7,CL35,Bombardier,EJA,NetJets,Challenger 350
+a02da2,EJA110  ,N110QS,GL5T,ground,41.1,-73.7,GL5T,Bombardier,EJA,NetJets,Global 5000
+ad0b62,LXJ94   ,N94FX,GLEX,ground,41.1,-73.7,GLEX,Bombardier,LXJ,Flexjet,Global Express XRS
+a2248e,N237X   ,N237X,FA7X,ground,41.1,-73.7,FA7X,Dassault,JAS,Jet Aviation Flight Services,Falcon 7X
+a4c0a3,N405QS  ,N405QS,GLF4,ground,41.1,-73.7,G450,Gulfstream Aerospace,EJA,NetJets,G450
+a7c813,N600JM  ,N600JM,F900,ground,41.1,-73.7,F9EX,Dassault,F9EX,East Lake Jet Aviation LLC,Falcon 900EX
+a7c2cd,N6CP    ,N6CP,GLF6,ground,41.1,-73.7,G650,Gulfstream Aerospace,G650,Pfizer Inc,G650 ER
+ad540a,N958TB  ,N958TB,GLF4,ground,41.1,-73.7,G300,Gulfstream Aerospace,G300,Ten Point Tours Inc,G300
+a231fe,EJM240  ,N240WL,GL5T,ground,41.1,-73.7,GL5T,Bombardier,EJM,Executive Jet Management,Global 5000
+a2cf0b,N280LX  ,N280LX,F900,ground,41.1,-73.7,,---,,---,---
+a7a1b1,LXJ591  ,N591FX,CL30,ground,41.1,-73.7,CL35,Bombardier,LXJ,Flexjet,Challenger 350
+aae64b,EDG10   ,N801HH,GLF5,ground,41.1,-73.7,GLF5,Gulfstream Aerospace,EDG,Jet Edge,GV
+a2ce18,N280BD  ,N280BD,FA50,ground,41.1,-73.7,F5EX,Dassault,CLY,Clay Lacy Aviation Inc,Falcon 50EX
+a5d93f,N476V   ,N476V,GLF6,ground,41.1,-73.7,G650,Gulfstream Aerospace,G650,Visa USA Inc,G650 ER
+a6dc36,LXJ541  ,N541FX,CL30,ground,41.1,-73.7,CL30,Bombardier,LXJ,Flexjet,Challenger 300
+ab76f8,N838KE  ,N838KE,GLF5,ground,41.1,-73.7,G550,Gulfstream Aerospace,G550,DTC LLC,G550
+a955d1,N700NY  ,N700NY,GLF4,ground,41.1,-73.7,G300,Gulfstream Aerospace,NEW,Northeastern Aviation,G300
+a31ae0,N3CP    ,N3CP,GLF6,ground,41.1,-73.7,G650,Gulfstream Aerospace,G650,Pfizer Inc,G650 ER
+a70326,N551AD  ,N551AD,F900,ground,41.1,-73.7,F9EX,Dassault,F9EX,Wesfal Services LLC,Falcon 900EX
+aa852c,N777XY  ,N777XY,F900,ground,41.1,-73.7,F900,Dassault,F900,Cair Leasing LLC,Falcon 900
+06a133,QQE738  ,A7-CEI,GL5T,ground,41.1,16.8,GL5T,Bombardier,QQE,Qatar Executive,Global 5000
+33ffad,IAM3191 ,MM62245,F900,ground,41.1,16.8,F9EX,Dassault,IAM,Italian Air Force,Falcon 900EX EASy
+ab2fcc,N82PE   ,N82PE,G280,ground,41.2,-112.0,G280,Gulfstream Aerospace,G280,White Jet LLC,G280
+a0e956,EJA158  ,N158QS,GLEX,ground,41.3,-95.9,GL6T,Bombardier,EJA,NetJets,Global 6500
+aa269d,EJA753  ,N753QS,CL30,ground,41.3,-95.9,CL35,Bombardier,EJA,NetJets,Challenger 350
+a6fe60,PEG55   ,N55PJ,GLF4,ground,41.3,-95.9,GLF4,Gulfstream Aerospace,PEG,Pegasus Elite Aviation,GIV
+a02792,EJA109  ,N109QS,GL5T,ground,41.3,-95.9,GL5T,Bombardier,EJA,NetJets,Global 5000
+aa1f2f,EJA751  ,N751QS,CL30,ground,41.3,-95.9,CL35,Bombardier,EJA,NetJets,Challenger 350
+a65054,N506BA  ,N506BA,FA7X,ground,41.3,-95.9,FA7X,Dassault,XFL,Executive Fliteways,Falcon 7X
+a11b24,N170WC  ,N170WC,CL30,ground,41.3,-95.9,CL35,Bombardier,CL35,WCA Holdings IV LLC,Challenger 350
+a2d01f,N280XY  ,N280XY,G280,ground,41.3,-95.9,G280,Gulfstream Aerospace,G280,Swiflite Aircraft Corp,G280
+a959b4,EJA701  ,N701QS,CL30,ground,41.3,-95.9,CL35,Bombardier,EJA,NetJets,Challenger 350
+a00128,N1MU    ,N1MU,CL30,ground,41.3,-95.9,CL35,Bombardier,CL35,Murphy Oil Corp,Challenger 350
+a34627,N31TF   ,N31TF,CL30,ground,41.3,-72.9,CL35,Bombardier,CL35,N31TF LLC,Challenger 350
+ac2e48,N884SG  ,N884SG,GLF5,ground,41.3,2.1,G550,Gulfstream Aerospace,KFB,STAjets,G550
+342294,MGO101  ,EC-JIL,GLEX,ground,41.3,2.1,,---,,---,---
+4ac9a1,JET3    ,SE-RMA,CL30,ground,41.3,2.1,CL30,Bombardier,JET,Industriflyg,Challenger 300
+43e835,MCICO   ,M-CICO,FA50,ground,41.3,2.1,F5EX,Dassault,F5EX,Da Yang Seafood Ltd,Falcon 50EX
+4075d3,GSPTX   ,G-SPTX,FA7X,ground,41.3,2.1,FA7X,Dassault,JCO,Concierge U Ltd,Falcon 7X
+3c135a,AHO779G ,D-AWIN,E35L,ground,41.3,2.1,E35L,Embraer,AHO,Air Hamburg GmbH,Legacy 650 E
+4d2136,ULC66   ,9H-FCA,GLEX,ground,41.3,2.1,GL6T,Bombardier,ULC,Albinati Aviation Ltd,Global 6000
+407cf6,LNX25FM ,G-IFMI,GL5T,ground,41.3,2.1,GL6T,Bombardier,LNX,Luxaviation UK,Global 6500
+43e863,MYSKY   ,M-YSKY,GLEX,ground,41.3,2.1,GLEX,Bombardier,GLEX,Zuz Aviation Ltd,Global Express XRS
+3c68b4,AHO666F ,D-AJET,E35L,ground,41.3,2.1,E35L,Embraer,AHO,Air Hamburg GmbH,Legacy 650 E
+a74efc,LXJ570  ,N570FX,CL30,ground,41.4,-81.9,CL35,Bombardier,LXJ,Flexjet,Challenger 350
+a5766a,KPO451  ,N451GA,GLF4,ground,41.4,-81.9,GLF4,Gulfstream Aerospace,KPO,Wing Aviation Group,GIV SP
+aa558a,EJA765  ,N765QS,CL30,ground,41.4,-81.9,CL35,Bombardier,EJA,NetJets,Challenger 350
+a2e560,ERY286  ,N286MH,CL30,ground,41.4,-81.9,CL30,Bombardier,ERY,Sky Quest,Challenger 300
+a5766a,KPO451  ,N451GA,GLF4,ground,41.4,-81.8,GLF4,Gulfstream Aerospace,KPO,Wing Aviation Group,GIV SP
+a2e560,ERY286  ,N286MH,CL30,ground,41.4,-81.8,CL30,Bombardier,ERY,Sky Quest,Challenger 300
+ac94e5,LXJ91   ,N91FX,GLEX,ground,41.4,-81.8,GLEX,Bombardier,LXJ,Flexjet,Global Express
+a67857,GJE2226 ,N516GH,GLF5,ground,41.5,-87.0,GLF5,Gulfstream Aerospace,GJE,Global Air Charters,GV
+aa50b1,EJM764  ,N764DB,GLEX,ground,41.5,-73.1,GLEX,Bombardier,EJM,Executive Jet Management,Global Express
+a6e570,N5430G  ,N5430G,GLF5,ground,41.5,-73.1,G550,Gulfstream Aerospace,G550,GMDAir Corp,G550
+a047e3,N117TF  ,N117TF,GLEX,ground,41.6,-73.9,GLEX,Bombardier,GLEX,Tudor Investment Corp,Global Express XRS
+502d6d,UAG27G  ,YL-VCR,GLEX,ground,41.7,44.9,GLEX,Bombardier,UAG,Union Aviation,Global Express
+502d6d,UAG27G  ,YL-VCR,GLEX,ground,41.7,45.0,GLEX,Bombardier,UAG,Union Aviation,Global Express
+a3cc2b,N344AA  ,N344AA,GLF4,ground,41.8,-124.2,GLF4,Gulfstream Aerospace,GLF4,Absolutamente LLC,GIV
+a6b4b7,LXJ531  ,N531FX,CL30,ground,41.8,-87.8,CL30,Bombardier,LXJ,Flexjet,Challenger 300
+aac850,EJA794  ,N794QS,CL30,ground,41.8,-87.8,CL35,Bombardier,EJA,NetJets,Challenger 350
+a9961f,XSR717  ,N717AS,CL30,ground,41.8,-87.8,CL35,Bombardier,XSR,Executive AirShare,Challenger 350
+a96890,EJA705  ,N705QS,CL30,ground,41.8,-87.8,CL35,Bombardier,EJA,NetJets,Challenger 350
+a3a578,N334JE  ,N334JE,CL30,ground,41.8,-87.8,CL30,Bombardier,EDG,Jet Edge,Challenger 300
+a500fe,N421SZ  ,N421SZ,GLEX,ground,41.8,-87.8,GL7T,Bombardier,GL7T,Gex Leasing Corp,Global 7500
+a60bf3,PEG89   ,N489VR,GLF4,ground,41.8,-87.8,GLF4,Gulfstream Aerospace,PEG,Pegasus Elite Aviation,GIV SP
+ad8ca6,00000000,N972SC,CL30,ground,41.8,-87.8,CL35,Bombardier,EJM,Executive Jet Management,Challenger 350
+a22753,TWY4    ,N238MH,GLF4,ground,41.8,-87.8,G450,Gulfstream Aerospace,TWY,Solairus Aviation,G450
+abb9eb,N855A   ,N855A,G280,ground,41.8,-87.8,G280,Gulfstream Aerospace,G280,StoneX Group Inc,G280
+ab888d,PEG42   ,N842PA,GLF4,ground,41.8,-87.8,GLF4,Gulfstream Aerospace,PEG,Pegasus Elite Aviation,GIV
+abccd8,EJM86   ,N86DQ,CL30,ground,41.8,-87.8,CL30,Bombardier,EJM,Executive Jet Management,Challenger 300
+a3203b,LXJ350  ,N300KH,CL30,ground,41.8,-87.8,CL30,Bombardier,LXJ,Flexjet,Challenger 300
+a2ce18,N280BD  ,N280BD,FA50,ground,41.8,-87.8,F5EX,Dassault,CLY,Clay Lacy Aviation Inc,Falcon 50EX
+a768fd,LXJ577  ,N577FX,CL30,ground,41.8,-87.8,CL35,Bombardier,LXJ,Flexjet,Challenger 350
+a181ce,N1967M  ,N1967M,GLF5,ground,41.8,-87.8,G550,Gulfstream Aerospace,G550,McDonalds Corp,G550
+a17dd1,N1955M  ,N1955M,GLEX,ground,41.8,-87.8,,---,,---,---
+a0de31,EJA155  ,N155QS,GLEX,ground,41.8,-87.8,GL6T,Bombardier,EJA,NetJets,Global 6000
+a7df20,N606SG  ,N606SG,F900,ground,41.8,-87.8,F9EX,Dassault,RKK,Stephens Group Inc,Falcon 900EX EASy
+a9961f,XSR717  ,N717AS,CL30,ground,41.8,-87.7,CL35,Bombardier,XSR,Executive AirShare,Challenger 350
+a96890,EJA705  ,N705QS,CL30,ground,41.8,-87.7,CL35,Bombardier,EJA,NetJets,Challenger 350
+a3a578,N334JE  ,N334JE,CL30,ground,41.8,-87.7,CL30,Bombardier,EDG,Jet Edge,Challenger 300
+a95335,N70LF   ,N70LF,F900,ground,41.8,-87.7,F9EX,Dassault,F9EX,GCI Aviation Inc,Falcon 900EX
+ad8ca6,00000000,N972SC,CL30,ground,41.8,-87.7,CL35,Bombardier,EJM,Executive Jet Management,Challenger 350
+abccd8,EJM86   ,N86DQ,CL30,ground,41.8,-87.7,CL30,Bombardier,EJM,Executive Jet Management,Challenger 300
+a48e1b,N393BV  ,N393BV,GLEX,ground,41.8,-87.7,,---,,---,---
+a2ce18,N280BD  ,N280BD,FA50,ground,41.8,-87.7,F5EX,Dassault,CLY,Clay Lacy Aviation Inc,Falcon 50EX
+a17dd1,N1955M  ,N1955M,GLEX,ground,41.8,-87.7,,---,,---,---
+a7df20,N606SG  ,N606SG,F900,ground,41.8,-87.7,F9EX,Dassault,RKK,Stephens Group Inc,Falcon 900EX EASy
+491d99,NJE985M ,CS-GLY,GL5T,ground,41.8,12.6,GL5T,Bombardier,NJE,NetJets Europe,Global 5000
+a86407,N64MT   ,N64MT,GLEX,ground,41.8,12.6,GLEX,Bombardier,GLEX,Windtop Inc,Global Express XRS
+a7f063,N610SW  ,N610SW,GLEX,ground,41.8,12.6,GL6T,Bombardier,GL6T,Corporate,Global 6000
+33ffad,IAM3191 ,MM62245,F900,ground,41.8,12.6,F9EX,Dassault,IAM,Italian Air Force,Falcon 900EX EASy
+477ff7,HUAF581 ,607,FA7X,ground,41.8,12.6,FA7X,Dassault,HUF,Hungarian Air Force,Falcon 7X
+a0007f,N1F     ,N1F,GLF6,ground,41.8,12.6,G650,Gulfstream Aerospace,HRS,Friedkin International,G650
+3005e2,LSA901  ,I-SLNI,F900,ground,41.8,12.6,,---,,---,---
+3006f2,IGBMP   ,I-GBMP,GLF5,ground,41.8,12.6,G550,Gulfstream Aerospace,AFQ,Alba Servizi Aerotrasporti SpA,G550
+a0cf55,EJA151  ,N151QS,GLEX,ground,41.9,-91.7,GL6T,Bombardier,EJA,NetJets,Global 6000
+a7f349,PWA611  ,N611JM,GLF4,ground,41.9,-88.3,GLF4,Gulfstream Aerospace,PWA,Priester Aviation,GIV
+aa998a,N782SF  ,N782SF,GLEX,ground,41.9,-72.7,GL7T,Bombardier,JAS,Jet Aviation Flight Services,Global 7500
+a4a826,N4CE    ,N4CE,FA7X,ground,41.9,-72.7,FA7X,Dassault,FA7X,Bucephalus Air Inc,Falcon 7X
+a3176d,N299FG  ,N299FG,F900,ground,41.9,-72.7,F9EX,Dassault,F9EX,Bechtel Corp,Falcon 900EX EASy
+a56657,N447TR  ,N447TR,GLF5,ground,41.9,-72.7,G550,Gulfstream Aerospace,G550,The Travelers Indemnity Company,G550
+a63b01,N500LY  ,N500LY,FA50,ground,41.9,-72.7,F5EX,Dassault,F5EX,Lyon Aviation,Falcon 50EX
+a8098f,N617JH  ,N617JH,GLEX,ground,41.9,-72.7,GL6T,Bombardier,TFF,Talon Air,Global 6000
+a31f83,N300BZ  ,N300BZ,CL30,ground,41.9,-72.7,CL30,Bombardier,CL30,Logistics Services LLC,Challenger 300
+e48de7,PPGUL   ,PP-GUL,GLEX,ground,41.9,-72.7,GL6T,Bombardier,GL6T,Dedalus Administracao e Participacoes Ltda,Global 6000
+a64a55,JAS681  ,N504RT,GLEX,ground,41.9,-72.7,,---,,---,---
+a674e4,N515KA  ,N515KA,GLF6,ground,41.9,2.8,G650,Gulfstream Aerospace,G650,Yusuf Ahmed Alghanim & Sons WLL,G650
+a01cab,N106TD  ,N106TD,GLF4,ground,42.0,-87.9,GLF4,Gulfstream Aerospace,GLF4,Bopper Airways LLC,GIV SP
+a00035,N1CA    ,N1CA,CL30,ground,42.0,-87.9,CL30,Bombardier,PWA,Priester Aviation,Challenger 300
+a0d30c,N152QS  ,N152QS,GLEX,ground,42.0,-87.9,GL6T,Bombardier,EJA,NetJets,Global 6000
+a0d30c,EJA152  ,N152QS,GLEX,ground,42.0,-87.9,GL6T,Bombardier,EJA,NetJets,Global 6000
+ad491c,N955VG  ,N955VG,FA50,ground,42.0,-87.9,F5EX,Dassault,F5EX,J4V LLC,Falcon 50EX
+4b9d82,TCGLB   ,TC-GLB,GLEX,ground,42.0,21.6,GL6T,Bombardier,GL6T,Barair,Global 6000
+a6b4b7,LXJ531  ,N531FX,CL30,ground,42.1,-87.9,CL30,Bombardier,LXJ,Flexjet,Challenger 300
+a6a382,LXJ527  ,N527FX,CL30,ground,42.1,-87.9,CL30,Bombardier,LXJ,Flexjet,Challenger 300
+ac5bb9,DOW896  ,N896BB,CL30,ground,42.1,-87.9,CL30,Bombardier,DOW,Best Jets International,Challenger 300
+a06f49,N127SF  ,N127SF,G280,ground,42.1,-87.9,G280,Gulfstream Aerospace,G280,Constellation Brands Inc,G280
+a941b2,N696HC  ,N696HC,G280,ground,42.1,-87.9,G280,Gulfstream Aerospace,G280,Henry Crown & Company,G280
+a6b59e,N531RC  ,N531RC,G280,ground,42.1,-87.9,G280,Gulfstream Aerospace,G280,Henry Crown & Company,G280
+a6aaf0,LXJ529  ,N529FX,CL30,ground,42.1,-87.9,CL30,Bombardier,LXJ,Flexjet,Challenger 300
+a6617c,TWY510  ,N510AN,FA7X,ground,42.1,-87.9,FA7X,Dassault,TWY,Solairus Aviation,Falcon 7X
+ac8a7a,N907PH  ,N907PH,GLEX,ground,42.1,-87.9,GLEX,Bombardier,GLEX,Shore Capital Aviation LLC,Global Express XRS
+a944ec,N697CC  ,N697CC,G280,ground,42.1,-87.9,G280,Gulfstream Aerospace,G280,Henry Crown & Company,G280
+a65054,N506BA  ,N506BA,FA7X,ground,42.1,-87.9,FA7X,Dassault,XFL,Executive Fliteways,Falcon 7X
+a959b4,EJA701  ,N701QS,CL30,ground,42.1,-87.9,CL35,Bombardier,EJA,NetJets,Challenger 350
+a79da4,NUS590  ,N590CL,F900,ground,42.1,-87.9,F9EX,Dassault,NUS,N-Jet,Falcon 900EX EASy
+a83dbe,N630AB  ,N630AB,CL30,ground,42.1,-87.9,CL35,Bombardier,CL35,Berlin Aviation LLC,Challenger 350
+a763a2,N5752H  ,N5752H,FA50,ground,42.1,-87.9,,---,,---,---
+a35219,N313BK  ,N313BK,GL5T,ground,42.1,-87.9,GLEX,Bombardier,GLEX,Wingtip Aviation,Global Express
+a7767b,LXJ580  ,N580FX,CL30,ground,42.1,-87.9,CL35,Bombardier,LXJ,Flexjet,Challenger 350
+ab2856,N818NX  ,N818NX,CL30,ground,42.1,-87.9,CL35,Bombardier,CL35,Silver Monkey LLC,Challenger 350
+aca2be,N913KN  ,N913KN,G280,ground,42.4,-96.4,G280,Gulfstream Aerospace,G280,Black Knight Infoserv LLC,G280
+a16d0e,N191N   ,N191N,FA50,ground,42.4,-73.3,F5EX,Dassault,F5EX,Lyon Aviation,Falcon 50EX
+a63b01,N500LY  ,N500LY,FA50,ground,42.4,-73.3,F5EX,Dassault,F5EX,Lyon Aviation,Falcon 50EX
+a7c850,N600LY  ,N600LY,FA50,ground,42.4,-73.3,F5EX,Dassault,F5EX,Lyon Aviation,Falcon 50EX
+ac05db,HRT052  ,N874GU,GL5T,ground,42.4,-71.0,GL5T,Bombardier,HRT,Chartright Air,Global 5500
+a170c8,N192NC  ,N192NC,GLF4,ground,42.4,-71.0,G450,Gulfstream Aerospace,TWY,Solairus Aviation,G450
+acbc0c,N92CJ   ,N92CJ,FA50,ground,42.4,-71.0,FA50,Dassault,FA50,Club Jet,Falcon 50
+a3278d,N302JE  ,N302JE,CL30,ground,42.4,-71.0,CL30,Bombardier,EDG,Jet Edge,Challenger 300
+a2cba6,TWY84   ,N28AD,GLF4,ground,42.4,-71.0,G450,Gulfstream Aerospace,TWY,Solairus Aviation,G450
+a3db5a,SDU1348 ,N348DJ,GLF4,ground,42.4,-71.0,GLF4,Gulfstream Aerospace,SDU,Dumont Aviation,GIV SP
+a0fa8b,EJA162  ,N162QS,GLEX,ground,42.4,-71.0,GL6T,Bombardier,EJA,NetJets,Global 6000
+e491b5,PRCRC   ,PR-CRC,G280,ground,42.4,-71.0,G280,Gulfstream Aerospace,G280,Natureza Prod Art E Public SS Ltda,G280
+a05544,JTL120  ,N120SB,GLF4,ground,42.4,-71.0,GLF4,Gulfstream Aerospace,JTL,Jet Linx Aviation,GIV SP
+a67d7c,LXJ556  ,N517WZ,CL30,ground,42.4,-71.0,,---,,---,---
+ac3dd2,TWY888  ,N888ZF,GLF6,ground,42.4,-71.0,G650,Gulfstream Aerospace,TWY,Solairus Aviation,G650 ER
+a7a1b1,LXJ591  ,N591FX,CL30,ground,42.4,-71.0,CL35,Bombardier,LXJ,Flexjet,Challenger 350
+ab76f8,N838KE  ,N838KE,GLF5,ground,42.4,-71.0,G550,Gulfstream Aerospace,G550,DTC LLC,G550
+ac828e,N905JG  ,N905JG,GLEX,ground,42.4,-71.0,GL6T,Bombardier,GL6T,Lion Sky Aviation LLC,Global 6000
+a9fb67,EJA742  ,N742QS,CL30,ground,42.4,-71.0,CL35,Bombardier,EJA,NetJets,Challenger 350
+ac05db,HRT052  ,N874GU,GL5T,ground,42.5,-71.3,GL5T,Bombardier,HRT,Chartright Air,Global 5500
+a0cb9e,EJA150  ,N150QS,GLEX,ground,42.5,-71.3,GL6T,Bombardier,EJA,NetJets,Global 6000
+add3d1,N990NB  ,N990NB,GLF5,ground,42.5,-71.3,G550,Gulfstream Aerospace,G550,Tisma Air Charter,G550
+a3d0ce,N345KM  ,N345KM,F900,ground,42.5,-71.3,F900,Dassault,F900,True Aviation,Falcon 900
+a2ce17,N280BC  ,N280BC,GLF4,ground,42.5,-71.3,G450,Gulfstream Aerospace,G450,Liberty Mutual Insurance Company,G450
+a75dd8,LXJ574  ,N574FX,CL30,ground,42.5,-71.3,CL35,Bombardier,LXJ,Flexjet,Challenger 350
+a5a19c,LXJ462  ,N462FX,GLF4,ground,42.5,-71.3,G450,Gulfstream Aerospace,LXJ,Flexjet,G450
+a73dc7,N566FX  ,N566FX,CL30,ground,42.5,-71.3,CL35,Bombardier,LXJ,Flexjet,Challenger 350
+a0dca3,N1549E  ,N1549E,F900,ground,42.5,-71.3,F9EX,Dassault,F9EX,Hudson Takeoff LLC,Falcon 900EX EASy
+a2cfb0,N280TM  ,N280TM,G280,ground,42.5,-71.3,G280,Gulfstream Aerospace,G280,EMC Corp,G280
+a37d30,N324AD  ,N324AD,F900,ground,42.5,-71.3,F900,Dassault,F900,Alpha Delta Aviation LLC,Falcon 900
+ac40e6,N889ST  ,N889ST,GL5T,ground,42.5,-71.3,GL5T,Bombardier,GL5T,Forindo P/L,Global 5000
+a3133d,        ,N298AL,GLF6,ground,42.5,-71.3,G650,Gulfstream Aerospace,CLY,Clay Lacy Aviation Inc,G650 ER
+aabd2b,EJA791  ,N791QS,CL30,ground,42.5,-71.3,CL35,Bombardier,EJA,NetJets,Challenger 350
+a9ea32,EJA738  ,N738QS,CL30,ground,42.5,-71.3,CL35,Bombardier,EJA,NetJets,Challenger 350
+a62665,JCY211  ,N496AC,FA7X,ground,42.5,-71.3,FA7X,Dassault,JCY,Aerius Management,Falcon 7X
+4b1857,HBJFR   ,HB-JFR,FA7X,ground,42.5,-71.3,FA7X,Dassault,FA7X,Japat AG,Falcon 7X
+a043ec,EJA116  ,N116QS,GL5T,ground,42.5,-71.3,GL5T,Bombardier,EJA,NetJets,Global 5000
+a9bb45,EJA726  ,N726QS,CL30,ground,42.5,-71.3,CL35,Bombardier,EJA,NetJets,Challenger 350
+a032bb,        ,N1113R,GLF6,ground,42.5,-71.3,G650,Gulfstream Aerospace,TWY,Solairus Aviation,G650 ER
+aa558a,EJA765  ,N765QS,CL30,ground,42.5,-71.3,CL35,Bombardier,EJA,NetJets,Challenger 350
+acb60e,JAS918  ,N918TB,GL5T,ground,42.5,-71.3,GL5T,Bombardier,JAS,Jet Aviation Flight Services,Global 5000
+a6dc36,LXJ541  ,N541FX,CL30,ground,42.5,-71.3,CL30,Bombardier,LXJ,Flexjet,Challenger 300
+a64a55,JAS681  ,N504RT,GLEX,ground,42.5,-71.3,,---,,---,---
+a7c850,N600LY  ,N600LY,FA50,ground,42.5,-71.3,F5EX,Dassault,F5EX,Lyon Aviation,Falcon 50EX
+491d88,NJE277R ,CS-GLH,GLEX,ground,42.5,-71.3,GL6T,Bombardier,NJE,NetJets Europe,Global 6000
+a7c77b,N600CK  ,N600CK,GLF4,ground,42.5,-71.3,GLF4,Gulfstream Aerospace,GLF4,NB Airlines LLC,GIV
+ac7a62,N903AS  ,N903AS,GLF5,ground,42.5,-71.3,G550,Gulfstream Aerospace,G550,Aspamia LLC,G550
+ab318c,N820HB  ,N820HB,GLF5,ground,42.5,-71.3,GLF5,Gulfstream Aerospace,XFL,Executive Fliteways,GV
+a82d60,N626JS  ,N626JS,GLEX,ground,42.5,-71.3,GL6T,Bombardier,GL6T,JWC Winter LLC,Global 6000
+a3201b,N300JA  ,N300JA,GLEX,ground,42.5,-71.3,GLEX,Bombardier,GLEX,Shatkin Air LLC,Global Express
+aa2e0b,EJA755  ,N755QS,CL30,ground,42.5,-71.3,CL35,Bombardier,EJA,NetJets,Challenger 350
+a57090,N45JE   ,N45JE,GLF5,ground,42.5,-71.3,G550,Gulfstream Aerospace,G550,Liberty Mutual Insurance Company,G550
+add1dd,EJM99   ,N99SC,GLF5,ground,42.5,-71.3,G550,Gulfstream Aerospace,EJM,Executive Jet Management,G550
+a34b08,N311FC  ,N311FC,CL30,ground,42.5,-71.3,CL30,Bombardier,CL30,TFC Holdings LLC,Challenger 300
+407cf6,LNX25FM ,G-IFMI,GL5T,ground,42.6,18.3,GL6T,Bombardier,LNX,Luxaviation UK,Global 6500
+a5745b,N450Z   ,N450Z,GLF4,ground,42.7,-83.4,G450,Gulfstream Aerospace,G450,ZFO Management LLC,G450
+a63b75,N500RP  ,N500RP,G280,ground,42.7,-83.4,G280,Gulfstream Aerospace,G280,Penske Jet Inc,G280
+a959b4,EJA701  ,N701QS,CL30,ground,42.7,-83.4,CL35,Bombardier,EJA,NetJets,Challenger 350
+a18da2,N2DF    ,N2DF,GLF4,ground,42.7,-83.4,G450,Gulfstream Aerospace,G450,Suburban Properties 3 LLC,G450
+aa9d1a,EJA783  ,N783QS,CL30,ground,42.7,-83.4,CL35,Bombardier,EJA,NetJets,Challenger 350
+ac6e51,N90RG   ,N90RG,GLF4,ground,42.7,-83.4,GLF4,Gulfstream Aerospace,GLF4,Jet Access Aviation,GIV SP
+ac1cf6,N88RC   ,N88RC,CL30,ground,42.7,-83.4,CL30,Bombardier,CL30,K & K NC Holdings LLC,Challenger 300
+a74575,N568JL  ,N568JL,GLF5,ground,42.7,-83.4,G550,Gulfstream Aerospace,G550,Jack Entertainment LLC,G550
+a7da10,N605CM  ,N605CM,GLF4,ground,42.7,-83.4,GLF4,Gulfstream Aerospace,GLF4,M Automotive Group LLC,GIV
+aa91f5,EJA780  ,N780QS,CL30,ground,42.7,-73.8,CL35,Bombardier,EJA,NetJets,Challenger 350
+a3d7e4,N347FZ  ,N347FZ,CL30,ground,42.7,-73.8,CL35,Bombardier,CLY,Clay Lacy Aviation Inc,Challenger 350
+49d4c9,TIE483M ,OK-RPM,CL30,ground,42.7,23.4,CL30,Bombardier,TIE,Time Air,Challenger 300
+49d4c9,TIE430M ,OK-RPM,CL30,ground,42.7,23.4,CL30,Bombardier,TIE,Time Air,Challenger 300
+ac828e,N905JG  ,N905JG,GLEX,ground,42.9,-87.9,GL6T,Bombardier,GL6T,Lion Sky Aviation LLC,Global 6000
+a69416,N523AC  ,N523AC,GLF5,ground,42.9,-85.5,G550,Gulfstream Aerospace,G550,Alticor Inc,G550
+a7fb07,N613MS  ,N613MS,GLF4,ground,42.9,-85.5,GLF4,Gulfstream Aerospace,GLF4,Miller Time Aviation LLC,GIV
+a0cb9e,EJA150  ,N150QS,GLEX,ground,42.9,-78.7,GL6T,Bombardier,EJA,NetJets,Global 6000
+a7a1b1,LXJ591  ,N591FX,CL30,ground,42.9,-78.7,CL35,Bombardier,LXJ,Flexjet,Challenger 350
+a3201b,N300JA  ,N300JA,GLEX,ground,42.9,-78.7,GLEX,Bombardier,GLEX,Shatkin Air LLC,Global Express
+a0954d,N137BB  ,N137BB,GLEX,ground,42.9,-78.7,GLEX,Bombardier,GLEX,Management Services Inc,Global Express XRS
+ac7a62,N903AS  ,N903AS,GLF5,ground,42.9,-71.4,G550,Gulfstream Aerospace,G550,Aspamia LLC,G550
+a31fc6,N300ER  ,N300ER,CL30,ground,43.0,-88.2,CL30,Bombardier,XSR,Executive AirShare,Challenger 300
+ac828e,N905JG  ,N905JG,GLEX,ground,43.0,-87.9,GL6T,Bombardier,GL6T,Lion Sky Aviation LLC,Global 6000
+aa9d1a,EJA783  ,N783QS,CL30,ground,43.0,-87.9,CL35,Bombardier,EJA,NetJets,Challenger 350
+a956b6,N700YB  ,N700YB,GLEX,ground,43.0,-87.9,GLEX,Bombardier,GLEX,YB Global LLC,Global Express XRS
+a255cf,EDG25   ,N25GV,GLF5,ground,43.0,-81.2,GLF5,Gulfstream Aerospace,EDG,Jet Edge,GV
+a255cf,EDG25   ,N25GV,GLF5,ground,43.0,-81.1,GLF5,Gulfstream Aerospace,EDG,Jet Edge,GV
+a95335,N70LF   ,N70LF,F900,ground,43.1,-89.3,F9EX,Dassault,F9EX,GCI Aviation Inc,Falcon 900EX
+ad81a1,EJM200  ,N97DK,CL30,ground,43.1,-89.3,CL30,Bombardier,EJM,Executive Jet Management,Challenger 300
+a78cc5,LXJ586  ,N586FX,CL30,ground,43.1,-89.3,CL35,Bombardier,LXJ,Flexjet,Challenger 350
+a7dbcd,N605WG  ,N605WG,E35L,ground,43.1,-89.3,E35L,Embraer,NEW,Northeastern Aviation,Legacy 600
+a67d7c,LXJ556  ,N517WZ,CL30,ground,43.1,-89.3,,---,,---,---
+a66210,N510GL  ,N510GL,F900,ground,43.1,-89.3,F9EX,Dassault,F9EX,Twenty Cent Capital Aviation LLC,Falcon 900EX EASy
+a9ff1e,EJA743  ,N743QS,CL30,ground,43.1,-77.7,CL35,Bombardier,EJA,NetJets,Challenger 350
+a9fb67,EJA742  ,N742QS,CL30,ground,43.1,-77.7,CL35,Bombardier,EJA,NetJets,Challenger 350
+a99680,N717EP  ,N717EP,CL30,ground,43.1,-77.7,CL35,Bombardier,CL35,Jetex Charter,Challenger 350
+ac860e,N906GB  ,N906GB,CL30,ground,43.1,-77.7,CL30,Bombardier,CL30,JGB 2021 LLC,Challenger 300
+a018e9,EDG105  ,N105ST,GLF5,ground,43.1,-77.7,G550,Gulfstream Aerospace,EDG,Jet Edge,G550
+a7dbcd,N605WG  ,N605WG,E35L,ground,43.2,-89.3,E35L,Embraer,NEW,Northeastern Aviation,Legacy 600
+ac7029,NSH900  ,N900LC,F900,ground,43.3,-73.6,F900,Dassault,NSH,Sterling Aviation,Falcon 900 C
+484d02,XRO172  ,PH-AJX,FA7X,ground,43.5,7.0,FA7X,Dassault,XRO,Exxaero,Falcon 7X
+4915a5,LMJ218E ,CS-EME,F900,ground,43.5,7.0,,---,,---,---
+740d29,JYCII   ,JY-CII,E35L,ground,43.5,7.0,E35L,Embraer,AWS,Arab Wings Ltd,Legacy 650
+3c5853,AHO766J ,D-AFBS,E35L,ground,43.5,7.0,E35L,Embraer,AHO,Air Hamburg GmbH,Legacy 650
+ab2fcc,N82PE   ,N82PE,G280,ground,43.6,-116.2,G280,Gulfstream Aerospace,G280,White Jet LLC,G280
+a75dd8,LXJ574  ,N574FX,CL30,ground,43.6,-116.2,CL35,Bombardier,LXJ,Flexjet,Challenger 350
+aa26b3,N753RP  ,N753RP,CL30,ground,43.6,-116.2,CL30,Bombardier,CL30,Cirrus Aviation,Challenger 300
+a34522,N31GV   ,N31GV,GLF4,ground,43.6,-116.2,GLF4,Gulfstream Aerospace,GLF4,Craft Charter,GIV
+a21489,N233KC  ,N233KC,F900,ground,43.6,-116.2,F900,Dassault,SCN,TWC Aviation Inc,Falcon 900
+a9a1b9,N72FJ   ,N72FJ,F900,ground,43.6,-116.2,F900,Dassault,F900,Obsidian Aircraft LLC,Falcon 900 B
+a3d0ce,N345KM  ,N345KM,F900,ground,43.6,-72.3,F900,Dassault,F900,True Aviation,Falcon 900
+aab109,JCY900  ,N7883K,F900,ground,43.6,-72.3,F9EX,Dassault,JCY,Aerius Management,Falcon 900EX EASy
+4d2065,VJT719  ,9H-VJA,GLEX,ground,43.6,-72.3,GL6T,Bombardier,VJT,VistaJet,Global 6000
+aa6a0d,N770LM  ,N770LM,FA7X,ground,43.6,-72.3,FA7X,Dassault,FA7X,Liberty Media Corp,Falcon 7X
+aacfbe,EJA796  ,N796QS,CL30,ground,43.6,-72.3,CL35,Bombardier,EJA,NetJets,Challenger 350
+a5a91d,DCM3431 ,N464GR,GLF6,ground,43.6,-72.3,G650,Gulfstream Aerospace,G650,Big Bridge Holdings Inc,G650
+459da6,VMP999  ,OY-GMF,GLEX,ground,43.6,1.4,GLEX,Bombardier,VMP,ExecuJet Europe A/S,Global Express
+43e835,MCICO   ,M-CICO,FA50,ground,43.6,1.4,F5EX,Dassault,F5EX,Da Yang Seafood Ltd,Falcon 50EX
+484d02,XRO172  ,PH-AJX,FA7X,ground,43.6,7.0,FA7X,Dassault,XRO,Exxaero,Falcon 7X
+3c5853,AHO766J ,D-AFBS,E35L,ground,43.6,7.0,E35L,Embraer,AHO,Air Hamburg GmbH,Legacy 650
+424bc5,MDUBS   ,M-DUBS,FA7X,ground,43.6,7.0,FA7X,Dassault,FA7X,6D Aviation Operating Ltd,Falcon 7X
+a2cf48,GJE622  ,N280PH,GLF5,ground,43.7,-79.7,GLF5,Gulfstream Aerospace,GJE,Global Air Charters,GV
+a73659,LXJ564  ,N564FX,CL30,ground,43.7,-79.7,CL35,Bombardier,LXJ,Flexjet,Challenger 350
+c0624c,CGLFV   ,C-GLFV,GLF5,ground,43.7,-79.7,GLF5,Gulfstream Aerospace,SYB,Skyservice Business Aviation,GV
+c01022,HRT042  ,C-FGCV,CL30,ground,43.7,-79.7,CL30,Bombardier,HRT,Chartright Air,Challenger 300
+a29ea2,PEG68   ,N268VT,GLF4,ground,43.7,-79.7,GLF4,Gulfstream Aerospace,PEG,Pegasus Elite Aviation,GIV SP
+a768fd,LXJ577  ,N577FX,CL30,ground,43.7,-79.7,CL35,Bombardier,LXJ,Flexjet,Challenger 350
+c05220,ROU1700 ,C-GFCP,GLF4,ground,43.7,-79.7,A320,Airbus,ROU,Air Canada Rouge,A320 214
+c05220,ROU1794 ,C-GFCP,GLF4,ground,43.7,-79.7,A320,Airbus,ROU,Air Canada Rouge,A320 214
+c068c9,HRT924  ,C-GNRS,GLEX,ground,43.7,-79.7,GLEX,Bombardier,SYB,Skyservice Business Aviation,Global Express XRS
+c05212,CGFCB   ,C-GFCB,CL30,ground,43.7,-79.7,CL30,Bombardier,EXA,Execaire Inc,Challenger 300
+c0107a,HRT381  ,C-FGGF,CL30,ground,43.7,-79.7,CL30,Bombardier,HRT,Chartright Air,Challenger 300
+ac05db,HRT052  ,N874GU,GL5T,ground,43.7,-79.6,GL5T,Bombardier,HRT,Chartright Air,Global 5500
+c0424e,CFZCV   ,C-FZCV,G280,ground,43.7,-79.6,G280,Gulfstream Aerospace,SYB,Skyservice Business Aviation,G280
+c03c34,HRT246  ,C-FWUT,CL30,ground,43.7,-79.6,CL30,Bombardier,HRT,Chartright Air,Challenger 300
+a2cf48,GJE622  ,N280PH,GLF5,ground,43.7,-79.6,GLF5,Gulfstream Aerospace,GJE,Global Air Charters,GV
+a73659,LXJ564  ,N564FX,CL30,ground,43.7,-79.6,CL35,Bombardier,LXJ,Flexjet,Challenger 350
+a0765e,GJE1209 ,N129NS,GLF4,ground,43.7,-79.6,GLF4,Gulfstream Aerospace,GLF4,Alliance Aviation Group LLC,GIV SP
+c0624c,CGLFV   ,C-GLFV,GLF5,ground,43.7,-79.6,GLF5,Gulfstream Aerospace,SYB,Skyservice Business Aviation,GV
+c01022,HRT042  ,C-FGCV,CL30,ground,43.7,-79.6,CL30,Bombardier,HRT,Chartright Air,Challenger 300
+a0cb44,N150MB  ,N150MB,CL30,ground,43.7,-79.6,CL30,Bombardier,CL30,Craft Charter,Challenger 300
+a29ea2,PEG68   ,N268VT,GLF4,ground,43.7,-79.6,GLF4,Gulfstream Aerospace,PEG,Pegasus Elite Aviation,GIV SP
+a9b63c,LRT0725 ,N725BD,E35L,ground,43.7,-79.6,E35L,Embraer,LRT,Liberty Jet Management,Legacy 600
+c04e94,SYB007  ,C-GDTR,GLEX,ground,43.7,-79.6,GL6T,Bombardier,SYB,Skyservice Business Aviation,Global 6000
+a768fd,LXJ577  ,N577FX,CL30,ground,43.7,-79.6,CL35,Bombardier,LXJ,Flexjet,Challenger 350
+c05220,ACA1700 ,C-GFCP,GLF4,ground,43.7,-79.6,A320,Airbus,ROU,Air Canada Rouge,A320 214
+c05220,ROU1700 ,C-GFCP,GLF4,ground,43.7,-79.6,A320,Airbus,ROU,Air Canada Rouge,A320 214
+c05220,ROU1703 ,C-GFCP,GLF4,ground,43.7,-79.6,A320,Airbus,ROU,Air Canada Rouge,A320 214
+c05220,ROU1794 ,C-GFCP,GLF4,ground,43.7,-79.6,A320,Airbus,ROU,Air Canada Rouge,A320 214
+c05212,CGFCB   ,C-GFCB,CL30,ground,43.7,-79.6,CL30,Bombardier,EXA,Execaire Inc,Challenger 300
+c047eb,CGBGC   ,C-GBGC,GLF5,ground,43.7,-79.6,GLF5,Gulfstream Aerospace,GLF5,Barrick Gold Corp,GV
+a6f280,LXJ547  ,N547FX,CL30,ground,43.7,-79.6,CL30,Bombardier,LXJ,Flexjet,Challenger 300
+c031f0,CFSXR   ,C-FSXR,CL30,ground,43.7,-79.6,CL30,Bombardier,CL30,Sobeys Capital Inc,Challenger 300
+a1c9ea,EJM214  ,N214RW,CL30,ground,43.9,-91.3,CL35,Bombardier,EJM,Executive Jet Management,Challenger 350
+42465f,MMM9632 ,VP-BOR,GLF4,ground,44.2,43.1,,---,,---,---
+a0ebee,N159DE  ,N159DE,GLF5,ground,44.3,-88.5,,---,,---,---
+a91dd2,        ,N687GD,GLF6,ground,44.3,-88.5,,---,,---,---
+a91dd2,GLF9    ,N687GD,GLF6,ground,44.3,-88.5,,---,,---,---
+a7ac76,N594CA  ,N594CA,CL30,ground,44.5,-88.1,CL30,Bombardier,CL30,Delta Aviation LLC,Challenger 300
+a3d097,N345HG  ,N345HG,CL30,ground,44.7,-85.6,CL30,Bombardier,CL30,Pentastar Aviation,Challenger 300
+ab4b2b,N827DD  ,N827DD,CL30,ground,44.7,-85.6,CL35,Bombardier,EDG,Jet Edge,Challenger 350
+a6e570,N5430G  ,N5430G,GLF5,ground,44.8,-68.8,G550,Gulfstream Aerospace,G550,GMDAir Corp,G550
+a42dee,N369CA  ,N369CA,FA7X,ground,44.8,-68.8,FA7X,Dassault,PRD,Presidential Aviation,Falcon 7X
+a79bba,N59GX   ,N59GX,GLEX,ground,44.8,-0.7,GLEX,Bombardier,PVA,Planet Nine Private Air,Global Express
+a0ca4b,N150BC  ,N150BC,FA7X,ground,44.9,-123.0,FA7X,Dassault,FA7X,BRC Transit LLC,Falcon 7X
+a7743f,JAS182  ,N58HA,CL30,ground,44.9,-93.2,CL30,Bombardier,JAS,Jet Aviation Flight Services,Challenger 300
+a56d31,N449MT  ,N449MT,GLF6,ground,44.9,-93.2,G650,Gulfstream Aerospace,G650,Medtronic PLC,G650 ER
+ad690d,N963U   ,N963U,F900,ground,44.9,-93.2,F9LX,Dassault,F9LX,N963U LLC,Falcon 900LX
+ac5bb9,DOW896  ,N896BB,CL30,ground,44.9,-93.1,CL30,Bombardier,DOW,Best Jets International,Challenger 300
+a5cc86,N473CW  ,N473CW,GLF4,ground,44.9,-93.1,GLF4,Gulfstream Aerospace,GLF4,Pentastar Aviation,GIV SP
+a00037,EJM19   ,N1CC,GLF5,ground,44.9,-93.1,G550,Gulfstream Aerospace,EJM,Executive Jet Management,G550
+a6d5c6,N54CA   ,N54CA,CL30,ground,44.9,-93.1,CL35,Bombardier,CL35,Captive-Aire Systems Inc,Challenger 350
+ac2ccc,DOW884  ,N884BB,F900,ground,44.9,-93.1,F900,Dassault,DOW,Best Jets International,Falcon 900
+a29af3,N267WA  ,N267WA,GLF5,ground,44.9,-93.1,GLF5,Gulfstream Aerospace,DOW,Best Jets International,GV
+4d21a5,9HSFK   ,9H-SFK,FA7X,ground,44.9,5.0,FA7X,Dassault,KFE,Skyfirst Ltd,Falcon 7X
+a6a0d4,N526SM  ,N526SM,FA50,ground,45.2,-122.8,FA50,Dassault,FA50,Falcon 50 N526SM LLC,Falcon 50
+3006f2,IGBMP   ,I-GBMP,GLF5,ground,45.4,9.3,G550,Gulfstream Aerospace,AFQ,Alba Servizi Aerotrasporti SpA,G550
+3929cc,DSF01MO ,F-GKOM,F900,ground,45.4,9.3,F900,Dassault,DSF,DFS France,Falcon 900 B
+4d0209,SVW44LF ,LX-DLF,GLF6,ground,45.4,9.3,G650,Gulfstream Aerospace,SVW,Global Jet Luxembourg SA,G650
+ad3152,EJM949  ,N94924,GLF5,ground,45.4,9.3,G550,Gulfstream Aerospace,EJM,Executive Jet Management,G550
+39a529,FHJJJ   ,F-HJJJ,F900,ground,45.4,9.3,F9LX,Dassault,F9LX,JCDecaux Group,Falcon 900LX
+3004c7,SIO512  ,I-ADVD,GLF5,ground,45.4,9.3,G550,Gulfstream Aerospace,SIO,Sirio Fly SpA,G550
+a25785,N250AG  ,N250AG,CL30,ground,45.5,-73.7,CL35,Bombardier,CL35,Business Jet Access,Challenger 350
+c03d0c,CFXDB   ,C-FXDB,GLEX,ground,45.5,-73.7,GL6T,Bombardier,KNT,Flightpath Charter Airways,Global 6000
+c00d6c,CFFCD   ,C-FFCD,GL5T,ground,45.5,-73.7,GL5T,Bombardier,EXA,Execaire Inc,Global 5000
+c04e20,CGDPF   ,C-GDPF,GLEX,ground,45.5,-73.7,GLEX,Bombardier,EXA,Execaire Inc,Global Express XRS
+c0460c,PSC359  ,C-GANR,GLEX,ground,45.5,-73.7,SF34,Saab,PSC,Pascan Aviation,340 B
+c0460c,PSC360  ,C-GANR,GLEX,ground,45.5,-73.7,SF34,Saab,PSC,Pascan Aviation,340 B
+a65054,N506BA  ,N506BA,FA7X,ground,45.5,-73.4,FA7X,Dassault,XFL,Executive Fliteways,Falcon 7X
+3006f2,IGBMP   ,I-GBMP,GLF5,ground,45.5,9.3,G550,Gulfstream Aerospace,AFQ,Alba Servizi Aerotrasporti SpA,G550
+3929cc,DSF01MO ,F-GKOM,F900,ground,45.5,9.3,F900,Dassault,DSF,DFS France,Falcon 900 B
+39a529,FHJJJ   ,F-HJJJ,F900,ground,45.5,9.3,F9LX,Dassault,F9LX,JCDecaux Group,Falcon 900LX
+4d2136,ULC66   ,9H-FCA,GLEX,ground,45.5,12.3,GL6T,Bombardier,ULC,Albinati Aviation Ltd,Global 6000
+adde93,EJM106  ,N993JC,E35L,ground,45.6,-122.6,E35L,Embraer,EJM,Executive Jet Management,Legacy 600
+a1d807,EDG436  ,N218JE,GLF4,ground,45.6,-122.6,GLF4,Gulfstream Aerospace,EDG,Jet Edge,GIV SP
+a690ef,LXJ522  ,N522FX,CL30,ground,45.6,-122.6,CL30,Bombardier,LXJ,Flexjet,Challenger 300
+a7767b,LXJ580  ,N580FX,CL30,ground,45.6,-122.6,CL35,Bombardier,LXJ,Flexjet,Challenger 350
+a6a0d4,N526SM  ,N526SM,FA50,ground,45.6,-122.6,FA50,Dassault,FA50,Falcon 50 N526SM LLC,Falcon 50
+aa3103,N756HA  ,N756HA,CL30,ground,45.6,-122.6,CL35,Bombardier,CL35,Hamilton Aviation Inc,Challenger 350
+4d2155,VJT993  ,9H-VTD,GLEX,ground,45.6,8.7,GL6T,Bombardier,VJT,VistaJet,Global 6000
+ac9576,N91MS   ,N91MS,F900,ground,45.8,-111.2,F900,Dassault,F900,Labbe LLC,Falcon 900
+424b2a,MNINE   ,M-NINE,F900,ground,46.0,8.9,F9LX,Dassault,F9LX,Premier Aircraft Leasing Limited,Falcon 900LX
+4d2148,ULC34   ,9H-FCB,FA7X,ground,46.2,6.1,FA7X,Dassault,ULC,Albinati Aviation Ltd,Falcon 7X
+43ea70,MINTY   ,M-INTY,G280,ground,46.2,6.1,G280,Gulfstream Aerospace,G280,Hampshire Aviation Ltd,G280
+a40da9,N360PZ  ,N360PZ,FA7X,ground,46.2,6.1,FA7X,Dassault,FA7X,City Electric Supply Company,Falcon 7X
+4d212d,VJT938  ,9H-VJT,GLEX,ground,46.2,6.1,GL6T,Bombardier,VJT,VistaJet,Global 6000
+3c10aa,AHO848M ,D-AVIB,E35L,ground,46.2,6.1,E35L,Embraer,AHO,Air Hamburg GmbH,Legacy 600
+06a1cd,QQE741  ,A7-CGH,GLF6,ground,46.2,6.1,G650,Gulfstream Aerospace,QQE,Qatar Executive,G650 ER
+06a1cd,        ,A7-CGH,GLF6,ground,46.2,6.1,G650,Gulfstream Aerospace,QQE,Qatar Executive,G650 ER
+06a1cb,QQE201  ,A7-CGF,GLF6,ground,46.2,6.1,G650,Gulfstream Aerospace,QQE,Qatar Executive,G650 ER
+4247c5,VPCLH   ,VP-CLH,GLF6,ground,46.2,6.1,G650,Gulfstream Aerospace,G650,Jet Aviation Business Jets (HK) Ltd,G650 ER
+4d21de,9HJLK   ,9H-JLK,FA7X,ground,46.2,6.1,FA7X,Dassault,TEU,TAG Aviation Malta Ltd,Falcon 7X
+4b8642,TCARB   ,TC-ARB,CL30,ground,46.2,6.1,CL30,Bombardier,CL30,Arkasair Havacilik,Challenger 300
+a6eab1,N545C   ,N545C,G280,ground,46.2,6.1,G280,Gulfstream Aerospace,G280,Cutrale North America Inc,G280
+c05220,ROU1799 ,C-GFCP,GLF4,ground,46.8,-71.4,A320,Airbus,ROU,Air Canada Rouge,A320 214
+c0460c,PSC359  ,C-GANR,GLEX,ground,46.8,-71.4,SF34,Saab,PSC,Pascan Aviation,340 B
+4d0212,SVW36CC ,LX-ICE,GLF6,ground,46.8,23.7,G650,Gulfstream Aerospace,SVW,Global Jet Luxembourg SA,G650 ER
+4068e9,LNX07CY ,G-SPCY,E35L,ground,47.3,11.3,,---,,---,---
+4247c5,VPCLH   ,VP-CLH,GLF6,ground,47.4,8.6,G650,Gulfstream Aerospace,G650,Jet Aviation Business Jets (HK) Ltd,G650 ER
+424b04,MAGMA   ,M-AGMA,GLEX,ground,47.4,8.6,GLEX,Bombardier,GLEX,Magma Jets Management Ltd,Global Express XRS
+407cf6,LNX25FM ,G-IFMI,GL5T,ground,47.4,19.2,GL6T,Bombardier,LNX,Luxaviation UK,Global 6500
+aa2de2,N755PA  ,N755PA,G280,ground,47.5,-122.3,G280,Gulfstream Aerospace,G280,MJL Air Partners LLC,G280
+aa9963,EJA782  ,N782QS,CL30,ground,47.5,-122.3,CL35,Bombardier,EJA,NetJets,Challenger 350
+a810d7,N619GV  ,N619GV,GLF5,ground,47.5,-122.3,GLF5,Gulfstream Aerospace,GLF5,Trans-Exec Air Service Inc,GV
+aaafad,EJA788  ,N788QS,CL30,ground,47.5,-122.3,CL35,Bombardier,EJA,NetJets,Challenger 350
+a88cec,JCY650  ,N650C,GLF6,ground,47.5,-122.3,G650,Gulfstream Aerospace,JCY,Aerius Management,G650 ER
+aa882e,EJA778  ,N778QS,CL30,ground,47.5,-122.3,CL35,Bombardier,EJA,NetJets,Challenger 350
+a82ec6,EJM626  ,N626Z,FA7X,ground,47.5,-122.3,FA7X,Dassault,EJM,Executive Jet Management,Falcon 7X
+a0b6b2,EJA145  ,N145QS,GLEX,ground,47.5,-122.3,GL6T,Bombardier,EJA,NetJets,Global 6000
+a07fda,JCY131  ,N131KS,CL30,ground,47.5,-122.3,CL30,Bombardier,CL30,Springbok LLC,Challenger 300
+a043ec,EJA116  ,N116QS,GL5T,ground,47.5,-122.3,GL5T,Bombardier,EJA,NetJets,Global 5000
+a3d7e4,N347FZ  ,N347FZ,CL30,ground,47.5,-122.3,CL35,Bombardier,CLY,Clay Lacy Aviation Inc,Challenger 350
+a42ec0,N369LL  ,N369LL,CL30,ground,47.5,-122.3,CL35,Bombardier,CL35,Latitude 33 Aviation,Challenger 350
+a105b0,EJA165  ,N165QS,GLEX,ground,47.5,-122.3,GL6T,Bombardier,EJA,NetJets,Global 6000
+a105b0,N165QS  ,N165QS,GLEX,ground,47.5,-122.3,GL6T,Bombardier,EJA,NetJets,Global 6000
+a2ce30,N280CC  ,N280CC,G280,ground,47.5,-122.3,G280,Gulfstream Aerospace,G280,Corporate,G280
+aa5de3,N7670B  ,N7670B,CL30,ground,47.5,-122.3,CL30,Bombardier,CL30,OB Air LLC,Challenger 300
+3c68b4,AHO666F ,D-AJET,E35L,ground,47.5,8.6,E35L,Embraer,AHO,Air Hamburg GmbH,Legacy 650 E
+4247c5,VPCLH   ,VP-CLH,GLF6,ground,47.5,8.6,G650,Gulfstream Aerospace,G650,Jet Aviation Business Jets (HK) Ltd,G650 ER
+424b04,MAGMA   ,M-AGMA,GLEX,ground,47.5,8.6,GLEX,Bombardier,GLEX,Magma Jets Management Ltd,Global Express XRS
+440be6,IJM925  ,OE-LCD,GLEX,ground,47.5,8.6,GLEX,Bombardier,IJM,International Jet Management GmbH,Global Express XRS
+4403bd,IJM572  ,OE-IIS,GLF5,ground,47.5,8.6,GLF5,Gulfstream Aerospace,IJM,International Jet Management GmbH,GV
+3c0699,AHO751Q ,D-ARMY,E35L,ground,47.5,8.6,E35L,Embraer,AHO,Air Hamburg GmbH,Legacy 650 E
+424388,VPBAS   ,VP-BAS,FA7X,ground,47.5,8.6,,---,,---,---
+4b1870,HBJGQ   ,HB-JGQ,CL30,ground,47.5,8.6,CL30,Bombardier,PJZ,Premium Jet AG,Challenger 300
+a67bd0,N517DW  ,N517DW,GLF5,ground,47.5,8.6,G550,Gulfstream Aerospace,G550,Colleen Corp,G550
+43ea51,MERCI   ,M-ABCC,GLEX,ground,47.5,8.6,GL6T,Bombardier,GL6T,ABA AG,Global 6000
+502d66,UAG65D  ,YL-DAN,E35L,ground,47.5,8.6,E35L,Embraer,UAG,Union Aviation,Legacy 650
+479aca,MDT9    ,LN-AGR,FA7X,ground,47.5,8.6,FA7X,Dassault,AKK,Aker ASA,Falcon 7X
+44002e,FSE1B   ,OE-HWM,G280,ground,47.5,8.6,G280,Gulfstream Aerospace,FSE,Alpine Flightservice,G280
+06a1ca,QQE228  ,A7-CGE,GLF6,ground,47.6,7.5,G650,Gulfstream Aerospace,QQE,Qatar Executive,G650 ER
+3c624e,HRN512  ,D-AHRN,F900,ground,47.6,7.5,F9EX,Dassault,HRN,Heron Aviation GmbH,Falcon 900EX
+42476c,VPCZB   ,VP-CZB,GLF6,ground,47.6,7.5,G650,Gulfstream Aerospace,PJS,Jet Aviation Business Jets AG,G650
+aaafad,EJA788  ,N788QS,CL30,ground,47.7,-117.3,CL35,Bombardier,EJA,NetJets,Challenger 350
+a2a74c,N270JH  ,N270JH,CL30,ground,47.8,-116.8,CL30,Bombardier,CL30,LCG Aviation LLC,Challenger 300
+44047d,AOJ84K  ,OE-IBK,E35L,ground,48.1,16.5,E35L,Embraer,AOJ,Avcon Jet AG,Legacy 600
+3c61e9,AHO892Y ,D-AHOI,E35L,ground,48.1,16.5,E35L,Embraer,AHO,Air Hamburg GmbH,Legacy 650
+4405aa,LDX7C   ,OE-HPG,CL30,ground,48.1,16.5,CL30,Bombardier,LDX,Sparfell Luftfahrt GmbH,Challenger 300
+4bb961,TCNKA   ,TC-NKA,GLF4,ground,48.1,16.5,G450,Gulfstream Aerospace,G450,Air Enka,G450
+50025b,T7SER   ,T7-SER,GLEX,ground,48.1,16.5,,---,,---,---
+600bc8,ESW002  ,4K-ASG,GLF6,ground,48.1,16.5,G650,Gulfstream Aerospace,ESW,ASG Business Aviation,G650
+44047d,AOJ84K  ,OE-IBK,E35L,ground,48.1,16.6,E35L,Embraer,AOJ,Avcon Jet AG,Legacy 600
+3c61e9,AHO892Y ,D-AHOI,E35L,ground,48.1,16.6,E35L,Embraer,AHO,Air Hamburg GmbH,Legacy 650
+4405aa,LDX7C   ,OE-HPG,CL30,ground,48.1,16.6,CL30,Bombardier,LDX,Sparfell Luftfahrt GmbH,Challenger 300
+4bb961,TCNKA   ,TC-NKA,GLF4,ground,48.1,16.6,G450,Gulfstream Aerospace,G450,Air Enka,G450
+50025b,T7SER   ,T7-SER,GLEX,ground,48.1,16.6,,---,,---,---
+600bc8,ESW002  ,4K-ASG,GLF6,ground,48.1,16.6,G650,Gulfstream Aerospace,ESW,ASG Business Aviation,G650
+49d0e0,ABP752  ,OK-JNT,E35L,ground,48.2,17.2,E35L,Embraer,ABP,ABS Jets,Legacy 600
+49d0e0,ABP753  ,OK-JNT,E35L,ground,48.2,17.2,E35L,Embraer,ABP,ABS Jets,Legacy 600
+3c0c0c,AHO847Y ,D-ATOP,E35L,ground,48.9,2.4,E35L,Embraer,AHO,Air Hamburg GmbH,Legacy 650 E
+39de26,IXR529G ,F-HXRG,GLEX,ground,49.0,2.4,GLEX,Bombardier,IXR,iXAir,Global Express XRS
+a03510,N112QS  ,N112QS,GL5T,ground,49.0,2.4,GL5T,Bombardier,EJA,NetJets,Global 5000
+a249a0,N2467K  ,N2467K,GLF4,ground,49.0,2.4,,---,,---,---
+4d20f7,VJT878  ,9H-VJO,GLEX,ground,49.0,2.4,GL6T,Bombardier,VJT,VistaJet,Global 6000
+4d22d1,ALE75X  ,9H-ANS,GLEX,ground,49.0,2.4,GL6T,Bombardier,ALE,Alliance Executive Jets,Global 6000
+4915a5,LMJ218E ,CS-EME,F900,ground,49.0,2.4,,---,,---,---
+3c5853,AHO771L ,D-AFBS,E35L,ground,49.0,2.4,E35L,Embraer,AHO,Air Hamburg GmbH,Legacy 650
+3929cc,DSF99IS ,F-GKOM,F900,ground,49.0,2.4,F900,Dassault,DSF,DFS France,Falcon 900 B
+3929cc,DSF01MO ,F-GKOM,F900,ground,49.0,2.4,F900,Dassault,DSF,DFS France,Falcon 900 B
+39a529,FHJJJ   ,F-HJJJ,F900,ground,49.0,2.4,F9LX,Dassault,F9LX,JCDecaux Group,Falcon 900LX
+3004c7,SIO512  ,I-ADVD,GLF5,ground,49.0,2.4,G550,Gulfstream Aerospace,SIO,Sirio Fly SpA,G550
+3c0c0c,AHO847Y ,D-ATOP,E35L,ground,49.0,2.4,E35L,Embraer,AHO,Air Hamburg GmbH,Legacy 650 E
+acd5c6,N926PN  ,N926PN,GLEX,ground,49.0,2.4,GLEX,Bombardier,PVA,Planet Nine Private Air,Global Express
+ad43e7,N954E   ,N954E,GLEX,ground,49.0,2.4,,---,,---,---
+4a5243,TOY201  ,YR-TRC,CL30,ground,49.0,2.4,CL30,Bombardier,TOY,Toyo Aviation,Challenger 300
+48d635,JDI20B  ,SP-ZSZ,CL30,ground,49.0,2.4,CL30,Bombardier,JDI,Jet Story,Challenger 300
+407761,LNX10KG ,G-KGKG,E35L,ground,49.0,2.4,,---,,---,---
+491d87,NJE711E ,CS-GLG,GLEX,ground,49.0,2.4,GL6T,Bombardier,NJE,NetJets Europe,Global 6000
+491d87,NJE242T ,CS-GLG,GLEX,ground,49.0,2.4,GL6T,Bombardier,NJE,NetJets Europe,Global 6000
+a6e3b2,N543GL  ,N543GL,GLEX,ground,49.0,2.4,GL6T,Bombardier,GL6T,Skechers USA Inc,Global 6000
+a003f6,N10SL   ,N10SL,GL5T,ground,49.0,2.4,GL5T,Bombardier,SJE,Sun Air Jets LLC,Global 5000
+4d20ac,KFE914  ,9H-III,GLEX,ground,49.0,2.4,GLEX,Bombardier,KFE,Skyfirst Ltd,Global Express
+0200ac,FRV1325 ,CN-MMT,GLF5,ground,49.0,2.4,G550,Gulfstream Aerospace,FRV,Royal Moroccan Air Force,G550
+346603,GES061C ,EC-NOC,GLEX,ground,49.0,2.4,,---,,---,---
+acd5c6,N926PN  ,N926PN,GLEX,ground,49.0,2.5,GLEX,Bombardier,PVA,Planet Nine Private Air,Global Express
+4075d3,GSPTX   ,G-SPTX,FA7X,ground,49.2,-123.2,FA7X,Dassault,JCO,Concierge U Ltd,Falcon 7X
+c02072,CFMHL   ,C-FMHL,GLEX,ground,49.2,-123.2,GL7T,Bombardier,GL7T,Bombardier Inc,Global 7500
+c05df9,CGJPG   ,C-GJPG,F900,ground,49.2,-123.2,F9EX,Dassault,F9EX,Pattison Airways,Falcon 900EX EASy
+a0f3a5,N160WC  ,N160WC,CL30,ground,49.2,-123.2,CL30,Bombardier,CL30,Washington Corp,Challenger 300
+491d99,NJE928L ,CS-GLY,GL5T,ground,49.5,11.1,GL5T,Bombardier,NJE,NetJets Europe,Global 5000
+c06ce6,TEST123 ,C-GPGF,CL30,ground,49.9,-97.2,CL30,Bombardier,CNK,Sunwest Aviation,Challenger 300
+43eafa,MSURE   ,M-SURE,FA7X,ground,50.0,8.6,FA7X,Dassault,FA7X,Arirang Aviation IOM Limited,Falcon 7X
+3c1c82,AHO733D ,D-AZUR,E35L,ground,50.0,8.6,E35L,Embraer,AHO,Air Hamburg GmbH,Legacy 650
+8014a0,VTNAD   ,VT-NAD,GLEX,ground,50.1,14.3,GL6T,Bombardier,GL6T,Poonawalla Aviation P/L,Global 6500
+49d0c6,ABP711  ,OK-SLN,E35L,ground,50.1,14.3,E35L,Embraer,ABP,ABS Jets,Legacy 600
+49d0c6,ABP712  ,OK-SLN,E35L,ground,50.1,14.3,E35L,Embraer,ABP,ABS Jets,Legacy 600
+4d2093,AXY224G ,9H-JPC,E35L,ground,50.1,14.3,E35L,Embraer,AXY,Air X Charter,Legacy 600
+49d44f,ABP611  ,OK-FLN,FA7X,ground,50.1,14.3,FA7X,Dassault,ABP,ABS Jets,Falcon 7X
+4d2156,9HAVA   ,9H-AVA,GL5T,ground,50.2,12.9,GL5T,Bombardier,HYP,Hyperion Aviation,Global 5000
+a3769f,EJM322  ,N322K,GLF5,ground,50.6,5.4,G550,Gulfstream Aerospace,EJM,Executive Jet Management,G550
+3f4e27,GAF614  ,14+02,GL5T,ground,50.9,7.1,GL5T,Bombardier,GAF,German Air Force,Global 5000
+3ebd41,GAF625  ,14+06,GLEX,ground,50.9,7.1,GL6T,Bombardier,GAF,German Air Force,Global 6000
+aaafad,EJA788  ,N788QS,CL30,ground,51.1,-114.0,CL35,Bombardier,EJA,NetJets,Challenger 350
+c07525,00HRT433,C-GSJK,CL30,ground,51.1,-114.0,CL30,Bombardier,HRT,Chartright Air,Challenger 300
+c02d99,CFRGY   ,C-FRGY,CL30,ground,51.1,-114.0,CL30,Bombardier,CL30,Flight North Holdings Corp,Challenger 300
+4d211b,VJT929  ,9H-VJS,GLEX,ground,51.2,-0.2,GL6T,Bombardier,VJT,VistaJet,Global 6000
+06a1d1,QQE500  ,A7-CGM,GLF6,ground,51.3,-0.8,G650,Gulfstream Aerospace,QQE,Qatar Executive,G650 ER
+0d0d9f,XASBT   ,XA-SBT,GLF4,ground,51.3,-0.8,GLF4,Gulfstream Aerospace,GLF4,Heli Ejecutivo SA de CV,GIV
+407c02,GMA040B ,G-VTLY,GLEX,ground,51.3,-0.8,GL6T,Bombardier,VXS,Voluxis Ltd,Global 6000
+acc5cc,N922CB  ,N922CB,GLF4,ground,51.3,-0.8,G450,Gulfstream Aerospace,G450,Axella 2 LLC,G450
+a03510,N112QS  ,N112QS,GL5T,ground,51.3,-0.8,GL5T,Bombardier,EJA,NetJets,Global 5000
+3c5853,AHO766J ,D-AFBS,E35L,ground,51.3,-0.8,E35L,Embraer,AHO,Air Hamburg GmbH,Legacy 650
+424bc5,MDUBS   ,M-DUBS,FA7X,ground,51.3,-0.8,FA7X,Dassault,FA7X,6D Aviation Operating Ltd,Falcon 7X
+3c10aa,AHO848M ,D-AVIB,E35L,ground,51.3,-0.8,E35L,Embraer,AHO,Air Hamburg GmbH,Legacy 600
+440be6,IJM925  ,OE-LCD,GLEX,ground,51.3,-0.8,GLEX,Bombardier,IJM,International Jet Management GmbH,Global Express XRS
+4a5243,TOY202  ,YR-TRC,CL30,ground,51.3,-0.8,CL30,Bombardier,TOY,Toyo Aviation,Challenger 300
+50020e,EJO7    ,T7-ARES,GLEX,ground,51.3,-0.8,GL6T,Bombardier,GL6T,Jet Aviation Business Jets FZCO,Global 6000
+43e8b1,MCELT   ,M-CELT,FA7X,ground,51.3,-0.8,FA7X,Dassault,JCO,Concierge U Ltd,Falcon 7X
+a23100,N240LG  ,N240LG,F900,ground,51.3,-0.8,F9EX,Dassault,F9EX,UIM Aircraft LLC,Falcon 900EX
+47847f,MDT4    ,LN-AOC,G280,ground,51.3,-0.8,G280,Gulfstream Aerospace,MDT,Sundt Air A/S,G280
+405ef2,UKA2000 ,G-LIST,E35L,ground,51.3,-0.8,E35L,Embraer,UKA,Aero Flight Ops UK Ltd,Legacy 600
+405ef2,UKA2900 ,G-LIST,E35L,ground,51.3,-0.8,E35L,Embraer,UKA,Aero Flight Ops UK Ltd,Legacy 600
+46ad61,MTO777  ,SX-KKA,E35L,ground,51.3,-0.8,E35L,Embraer,MTO,Marathon Airlines,Legacy 600
+ab9dad,N848BC  ,N848BC,FA7X,ground,51.3,-0.8,FA7X,Dassault,FA7X,Stonebriar Commercial Finance LLC,Falcon 7X
+a980cf,N711LS  ,N711LS,GLEX,ground,51.3,-0.8,GL6T,Bombardier,GL6T,The Whitewind Company,Global 6000
+7101f2,HZARK   ,HZ-ARK,GLF5,ground,51.3,-0.8,G550,Gulfstream Aerospace,G550,International Jet Club,G550
+89652f,DUB11   ,A6-HHH,GLF6,ground,51.3,-0.8,G650,Gulfstream Aerospace,DUB,Dubai Air Wing,G650
+4d2132,VJT968  ,9H-VJW,GLEX,ground,51.3,-0.8,GL6T,Bombardier,VJT,VistaJet,Global 6000
+3c5aae,AHO835R ,D-AFUN,E35L,ground,51.3,-0.8,E35L,Embraer,AHO,Air Hamburg GmbH,Legacy 650
+491d8a,NJE9UQ  ,CS-GLJ,GLEX,ground,51.3,0.0,GL6T,Bombardier,NJE,NetJets Europe,Global 6500
+3c135a,AHO779G ,D-AWIN,E35L,ground,51.3,0.0,E35L,Embraer,AHO,Air Hamburg GmbH,Legacy 650 E
+49d4c9,TIE430M ,OK-RPM,CL30,ground,51.3,0.0,CL30,Bombardier,TIE,Time Air,Challenger 300
+a6e3b2,N543GL  ,N543GL,GLEX,ground,51.3,0.0,GL6T,Bombardier,GL6T,Skechers USA Inc,Global 6000
+a003f6,N10SL   ,N10SL,GL5T,ground,51.3,0.0,GL5T,Bombardier,SJE,Sun Air Jets LLC,Global 5000
+491d81,NJE344D ,CS-GLA,GLEX,ground,51.3,0.0,GL6T,Bombardier,NJE,NetJets Europe,Global 6000
+43eb77,2TRAV   ,2-TRAV,GLF5,ground,51.3,0.0,,---,,---,---
+3c7b01,AHO818Q ,D-ANXA,E35L,ground,51.3,0.0,E35L,Embraer,AHO,Air Hamburg GmbH,Legacy 650
+424b68,MPORT   ,M-PORT,GL5T,ground,51.3,0.0,GL5T,Bombardier,GL5T,Flight Assist NW Ltd,Global 5000
+491d89,NJE282P ,CS-GLI,GLEX,ground,51.3,0.0,GL6T,Bombardier,NJE,NetJets Europe,Global 6500
+a03bc1,N114HC  ,N114HC,FA50,ground,51.3,0.0,F5EX,Dassault,F5EX,Harsco Corp,Falcon 50EX
+a5ecfa,N481GV  ,N481GV,GLF5,ground,51.3,0.0,GLF5,Gulfstream Aerospace,GLF5,Bollinger Enterprises LLC,GV
+4405b2,LDX15   ,OE-HDU,CL30,ground,51.3,0.0,CL30,Bombardier,LDX,Sparfell Luftfahrt GmbH,Challenger 300
+c04301,NOJ91   ,C-FZJS,F900,ground,51.3,0.0,F9DX,Dassault,NOJ,Novajet,Falcon 900DX
+424b2a,MNINE   ,M-NINE,F900,ground,51.3,6.8,F9LX,Dassault,F9LX,Premier Aircraft Leasing Limited,Falcon 900LX
+3ebd41,GAF625  ,14+06,GLEX,ground,51.3,6.8,GL6T,Bombardier,GAF,German Air Force,Global 6000
+485fd1,FYG721  ,PH-BEJ,GL5T,ground,51.4,5.4,GL5T,Bombardier,FYG,Flying Service NV,Global 5000
+49d0c6,ABP711  ,OK-SLN,E35L,ground,51.5,0.0,E35L,Embraer,ABP,ABS Jets,Legacy 600
+49d0c6,ABP712  ,OK-SLN,E35L,ground,51.5,0.0,E35L,Embraer,ABP,ABS Jets,Legacy 600
+49d44f,ABP611  ,OK-FLN,FA7X,ground,51.5,0.0,FA7X,Dassault,ABP,ABS Jets,Falcon 7X
+49d0c6,ABP712  ,OK-SLN,E35L,ground,51.5,0.1,E35L,Embraer,ABP,ABS Jets,Legacy 600
+485fd1,FYG62BM ,PH-BEJ,GL5T,ground,51.5,5.4,GL5T,Bombardier,FYG,Flying Service NV,Global 5000
+485fd1,FYG721  ,PH-BEJ,GL5T,ground,51.5,5.4,GL5T,Bombardier,FYG,Flying Service NV,Global 5000
+485f59,PHJRC   ,PH-JRC,E35L,ground,51.5,5.4,E35L,Embraer,JNL,Jet Netherlands BV,Legacy 600
+ac15a1,N878SC  ,N878SC,GLEX,ground,51.9,-0.4,GL6T,Bombardier,GL6T,The Whitewind Company,Global 6000
+3c4cb6,IFA561  ,D-ACEV,GLEX,ground,51.9,-0.4,GLEX,Bombardier,IFA,FAI Rent-a-Jet AG,Global Express
+4077c4,LNX12MO ,G-FOMO,GLEX,ground,51.9,-0.4,GL6T,Bombardier,LNX,Luxaviation UK,Global 6000
+4844a4,P4888   ,P4-888,E35L,ground,51.9,-0.4,,---,,---,---
+600806,AHY5506 ,4K-AI06,GLF5,ground,51.9,-0.4,,---,,---,---
+a6e570,N5430G  ,N5430G,GLF5,ground,51.9,-0.4,G550,Gulfstream Aerospace,G550,GMDAir Corp,G550
+a0007f,N1F     ,N1F,GLF6,ground,51.9,-0.4,G650,Gulfstream Aerospace,HRS,Friedkin International,G650
+a6eab1,N545C   ,N545C,G280,ground,51.9,-0.4,G280,Gulfstream Aerospace,G280,Cutrale North America Inc,G280
+4068e9,LNX07CY ,G-SPCY,E35L,ground,51.9,-0.4,,---,,---,---
+44002e,FSE1B   ,OE-HWM,G280,ground,51.9,-0.4,G280,Gulfstream Aerospace,FSE,Alpine Flightservice,G280
+4d2093,AXY224G ,9H-JPC,E35L,ground,51.9,-0.4,E35L,Embraer,AXY,Air X Charter,Legacy 600
+a980cf,N711LS  ,N711LS,GLEX,ground,51.9,-0.4,GL6T,Bombardier,GL6T,The Whitewind Company,Global 6000
+440393,        ,OE-LTF,GLF6,ground,51.9,-0.4,,---,,---,---
+a788db,N585DW  ,N585DW,GLF5,ground,51.9,-0.4,G550,Gulfstream Aerospace,G550,Colleen Corp,G550
+4d02a0,LXA26B  ,LX-TRO,E35L,ground,51.9,-0.4,E35L,Embraer,LXA,Luxaviation SA,Legacy 650
+40723e,PDY60B  ,G-ULFM,GLF4,ground,51.9,-0.4,G450,Gulfstream Aerospace,PDY,Pendley Aviation LLP,G450
+4d20d6,VJT827  ,9H-VJJ,GLEX,ground,51.9,0.2,GL6T,Bombardier,VJT,VistaJet,Global 6000
+a43f8d,N373GG  ,N373GG,GL5T,ground,51.9,0.2,GL5T,Bombardier,GL5T,Artoc Group For Investment And Development,Global 5000
+4d2132,VJT968  ,9H-VJW,GLEX,ground,51.9,0.2,GL6T,Bombardier,VJT,VistaJet,Global 6000
+a704c7,N551SW  ,N551SW,GLEX,ground,51.9,0.2,GLEX,Bombardier,PVA,Planet Nine Private Air,Global Express
+406b7e,EDC349  ,G-SUGR,E35L,ground,51.9,0.2,E35L,Embraer,EDC,Air Charter Scotland,Legacy 650
+add353,N990HA  ,N990HA,FA7X,ground,51.9,0.2,FA7X,Dassault,CLY,Clay Lacy Aviation Inc,Falcon 7X
+aa463e,N761LE  ,N761LE,GLF6,ground,51.9,0.2,G650,Gulfstream Aerospace,G650,Polaris Aviation Solutions,G650
+a704c7,N551SW  ,N551SW,GLEX,ground,51.9,0.3,GLEX,Bombardier,PVA,Planet Nine Private Air,Global Express
+485e32,XRO300  ,PH-GWS,FA7X,ground,52.0,4.4,,---,,---,---
+485e32,XRO300  ,PH-GWS,FA7X,ground,52.0,4.5,,---,,---,---
+48d961,PLF101  ,0002,GLF5,ground,52.2,21.0,G550,Gulfstream Aerospace,PLF,Polish Air Force,G550
+484d02,XRO172  ,PH-AJX,FA7X,ground,52.3,4.8,FA7X,Dassault,XRO,Exxaero,Falcon 7X
+4d21de,9HJLK   ,9H-JLK,FA7X,ground,52.3,4.8,FA7X,Dassault,TEU,TAG Aviation Malta Ltd,Falcon 7X
+ad43e7,N954E   ,N954E,GLEX,ground,52.3,4.8,,---,,---,---
+484fa9,XRO317  ,PH-EBR,F900,ground,52.3,4.8,F900,Dassault,XRO,Exxaero,Falcon 900
+3c0699,AHO751Q ,D-ARMY,E35L,ground,52.4,13.5,E35L,Embraer,AHO,Air Hamburg GmbH,Legacy 650 E
+3f4e27,GAF614  ,14+02,GL5T,ground,52.4,13.5,GL5T,Bombardier,GAF,German Air Force,Global 5000
+3ebd41,GAF625  ,14+06,GLEX,ground,52.4,13.5,GL6T,Bombardier,GAF,German Air Force,Global 6000
+491d82,NJE496Q ,CS-GLB,GLEX,ground,52.4,13.5,GL6T,Bombardier,NJE,NetJets Europe,Global 6000
+800b60,VTSDK   ,VT-SDK,GLEX,ground,52.4,13.5,GLEX,Bombardier,GLEX,Bharat Forge Ltd,Global Express XRS
+48d961,PLF101  ,0002,GLF5,ground,52.4,16.8,G550,Gulfstream Aerospace,PLF,Polish Air Force,G550
+48412b,BFY674R ,P4-BFY,GLF5,ground,52.7,-8.9,G550,Gulfstream Aerospace,BFY,Bestfly Aruba,G550
+a58cb0,LXJ457  ,N457FX,GLF4,ground,53.4,-6.3,G450,Gulfstream Aerospace,LXJ,Flexjet,G450
+3c450f,AHO712M ,D-AAHO,E35L,ground,53.4,-6.3,E35L,Embraer,AHO,Air Hamburg GmbH,Legacy 650
+44002e,FSE1B   ,OE-HWM,G280,ground,53.4,-6.3,G280,Gulfstream Aerospace,FSE,Alpine Flightservice,G280
+acd5c6,N926PN  ,N926PN,GLEX,ground,53.4,-6.3,GLEX,Bombardier,PVA,Planet Nine Private Air,Global Express
+491d87,NJE711E ,CS-GLG,GLEX,ground,53.4,-6.3,GL6T,Bombardier,NJE,NetJets Europe,Global 6000
+491d87,NJE242T ,CS-GLG,GLEX,ground,53.4,-6.3,GL6T,Bombardier,NJE,NetJets Europe,Global 6000
+c02072,CFMHL   ,C-FMHL,GLEX,ground,53.4,-6.3,GL7T,Bombardier,GL7T,Bombardier Inc,Global 7500
+43e8b1,MCELT   ,M-CELT,FA7X,ground,53.4,-6.3,FA7X,Dassault,JCO,Concierge U Ltd,Falcon 7X
+3c450f,AHO712M ,D-AAHO,E35L,ground,53.4,-6.2,E35L,Embraer,AHO,Air Hamburg GmbH,Legacy 650
+44002e,FSE1B   ,OE-HWM,G280,ground,53.4,-6.2,G280,Gulfstream Aerospace,FSE,Alpine Flightservice,G280
+acd5c6,N926PN  ,N926PN,GLEX,ground,53.4,-6.2,GLEX,Bombardier,PVA,Planet Nine Private Air,Global Express
+a34884,N310TK  ,N310TK,CL30,ground,53.4,-6.2,CL30,Bombardier,CL30,Alltech Inc,Challenger 300
+500127,LSM97   ,T7-CMD,F900,ground,53.6,10.0,,---,,---,---
+43eb77,2TRAV   ,2-TRAV,GLF5,ground,53.9,-8.8,,---,,---,---
+405ef2,UKA2000 ,G-LIST,E35L,ground,55.5,-4.6,E35L,Embraer,UKA,Aero Flight Ops UK Ltd,Legacy 600
+405ef2,UKA2900 ,G-LIST,E35L,ground,55.5,-4.6,E35L,Embraer,UKA,Aero Flight Ops UK Ltd,Legacy 600
+a67bd0,N517DW  ,N517DW,GLF5,ground,55.6,12.6,G550,Gulfstream Aerospace,G550,Colleen Corp,G550
+150640,RSJ9615 ,RA-67136,GL5T,ground,55.6,37.3,,---,,---,---
+43e8b1,MCELT   ,M-CELT,FA7X,ground,55.9,-4.4,FA7X,Dassault,JCO,Concierge U Ltd,Falcon 7X
+406b7e,EDC349  ,G-SUGR,E35L,ground,55.9,-4.4,E35L,Embraer,EDC,Air Charter Scotland,Legacy 650
+a32852,N302SB  ,N302SB,GLF5,ground,55.9,-4.4,G550,Gulfstream Aerospace,G550,Schell Brothers II LLC,G550
+14232d,TIS1052 ,RA-09005,FA7X,ground,56.0,37.4,FA7X,Dassault,TIS,Aviatis,Falcon 7X
+142332,TIS1102 ,RA-09010,FA7X,ground,56.0,37.4,,---,,---,---
+a17907,N194WM  ,N194WM,GLF6,ground,59.4,17.9,G650,Gulfstream Aerospace,G650,Challenger Administration LLC,G650 ER
+4a914c,JET2    ,SE-DJL,FA7X,ground,59.4,17.9,FA7X,Dassault,JET,Industriflyg,Falcon 7X
+4241af,VPCPY   ,VP-CPY,GLF5,ground,61.2,-150.0,G550,Gulfstream Aerospace,G550,Jet Aviation Business Jets (HK) Ltd,G550

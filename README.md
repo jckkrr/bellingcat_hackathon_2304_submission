@@ -9,11 +9,7 @@ https://github.com/jckkrr
 Group name: Jackmaster
 
 ## Tool Description
-A tool to monitor the movements of business jets around the world.
-
-Unfiltered crowd-sourced flight-tracking service ADS-B Exchange offer an excellent view of air traffice movements. But finding out who is on board is another matter.
-
-This tool provides one solution to that: by showing which of these jets arrived or departed from the same location on the same day, it may be possible to work out who met who.
+Unfiltered crowd-sourced flight-tracking service ADS-B Exchange offer an excellent view of air traffic movements. But finding out who is on board is another matter. This tool provides one solution to that: by showing which of these jets arrived or departed from the same location on the same day, it may be possible to work out who met who.
 
 Development notes: 
 - Data source from ADS-B Exchange. 

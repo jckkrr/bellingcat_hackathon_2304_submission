@@ -158,8 +158,8 @@ chosen_coords = st.selectbox(
     'Choose coordinates',
     unqiue_coords)
 
-#display_location = getDisplayLocation(chosen_coords)
-#st.write(display_location)
+display_location = getDisplayLocation(chosen_coords)
+st.write(display_location)
 
 display_df_coords = display_df.loc[(display_df['lat_rnd'] == chosen_coords[0]) & (display_df['lon_rnd'] == chosen_coords[1])]
 
